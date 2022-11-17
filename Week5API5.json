@@ -1,0 +1,26 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Economically inactive: total by country of birth (16-64): EU (EU27) born: %",
+      "subtitle":["Not in full-time education: UK: All: SA: Source ONS"],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+    "data": {
+      "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/ONS_data_JJR5.json",
+      "format": {"type": "json", "property": "years"}
+    },
+    "mark": {"type": "line", "color": "darkblue"},
+   "height": 180,
+    "width": 200,
+    "encoding": {
+      "x": {"field": "date", "type": "temporal", "title": ""},
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Economically Inactive (%)"
+      }
+    },
+    "config": {}
+  }

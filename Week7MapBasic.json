@@ -1,0 +1,32 @@
+
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  
+    "width": 580,
+    "height": 500,
+    
+    "data" : {
+      "url" : "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/custom.geo.json",
+      "format": {
+        "property": "features"}},
+  
+        "projection": {
+          "type": "mercator"
+        },
+  
+        "mark":{
+          "type": "geoshape",
+          "fill": "darkblue",
+          "stroke": "whitesmoke",
+          "strokeWidth": 0.5
+        },
+  
+  
+      "encoding": {
+        "tooltip": {
+          "field": "properties.name_en", "type": "nominal"
+        }
+      }
+      
+  
+  }
