@@ -14,11 +14,11 @@
  "height": 300,
   "width": 300,
   "encoding": {
-    "x": {"field": "value", "type": "quantitative", "title": "POINTS"},
+    "x": {"field": "POINTS", "type": "quantitative", "title": "Points"},
     "y": {
-      "field": "value",
+      "field": "AGE",
       "type": "quantitative",
-      "title": "AGE"
+      "title": "Age"
     }
   },
   "config": {}

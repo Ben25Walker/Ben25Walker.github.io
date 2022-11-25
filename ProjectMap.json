@@ -1,0 +1,46 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width": 700,
+  "height": 550,
+
+  "title": {
+    "text": "Access to Electricity (% of population)",
+    "fontSize": 12,
+    "subtitle":["Source: World Bank"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10, "anchor": "middle"
+    },
+  
+  "data" : {
+    "url" : "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/custom.geo%20(1).json",
+    "format": {
+      "property": "features"}},
+
+ "transform": [{
+  "lookup": "properties.name_en",
+  "from": {
+    "key": "Country Name",
+    "fields": ["Access to Electricity (% of population)"],
+    "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/AccessElectricity.csv"}}}],
+
+
+  "projection": {"type": "mercator"}, 
+  "mark": {"type": "geoshape", "stroke": "slategrey"}, 
+
+  "encoding":{
+    "color":{
+      "field":"Access to Electricity (% of population)",
+      "legend":{
+        "title": null,
+        "orient": "right",
+        "direction": "vertical"},
+        "type": "quantitative",
+        "scale":{
+          "range": ["red", "orange", "rgb(203,229,242)"]}},
+    "tooltip":[
+      {"field":"properties.name_en", "title": "Country"},
+      {"field":"Access to Electricity (% of population)", "title": "Access Percentage"}
+    ]
+  }}
