@@ -1,4 +1,4 @@
-,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,Country
+,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,Region
 1,SSF,2020,70.39556885,,,0,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",ZG,Sub-Saharan Africa
 2,SSF,2019,69.80940247,,,0,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",ZG,Sub-Saharan Africa
 3,SSF,2018,69.61573792,,,0,SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",ZG,Sub-Saharan Africa
