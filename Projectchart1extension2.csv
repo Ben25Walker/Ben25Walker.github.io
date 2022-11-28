@@ -1,4 +1,4 @@
-,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,country.value
+,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,Country
 0,SSF,2021,3764,,,0,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2017 international $)",ZG,Sub-Saharan Africa
 1,SSF,2020,3704,,,0,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2017 international $)",ZG,Sub-Saharan Africa
 2,SSF,2019,3874,,,0,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2017 international $)",ZG,Sub-Saharan Africa
