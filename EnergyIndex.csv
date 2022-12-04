@@ -1,4 +1,4 @@
-,Entity,Code,Year,Geo Biomass,Biofuels,Solar,Wind,Hydro Consumption - TWh (zero filled),Nuclear Consumption - TWh (zero filled),Gas Consumption - TWh (zero filled),Coal Consumption - TWh (zero filled),Oil Consumption - TWh (zero filled)
+,Entity,Code,Year,Geo Biomass,Biofuels,Solar,Wind,Hydro,Nuclear,Gas,Coal,Oil
 0,Africa,,1965,0.0,0.0,0.0,0.0,41.11881256,0.0,9.543754578,323.4961243,341.2627563
 1,Africa,,1966,0.0,0.0,0.0,0.0,45.86291504,0.0,10.66991615,323.1221924,369.4865723
 2,Africa,,1967,0.0,0.0,0.0,0.0,47.87553787,0.0,10.54566956,330.2915649,368.1252441
