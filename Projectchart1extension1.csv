@@ -1,4 +1,4 @@
-,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,Country
+,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,country.value
 2,SSF,2019,12.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
 3,SSF,2018,12.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
 4,SSF,2017,13.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa

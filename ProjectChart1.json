@@ -28,13 +28,12 @@
             "mark": {
               "type": "line",
               "align": true,
-              "interpolate": "step",
               "color": "red"
             }
           },
           {
             "transform": [{"filter": {"selection": "hover"}}],
-            "mark": {"type": "circle", "size": 100, "color": "red"}
+            "mark": {"type": "circle", "size": 80, "color": "red"}
           }
         ]
       },

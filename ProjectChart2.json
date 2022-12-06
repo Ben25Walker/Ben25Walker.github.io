@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/Projectchart1extension1.csv",
+    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/Projectchart1extension2.csv",
     "format": {"property": "csv"}
   },
   "title": {
-    "text": "Poverty in different regions",
+    "text": "GDP per Capita in different regions",
     "subtitle": "Source:World Bank",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
@@ -57,7 +57,7 @@
       "legend": {"orient":"right"},
       "title":"Region"},
       "tooltip":[{"field":"Country", "title": "Region"},
-        {"field":"value", "title": "% in Poverty"}
+        {"field":"value", "title": "GDP per Capita"}
       ]
         
 

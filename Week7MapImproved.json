@@ -41,6 +41,6 @@
             "reverse": false}},
       "tooltip":[
         {"field":"properties.name_en", "title": "Country"},
-        {"field":"External_Debt", "title": "Unit consumption:"}
+        {"field":"External_Debt", "title": "Unit consumption"}
       ]
     }}

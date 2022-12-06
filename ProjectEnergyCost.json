@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/EnergyCost.csv"},
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+
+    "transform": [
+      
+      {"calculate": "year(datum.Year)", "as": "year"},
+      {"filter": "datum.year>=minYear"},
+      {"filter": "datum.year<=maxYear"},
+
+      {"calculate": "year(datum.Date)", "as": "value"}
+    ],
+
+    "params": [    
+      {"name":"minYear", "value":2010,
+        "bind":{
+           "input": "range",
+          "min": 1963, 
+          "max": 2022, 
+          "step": 1,
+          "name": "Start year:"}},
+
+    {"name":"maxYear", "value":2022,
+       "bind":{
+         "input": "range",
+         "min": 1963, 
+         "max": 2022, 
+         "step": 1,
+         "name": "End year:"}
+    }
+  ],  
+
+
+
+
+  "encoding": {
+    "x": {"field": "Year","type":"temporal"},
+    "y": {"field": "Cost", "type": "quantitative"},
+    "color": {"field": "Energy Source", "type": "nominal"}
+  }
+}

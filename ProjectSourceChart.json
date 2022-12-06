@@ -1,0 +1,98 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/EnergySourceClean.csv",
+    "format": {"property": "csv"}
+  },
+  "title": {
+    "text": "Energy Cpnsumption in Africa by Source",
+    "subtitle": "Source: Our World in Data, BP",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+    "transform": [
+      
+      {"calculate": "year(datum.Date)", "as": "year"},
+      {"filter": "datum.year>=minYear"},
+      {"filter": "datum.year<=maxYear"},
+
+      {"calculate": "year(datum.Date)", "as": "value"}
+    ],
+
+    "params": [    
+      {"name":"minYear", "value":1989,
+        "bind":{
+           "input": "range",
+          "min": 1963, 
+          "max": 2022, 
+          "step": 1,
+          "name": "Start year:"}},
+
+    {"name":"maxYear", "value":2022,
+       "bind":{
+         "input": "range",
+         "min": 1963, 
+         "max": 2022, 
+         "step": 1,
+         "name": "End year:"}
+    }
+  ],  
+
+     "background":"white",
+   "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    }
+  },
+
+  "width": 400,
+  "height": 300,
+  "mark": "area",
+
+"selection": {
+    "Type": {
+      "type": "single",
+      "fields": ["Energy Source"],
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Coal Consumption",
+          "Gas Consumption",
+          "Geo Biomass Other",
+          "Hydro Consumption",
+          "Nuclear Consumption",
+          "Oil Consumption",
+          "Solar Consumption", 
+          "Wind Consumption"
+        ],
+        "name": "Pick fuel type"
+      }
+    }
+  },
+   "transform": [{
+    "filter": {
+      "selection": "Type"}
+      }],
+
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal","title":null},
+    "y": {
+      "field": "Energy Consumption",
+      "type": "quantitative","title":null
+    },
+  
+
+    "color": {"field": "Energy Source", "type": "nominal",
+    "scale": {"scheme": "tableau10"},
+      "legend": {"orient":"right"},
+     "title":"Region"},
+  "tooltip":[{"field":"Energy Source", "title": "Energy Source"},
+    {"field":"Energy Consumption", "title": "Energy Consumption"}
+  ]
+  }}

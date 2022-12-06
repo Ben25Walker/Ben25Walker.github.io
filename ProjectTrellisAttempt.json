@@ -1,0 +1,68 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  
+    "description": "Energy Sources",
+  
+  "title": {
+      "text": "Energy Sources",
+      "subtitle":"Energy Sources in different Regions",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+    "data": {
+      "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/EnergySource.csv",
+      "format": {"type": "csv"}
+    },
+  
+    "height": 130,
+    
+    "width": 120,
+    
+    "mark": {"type": "line", "color":"red"},
+    
+    "transform": [
+       {
+        "filter": {
+          "field": "date",
+          "range": [
+            {"year": 1980},
+            {"year": 2020}
+          ]
+        }
+      }
+    ],
+    
+    "encoding": {
+      
+      "x": {"field": "Year", "type": "temporal", "title": null},
+      
+      "y": {
+        "field": "Energy Consumption",
+        "type": "quantitative",
+        "title": null
+      
+      },
+  
+          "color": {"field": "Region", "type": "nominal",
+      "scale": {"scheme": "rainbow"},
+      "legend": {"orient":"right"},
+      "title":"Region"},
+  
+      "facet": {
+        "field": "Region",
+        "type": "nominal",
+        "columns": 2,
+        "title": null
+      },
+      "tooltip": [
+        {"field": "Year", "type": "temporal", "title": "Year"},
+        {"field": "Energy Consumption","type": "quantitative","title": "Energy Consumption","format": ",.0f"}
+      ]
+  
+      
+    },
+    "resolve": {"scale": {"y": "independent"}}
+  }

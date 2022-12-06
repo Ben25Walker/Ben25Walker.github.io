@@ -1,0 +1,80 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/ProjectRegress3.csv"
+  },
+
+"title": {
+    "text": "Relationship between GDP per Capita and Energy Consumption per Capita",
+    "subtitle": "Source: World Bank",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start"
+  },
+  "height": 400,
+  "width": 500,
+
+  "layer": [
+    {
+      "mark": {"type": "circle","filled": true,"size":50},
+      "encoding": {
+        "x": {"field": "GDP per capita, PPP (constant 2017 international $)",
+          "type": "quantitative"},
+        "y": {"field": "Primary energy consumption per capita (kWh/person)","type": "quantitative"},
+        "color": {"field": "Region","type": "ordinal",
+    "scale": {"scheme": "tableau10"},
+    "legend": {"orient":"bottom"},
+    "title":null},
+        "tooltip": [
+          {"field": "Country","type": "nominal", "title": "Country"},
+        {"field": "GDP per capita, PPP (constant 2017 international $)","type": "quantitative","title": "GDP per Capita (USD)"},
+        {"field": "Primary energy consumption per capita (kWh/person)","type": "quantitative","title": "Energy Consumption per capita (kWh)"} 
+      ]
+      }
+      
+    },
+    {
+      "mark": {
+        "type": "line",
+        "color": "#d62728"
+      },
+      "transform": [
+        {
+          "regression": "Primary energy consumption per capita (kWh/person)",
+          "on": "GDP per capita, PPP (constant 2017 international $)"
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "GDP per capita, PPP (constant 2017 international $)",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Primary energy consumption per capita (kWh/person)",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "transform": [
+        {
+          "regression": "Primary energy consumption per capita (kWh/person)",
+          "on": "GDP per capita, PPP (constant 2017 international $)",
+          "params": true
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "black",
+        "size": 15,
+        "x": "width",
+        "align": "right",
+        "y": -10
+      },
+      "encoding": {
+        "text": {"type": "nominal", "field": "R2"}
+      }
+    }
+  ]
+}

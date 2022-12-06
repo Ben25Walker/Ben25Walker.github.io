@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/Projectchart1extension3.csv",
+    "format": {"property": "csv"}
+  },
+  "title": {
+    "text": "Primary completion rate in different regions",
+    "subtitle": "Source:World Bank",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "transform": [  
+  {"calculate":"year(datum.date)", "as": "year"},
+
+  {"filter": "datum.year>=minYear"},
+  {"filter": "datum.year<=maxYear"},
+  
+  {"filter": "datum.y1!=0"}
+  ],
+
+"params": [    
+  {"name":"minYear", "value":2002,
+     "bind":{
+       "input": "range",
+       "min": 1990, 
+       "max": 2022, 
+       "step": 1,
+       "name": "Start year:"}
+  },
+
+  {"name":"maxYear", "value":2022,
+     "bind":{
+       "input": "range",
+       "min": 1979, 
+       "max": 2022, 
+       "step": 1,
+       "name": "End year:"}}],
+  "width": 300,
+  "height": 300,
+  "mark": "line",
+
+
+  "encoding": {
+    "x": {"field": "date", "type": "temporal"},
+    "y": {
+      "field": "value",
+      "type": "quantitative"
+    },
+
+    "color": {"field": "Region", "type": "nominal",
+    "scale": {"scheme": "rainbow"},
+    "legend": {"orient":"right"},
+    "title":"Region"},
+    "tooltip":[{"field":"Region", "title": "Region"},
+      {"field":"value", "title": "GDP per Capita"}
+    ]}
+  }
