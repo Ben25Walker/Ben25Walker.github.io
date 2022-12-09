@@ -41,7 +41,7 @@
       "transform": [
         {
           "regression": "Primary energy consumption per capita (kWh/person)",
-          "on": "GDP per capita, PPP (constant 2017 international $)"
+          "on": "GDP per capita, PPP (constant 2017 international $)", "extent": [4000,25000]
         }
       ],
       "encoding": {
@@ -57,11 +57,6 @@
     },
     {
     "transform": [
-        {
-          "regression": "Primary energy consumption per capita (kWh/person)",
-          "on": "GDP per capita, PPP (constant 2017 international $)", "extent": [-4.5,-0.5],
-          "params": true
-        },
         {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
       ],
       "mark": {
