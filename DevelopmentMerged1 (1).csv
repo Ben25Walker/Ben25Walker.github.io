@@ -1,0 +1,731 @@
+,Unnamed: 0,date,Poverty Gap,Region,GDP per capita,Primary Completion Rate
+0,2,2019,12.6,Sub-Saharan Africa,N/A,N/A
+1,3,2018,12.8,Sub-Saharan Africa,N/A,N/A
+2,4,2017,13.2,Sub-Saharan Africa,N/A,N/A
+3,5,2016,13.5,Sub-Saharan Africa,N/A,N/A
+4,6,2015,13.7,Sub-Saharan Africa,N/A,N/A
+5,7,2014,13.7,Sub-Saharan Africa,N/A,N/A
+6,8,2013,14.3,Sub-Saharan Africa,N/A,N/A
+7,9,2012,14.8,Sub-Saharan Africa,N/A,N/A
+8,10,2011,15.1,Sub-Saharan Africa,N/A,N/A
+9,11,2010,15.9,Sub-Saharan Africa,N/A,N/A
+10,12,2009,17.0,Sub-Saharan Africa,N/A,N/A
+11,13,2008,17.2,Sub-Saharan Africa,N/A,N/A
+12,14,2007,18.3,Sub-Saharan Africa,N/A,N/A
+13,15,2006,19.2,Sub-Saharan Africa,N/A,N/A
+14,16,2005,20.1,Sub-Saharan Africa,N/A,N/A
+15,17,2004,21.2,Sub-Saharan Africa,N/A,N/A
+16,18,2003,22.7,Sub-Saharan Africa,N/A,N/A
+17,19,2002,23.6,Sub-Saharan Africa,N/A,N/A
+18,20,2001,24.6,Sub-Saharan Africa,N/A,N/A
+19,21,2000,25.2,Sub-Saharan Africa,N/A,N/A
+20,22,1999,25.3,Sub-Saharan Africa,N/A,N/A
+21,23,1998,25.5,Sub-Saharan Africa,N/A,N/A
+22,24,1997,25.8,Sub-Saharan Africa,N/A,N/A
+23,25,1996,26.0,Sub-Saharan Africa,N/A,N/A
+24,26,1995,26.8,Sub-Saharan Africa,N/A,N/A
+25,27,1994,27.2,Sub-Saharan Africa,N/A,N/A
+26,28,1993,26.6,Sub-Saharan Africa,N/A,N/A
+27,29,1992,25.9,Sub-Saharan Africa,N/A,N/A
+28,30,1991,24.9,Sub-Saharan Africa,N/A,N/A
+29,31,1990,23.7,Sub-Saharan Africa,N/A,N/A
+30,52,2019,1.5,Latin America & Caribbean,N/A,N/A
+31,53,2018,1.5,Latin America & Caribbean,N/A,N/A
+32,54,2017,1.5,Latin America & Caribbean,N/A,N/A
+33,55,2016,1.5,Latin America & Caribbean,N/A,N/A
+34,56,2015,1.4,Latin America & Caribbean,N/A,N/A
+35,57,2014,1.5,Latin America & Caribbean,N/A,N/A
+36,58,2013,1.6,Latin America & Caribbean,N/A,N/A
+37,59,2012,1.9,Latin America & Caribbean,N/A,N/A
+38,60,2011,2.4,Latin America & Caribbean,N/A,N/A
+39,61,2010,2.6,Latin America & Caribbean,N/A,N/A
+40,62,2009,2.8,Latin America & Caribbean,N/A,N/A
+41,63,2008,3.0,Latin America & Caribbean,N/A,N/A
+42,64,2007,3.3,Latin America & Caribbean,N/A,N/A
+43,65,2006,3.4,Latin America & Caribbean,N/A,N/A
+44,66,2005,4.2,Latin America & Caribbean,N/A,N/A
+45,67,2004,4.3,Latin America & Caribbean,N/A,N/A
+46,68,2003,4.9,Latin America & Caribbean,N/A,N/A
+47,69,2002,5.0,Latin America & Caribbean,N/A,N/A
+48,70,2001,5.6,Latin America & Caribbean,N/A,N/A
+49,71,2000,5.9,Latin America & Caribbean,N/A,N/A
+50,72,1999,6.4,Latin America & Caribbean,N/A,N/A
+51,73,1998,6.4,Latin America & Caribbean,N/A,N/A
+52,74,1997,6.8,Latin America & Caribbean,N/A,N/A
+53,75,1996,7.2,Latin America & Caribbean,N/A,N/A
+54,76,1995,6.2,Latin America & Caribbean,N/A,N/A
+55,77,1994,6.3,Latin America & Caribbean,N/A,N/A
+56,78,1993,6.8,Latin America & Caribbean,N/A,N/A
+57,79,1992,6.9,Latin America & Caribbean,N/A,N/A
+58,80,1991,6.8,Latin America & Caribbean,N/A,N/A
+59,81,1990,7.2,Latin America & Caribbean,N/A,N/A
+60,82,1989,6.8,Latin America & Caribbean,N/A,N/A
+61,83,1988,7.0,Latin America & Caribbean,N/A,N/A
+62,84,1987,6.2,Latin America & Caribbean,N/A,N/A
+63,85,1986,5.0,Latin America & Caribbean,N/A,N/A
+64,86,1985,6.9,Latin America & Caribbean,N/A,N/A
+65,87,1984,7.4,Latin America & Caribbean,N/A,N/A
+66,88,1983,7.6,Latin America & Caribbean,N/A,N/A
+67,89,1982,6.4,Latin America & Caribbean,N/A,N/A
+68,90,1981,6.1,Latin America & Caribbean,N/A,N/A
+69,102,2019,1.5,South Asia,N/A,N/A
+70,103,2018,1.9,South Asia,N/A,N/A
+71,104,2017,2.4,South Asia,N/A,N/A
+72,105,2016,3.1,South Asia,N/A,N/A
+73,106,2015,3.3,South Asia,N/A,N/A
+74,107,2014,3.5,South Asia,N/A,N/A
+75,108,2013,3.7,South Asia,N/A,N/A
+76,109,2012,3.9,South Asia,N/A,N/A
+77,110,2011,4.4,South Asia,N/A,N/A
+78,111,2010,5.7,South Asia,N/A,N/A
+79,112,2009,6.5,South Asia,N/A,N/A
+80,113,2008,6.9,South Asia,N/A,N/A
+81,114,2007,7.3,South Asia,N/A,N/A
+82,115,2006,7.8,South Asia,N/A,N/A
+83,116,2005,8.3,South Asia,N/A,N/A
+84,117,2004,8.9,South Asia,N/A,N/A
+85,118,2003,9.4,South Asia,N/A,N/A
+86,119,2002,9.8,South Asia,N/A,N/A
+87,125,1996,10.8,South Asia,N/A,N/A
+88,126,1995,11.3,South Asia,N/A,N/A
+89,127,1994,12.0,South Asia,N/A,N/A
+90,128,1993,12.4,South Asia,N/A,N/A
+91,129,1992,12.9,South Asia,N/A,N/A
+92,130,1991,13.8,South Asia,N/A,N/A
+93,131,1990,14.3,South Asia,N/A,N/A
+94,132,1989,14.4,South Asia,N/A,N/A
+95,133,1988,14.7,South Asia,N/A,N/A
+96,134,1987,15.4,South Asia,N/A,N/A
+97,135,1986,15.9,South Asia,N/A,N/A
+98,136,1985,16.4,South Asia,N/A,N/A
+99,137,1984,17.2,South Asia,N/A,N/A
+100,138,1983,18.1,South Asia,N/A,N/A
+101,139,1982,19.0,South Asia,N/A,N/A
+102,140,1981,19.4,South Asia,N/A,N/A
+103,153,2018,2.3,Middle East & North Africa,N/A,N/A
+104,154,2017,1.8,Middle East & North Africa,N/A,N/A
+105,155,2016,1.6,Middle East & North Africa,N/A,N/A
+106,156,2015,1.3,Middle East & North Africa,N/A,N/A
+107,157,2014,0.6,Middle East & North Africa,N/A,N/A
+108,158,2013,0.5,Middle East & North Africa,N/A,N/A
+109,159,2012,0.5,Middle East & North Africa,N/A,N/A
+110,160,2011,0.5,Middle East & North Africa,N/A,N/A
+111,161,2010,0.4,Middle East & North Africa,N/A,N/A
+112,162,2009,0.4,Middle East & North Africa,N/A,N/A
+113,163,2008,0.5,Middle East & North Africa,N/A,N/A
+114,164,2007,0.5,Middle East & North Africa,N/A,N/A
+115,165,2006,0.5,Middle East & North Africa,N/A,N/A
+116,166,2005,0.5,Middle East & North Africa,N/A,N/A
+117,167,2004,0.5,Middle East & North Africa,N/A,N/A
+118,168,2003,0.6,Middle East & North Africa,N/A,N/A
+119,170,2001,0.7,Middle East & North Africa,N/A,N/A
+120,171,2000,0.7,Middle East & North Africa,N/A,N/A
+121,172,1999,0.8,Middle East & North Africa,N/A,N/A
+122,173,1998,0.8,Middle East & North Africa,N/A,N/A
+123,174,1997,0.9,Middle East & North Africa,N/A,N/A
+124,175,1996,0.9,Middle East & North Africa,N/A,N/A
+125,176,1995,1.0,Middle East & North Africa,N/A,N/A
+126,177,1994,0.9,Middle East & North Africa,N/A,N/A
+127,178,1993,1.0,Middle East & North Africa,N/A,N/A
+128,179,1992,1.0,Middle East & North Africa,N/A,N/A
+129,180,1991,1.3,Middle East & North Africa,N/A,N/A
+130,181,1990,1.2,Middle East & North Africa,N/A,N/A
+131,182,1989,1.5,Middle East & North Africa,N/A,N/A
+132,183,1988,1.6,Middle East & North Africa,N/A,N/A
+133,184,1987,1.6,Middle East & North Africa,N/A,N/A
+134,185,1986,1.4,Middle East & North Africa,N/A,N/A
+135,186,1985,1.4,Middle East & North Africa,N/A,N/A
+136,202,2019,0.7,Europe & Central Asia,N/A,N/A
+137,203,2018,0.7,Europe & Central Asia,N/A,N/A
+138,204,2017,0.8,Europe & Central Asia,N/A,N/A
+139,205,2016,0.9,Europe & Central Asia,N/A,N/A
+140,206,2015,0.9,Europe & Central Asia,N/A,N/A
+141,207,2014,1.1,Europe & Central Asia,N/A,N/A
+142,208,2013,1.0,Europe & Central Asia,N/A,N/A
+143,209,2012,1.2,Europe & Central Asia,N/A,N/A
+144,210,2011,1.3,Europe & Central Asia,N/A,N/A
+145,211,2010,1.4,Europe & Central Asia,N/A,N/A
+146,212,2009,1.4,Europe & Central Asia,N/A,N/A
+147,213,2008,1.6,Europe & Central Asia,N/A,N/A
+148,214,2007,1.8,Europe & Central Asia,N/A,N/A
+149,215,2006,2.1,Europe & Central Asia,N/A,N/A
+150,216,2005,2.3,Europe & Central Asia,N/A,N/A
+151,217,2004,2.4,Europe & Central Asia,N/A,N/A
+152,218,2003,2.8,Europe & Central Asia,N/A,N/A
+153,219,2002,2.6,Europe & Central Asia,N/A,N/A
+154,220,2001,3.0,Europe & Central Asia,N/A,N/A
+155,221,2000,3.3,Europe & Central Asia,N/A,N/A
+156,222,1999,3.4,Europe & Central Asia,N/A,N/A
+157,223,1998,2.8,Europe & Central Asia,N/A,N/A
+158,224,1997,2.9,Europe & Central Asia,N/A,N/A
+159,225,1996,2.9,Europe & Central Asia,N/A,N/A
+160,226,1995,2.8,Europe & Central Asia,N/A,N/A
+161,227,1994,2.7,Europe & Central Asia,N/A,N/A
+162,228,1993,2.1,Europe & Central Asia,N/A,N/A
+163,229,1992,1.8,Europe & Central Asia,N/A,N/A
+164,230,1991,1.3,Europe & Central Asia,N/A,N/A
+165,231,1990,1.2,Europe & Central Asia,N/A,N/A
+166,252,2019,0.2,East Asia & Pacific,N/A,N/A
+167,253,2018,0.3,East Asia & Pacific,N/A,N/A
+168,254,2017,0.4,East Asia & Pacific,N/A,N/A
+169,255,2016,0.4,East Asia & Pacific,N/A,N/A
+170,256,2015,0.5,East Asia & Pacific,N/A,N/A
+171,257,2014,0.7,East Asia & Pacific,N/A,N/A
+172,258,2013,0.8,East Asia & Pacific,N/A,N/A
+173,259,2012,1.9,East Asia & Pacific,N/A,N/A
+174,260,2011,2.4,East Asia & Pacific,N/A,N/A
+175,261,2010,3.3,East Asia & Pacific,N/A,N/A
+176,262,2009,4.0,East Asia & Pacific,N/A,N/A
+177,263,2008,4.7,East Asia & Pacific,N/A,N/A
+178,264,2007,5.0,East Asia & Pacific,N/A,N/A
+179,265,2006,5.8,East Asia & Pacific,N/A,N/A
+180,266,2005,5.9,East Asia & Pacific,N/A,N/A
+181,267,2004,7.7,East Asia & Pacific,N/A,N/A
+182,268,2003,9.2,East Asia & Pacific,N/A,N/A
+183,269,2002,10.7,East Asia & Pacific,N/A,N/A
+184,270,2001,12.1,East Asia & Pacific,N/A,N/A
+185,271,2000,13.0,East Asia & Pacific,N/A,N/A
+186,272,1999,14.4,East Asia & Pacific,N/A,N/A
+187,273,1998,16.1,East Asia & Pacific,N/A,N/A
+188,274,1997,15.3,East Asia & Pacific,N/A,N/A
+189,275,1996,15.1,East Asia & Pacific,N/A,N/A
+190,276,1995,17.1,East Asia & Pacific,N/A,N/A
+191,277,1994,19.3,East Asia & Pacific,N/A,N/A
+192,278,1993,22.1,East Asia & Pacific,N/A,N/A
+193,279,1992,23.5,East Asia & Pacific,N/A,N/A
+194,280,1991,24.7,East Asia & Pacific,N/A,N/A
+195,281,1990,25.6,East Asia & Pacific,N/A,N/A
+196,282,1989,27.2,East Asia & Pacific,N/A,N/A
+197,283,1988,21.7,East Asia & Pacific,N/A,N/A
+198,284,1987,24.7,East Asia & Pacific,N/A,N/A
+199,285,1986,26.7,East Asia & Pacific,N/A,N/A
+200,286,1985,28.2,East Asia & Pacific,N/A,N/A
+201,287,1984,30.7,East Asia & Pacific,N/A,N/A
+202,288,1983,35.4,East Asia & Pacific,N/A,N/A
+203,289,1982,38.9,East Asia & Pacific,N/A,N/A
+204,290,1981,41.6,East Asia & Pacific,N/A,N/A
+0,0,2021,N/A,Sub-Saharan Africa,3763.64885709986,N/A
+1,1,2020,N/A,Sub-Saharan Africa,3704.25844825669,N/A
+2,2,2019,N/A,Sub-Saharan Africa,3874.45218602127,N/A
+3,3,2018,N/A,Sub-Saharan Africa,3871.0048312957,N/A
+4,4,2017,N/A,Sub-Saharan Africa,3862.64211409061,N/A
+5,5,2016,N/A,Sub-Saharan Africa,3862.739974955,N/A
+6,6,2015,N/A,Sub-Saharan Africa,3903.56834814614,N/A
+7,7,2014,N/A,Sub-Saharan Africa,3892.82611001177,N/A
+8,8,2013,N/A,Sub-Saharan Africa,3812.93027351566,N/A
+9,9,2012,N/A,Sub-Saharan Africa,3731.56609152913,N/A
+10,10,2011,N/A,Sub-Saharan Africa,3701.0531380285,N/A
+11,11,2010,N/A,Sub-Saharan Africa,3642.89286180875,N/A
+12,12,2009,N/A,Sub-Saharan Africa,3535.55377135762,N/A
+13,13,2008,N/A,Sub-Saharan Africa,3529.43035546459,N/A
+14,14,2007,N/A,Sub-Saharan Africa,3444.55792017169,N/A
+15,15,2006,N/A,Sub-Saharan Africa,3330.75781386005,N/A
+16,16,2005,N/A,Sub-Saharan Africa,3222.54821228851,N/A
+17,17,2004,N/A,Sub-Saharan Africa,3119.01804907621,N/A
+18,18,2003,N/A,Sub-Saharan Africa,3004.33865049196,N/A
+19,19,2002,N/A,Sub-Saharan Africa,2960.69445714969,N/A
+20,20,2001,N/A,Sub-Saharan Africa,2865.75690217982,N/A
+21,21,2000,N/A,Sub-Saharan Africa,2820.81779060784,N/A
+22,22,1999,N/A,Sub-Saharan Africa,2797.85071981085,N/A
+23,23,1998,N/A,Sub-Saharan Africa,2806.72238380745,N/A
+24,24,1997,N/A,Sub-Saharan Africa,2810.48351648523,N/A
+25,25,1996,N/A,Sub-Saharan Africa,2766.15927348246,N/A
+26,26,1995,N/A,Sub-Saharan Africa,2700.94178848245,N/A
+27,27,1994,N/A,Sub-Saharan Africa,2678.37345194255,N/A
+28,28,1993,N/A,Sub-Saharan Africa,2722.88904916993,N/A
+29,29,1992,N/A,Sub-Saharan Africa,2817.33767131935,N/A
+30,30,1991,N/A,Sub-Saharan Africa,2902.5286714809,N/A
+31,31,1990,N/A,Sub-Saharan Africa,2969.31394142815,N/A
+32,50,2021,N/A,Latin America & Caribbean,15701.1522114414,N/A
+33,51,2020,N/A,Latin America & Caribbean,14823.4725124543,N/A
+34,52,2019,N/A,Latin America & Caribbean,16033.2228299553,N/A
+35,53,2018,N/A,Latin America & Caribbean,16057.3522013036,N/A
+36,54,2017,N/A,Latin America & Caribbean,15928.7925437284,N/A
+37,55,2016,N/A,Latin America & Caribbean,15771.6434131343,N/A
+38,56,2015,N/A,Latin America & Caribbean,15916.4664246846,N/A
+39,57,2014,N/A,Latin America & Caribbean,15964.7758045247,N/A
+40,58,2013,N/A,Latin America & Caribbean,15885.0445909226,N/A
+41,59,2012,N/A,Latin America & Caribbean,15600.295247375,N/A
+42,60,2011,N/A,Latin America & Caribbean,15360.2275822561,N/A
+43,61,2010,N/A,Latin America & Caribbean,14852.6339432539,N/A
+44,62,2009,N/A,Latin America & Caribbean,14105.8103460968,N/A
+45,63,2008,N/A,Latin America & Caribbean,14568.4914653584,N/A
+46,64,2007,N/A,Latin America & Caribbean,14212.1619340705,N/A
+47,65,2006,N/A,Latin America & Caribbean,13665.7621797061,N/A
+48,66,2005,N/A,Latin America & Caribbean,13168.1909737479,N/A
+49,67,2004,N/A,Latin America & Caribbean,12827.159961808,N/A
+50,68,2003,N/A,Latin America & Caribbean,12318.5628240782,N/A
+51,69,2002,N/A,Latin America & Caribbean,12170.9773184639,N/A
+52,70,2001,N/A,Latin America & Caribbean,12267.7279569953,N/A
+53,71,2000,N/A,Latin America & Caribbean,12391.2098793923,N/A
+54,72,1999,N/A,Latin America & Caribbean,12140.8358396651,N/A
+55,73,1998,N/A,Latin America & Caribbean,12257.7962900368,N/A
+56,74,1997,N/A,Latin America & Caribbean,12118.0890699592,N/A
+57,75,1996,N/A,Latin America & Caribbean,11687.2187345156,N/A
+58,76,1995,N/A,Latin America & Caribbean,11413.0073289089,N/A
+59,77,1994,N/A,Latin America & Caribbean,11528.0780300654,N/A
+60,78,1993,N/A,Latin America & Caribbean,11124.0809469582,N/A
+61,79,1992,N/A,Latin America & Caribbean,10842.1206747993,N/A
+62,80,1991,N/A,Latin America & Caribbean,10727.7492047931,N/A
+63,81,1990,N/A,Latin America & Caribbean,10571.3269062632,N/A
+64,100,2021,N/A,South Asia,6394.55038829376,N/A
+65,101,2020,N/A,South Asia,5970.76627172341,N/A
+66,102,2019,N/A,South Asia,6369.64811530602,N/A
+67,103,2018,N/A,South Asia,6201.3430914839,N/A
+68,104,2017,N/A,South Asia,5899.62931507242,N/A
+69,105,2016,N/A,South Asia,5610.41594779384,N/A
+70,106,2015,N/A,South Asia,5276.01691812379,N/A
+71,107,2014,N/A,South Asia,4976.38264946804,N/A
+72,108,2013,N/A,South Asia,4715.46259710215,N/A
+73,109,2012,N/A,South Asia,4506.19910158364,N/A
+74,110,2011,N/A,South Asia,4329.76930447026,N/A
+75,111,2010,N/A,South Asia,4177.82062300787,N/A
+76,112,2009,N/A,South Asia,3944.56054550336,N/A
+77,113,2008,N/A,South Asia,3743.60199277827,N/A
+78,114,2007,N/A,South Asia,3681.30949535696,N/A
+79,115,2006,N/A,South Asia,3487.67071450968,N/A
+80,116,2005,N/A,South Asia,3294.21185399416,N/A
+81,117,2004,N/A,South Asia,3115.06537365529,N/A
+82,118,2003,N/A,South Asia,2947.72206888681,N/A
+83,119,2002,N/A,South Asia,2797.76209722865,N/A
+84,120,2001,N/A,South Asia,2750.04761266035,N/A
+85,121,2000,N/A,South Asia,2681.43348390186,N/A
+86,122,1999,N/A,South Asia,2624.45729988665,N/A
+87,123,1998,N/A,South Asia,2487.25394603607,N/A
+88,124,1997,N/A,South Asia,2404.65600809903,N/A
+89,125,1996,N/A,South Asia,2365.26527390497,N/A
+90,126,1995,N/A,South Asia,2261.54183272006,N/A
+91,127,1994,N/A,South Asia,2161.29646301824,N/A
+92,128,1993,N/A,South Asia,2083.75812176389,N/A
+93,129,1992,N/A,South Asia,2041.23948092164,N/A
+94,130,1991,N/A,South Asia,1971.9627029389,N/A
+95,131,1990,N/A,South Asia,1974.74629853809,N/A
+96,150,2021,N/A,Middle East & North Africa,16145.693570352,N/A
+97,151,2020,N/A,Middle East & North Africa,15757.9566826269,N/A
+98,152,2019,N/A,Middle East & North Africa,16601.5524268098,N/A
+99,153,2018,N/A,Middle East & North Africa,16660.8870073356,N/A
+100,154,2017,N/A,Middle East & North Africa,16627.5350944677,N/A
+101,155,2016,N/A,Middle East & North Africa,16596.1810794907,N/A
+102,156,2015,N/A,Middle East & North Africa,16193.6476448356,N/A
+103,157,2014,N/A,Middle East & North Africa,16035.5773744745,N/A
+104,158,2013,N/A,Middle East & North Africa,15887.4894074822,N/A
+105,159,2012,N/A,Middle East & North Africa,15884.7720695649,N/A
+106,160,2011,N/A,Middle East & North Africa,15513.7051475186,N/A
+107,161,2010,N/A,Middle East & North Africa,15312.7593700287,N/A
+108,162,2009,N/A,Middle East & North Africa,14907.1614623064,N/A
+109,163,2008,N/A,Middle East & North Africa,15122.6989049387,N/A
+110,164,2007,N/A,Middle East & North Africa,14788.8943804177,N/A
+111,165,2006,N/A,Middle East & North Africa,14349.1683649476,N/A
+112,166,2005,N/A,Middle East & North Africa,13878.5640683784,N/A
+113,167,2004,N/A,Middle East & North Africa,13493.8960384048,N/A
+114,168,2003,N/A,Middle East & North Africa,12786.2861744552,N/A
+115,169,2002,N/A,Middle East & North Africa,12359.5003925943,N/A
+116,170,2001,N/A,Middle East & North Africa,12376.4619253807,N/A
+117,171,2000,N/A,Middle East & North Africa,12411.6971752498,N/A
+118,172,1999,N/A,Middle East & North Africa,11879.5935962076,N/A
+119,173,1998,N/A,Middle East & North Africa,11869.6108473323,N/A
+120,174,1997,N/A,Middle East & North Africa,11572.9877261803,N/A
+121,175,1996,N/A,Middle East & North Africa,11423.1328680121,N/A
+122,176,1995,N/A,Middle East & North Africa,11105.1469433281,N/A
+123,177,1994,N/A,Middle East & North Africa,11130.4967697636,N/A
+124,178,1993,N/A,Middle East & North Africa,11169.7745140326,N/A
+125,179,1992,N/A,Middle East & North Africa,11258.7251005816,N/A
+126,180,1991,N/A,Middle East & North Africa,10972.8928275866,N/A
+127,181,1990,N/A,Middle East & North Africa,10760.2489784386,N/A
+128,200,2021,N/A,Europe & Central Asia,35454.0496135727,N/A
+129,201,2020,N/A,Europe & Central Asia,33513.647948571,N/A
+130,202,2019,N/A,Europe & Central Asia,35354.4536309176,N/A
+131,203,2018,N/A,Europe & Central Asia,34765.3275176456,N/A
+132,204,2017,N/A,Europe & Central Asia,34073.9375392321,N/A
+133,205,2016,N/A,Europe & Central Asia,33204.2404616834,N/A
+134,206,2015,N/A,Europe & Central Asia,32724.4111062009,N/A
+135,207,2014,N/A,Europe & Central Asia,32291.4983563006,N/A
+136,208,2013,N/A,Europe & Central Asia,31894.0457342263,N/A
+137,209,2012,N/A,Europe & Central Asia,31668.0301545907,N/A
+138,210,2011,N/A,Europe & Central Asia,31577.255704363,N/A
+139,211,2010,N/A,Europe & Central Asia,30791.9055378237,N/A
+140,212,2009,N/A,Europe & Central Asia,30039.1447819516,N/A
+141,213,2008,N/A,Europe & Central Asia,31648.2470750619,N/A
+142,214,2007,N/A,Europe & Central Asia,31286.2874675752,N/A
+143,215,2006,N/A,Europe & Central Asia,30112.1663258636,N/A
+144,216,2005,N/A,Europe & Central Asia,28895.3180322129,N/A
+145,217,2004,N/A,Europe & Central Asia,28083.5683158291,N/A
+146,218,2003,N/A,Europe & Central Asia,27113.8790290844,N/A
+147,219,2002,N/A,Europe & Central Asia,26539.4110224525,N/A
+148,220,2001,N/A,Europe & Central Asia,26040.1120985492,N/A
+149,221,2000,N/A,Europe & Central Asia,25462.5941522669,N/A
+150,222,1999,N/A,Europe & Central Asia,24352.2645473934,N/A
+151,223,1998,N/A,Europe & Central Asia,23715.1439624569,N/A
+152,224,1997,N/A,Europe & Central Asia,23260.1221255962,N/A
+153,225,1996,N/A,Europe & Central Asia,22640.3145704174,N/A
+154,226,1995,N/A,Europe & Central Asia,22345.871468582,N/A
+155,227,1994,N/A,Europe & Central Asia,22028.1210470077,N/A
+156,228,1993,N/A,Europe & Central Asia,22219.0480594508,N/A
+157,229,1992,N/A,Europe & Central Asia,22693.0789131288,N/A
+158,230,1991,N/A,Europe & Central Asia,23305.7087132125,N/A
+159,231,1990,N/A,Europe & Central Asia,23577.4325133924,N/A
+160,250,2021,N/A,East Asia & Pacific,18580.9256357074,N/A
+161,251,2020,N/A,East Asia & Pacific,17613.7711823444,N/A
+162,252,2019,N/A,East Asia & Pacific,17721.2154919556,N/A
+163,253,2018,N/A,East Asia & Pacific,17075.7046328439,N/A
+164,254,2017,N/A,East Asia & Pacific,16351.1077219765,N/A
+165,255,2016,N/A,East Asia & Pacific,15630.3698895683,N/A
+166,256,2015,N/A,East Asia & Pacific,14991.9454957123,N/A
+167,257,2014,N/A,East Asia & Pacific,14382.3734334673,N/A
+168,258,2013,N/A,East Asia & Pacific,13786.7643417578,N/A
+169,259,2012,N/A,East Asia & Pacific,13166.7811660536,N/A
+170,260,2011,N/A,East Asia & Pacific,12570.8812806984,N/A
+171,261,2010,N/A,East Asia & Pacific,11953.1429566591,N/A
+172,262,2009,N/A,East Asia & Pacific,11139.087218392,N/A
+173,263,2008,N/A,East Asia & Pacific,10862.8145237259,N/A
+174,264,2007,N/A,East Asia & Pacific,10425.6373199316,N/A
+175,265,2006,N/A,East Asia & Pacific,9714.50941439038,N/A
+176,266,2005,N/A,East Asia & Pacific,9142.5986091469,N/A
+177,267,2004,N/A,East Asia & Pacific,8655.65018030729,N/A
+178,268,2003,N/A,East Asia & Pacific,8200.74450510334,N/A
+179,269,2002,N/A,East Asia & Pacific,7836.13421376975,N/A
+180,270,2001,N/A,East Asia & Pacific,7531.70259730859,N/A
+181,271,2000,N/A,East Asia & Pacific,7330.53747937354,N/A
+182,272,1999,N/A,East Asia & Pacific,6997.52608700053,N/A
+183,273,1998,N/A,East Asia & Pacific,6792.30630244226,N/A
+184,274,1997,N/A,East Asia & Pacific,6880.30759028683,N/A
+185,275,1996,N/A,East Asia & Pacific,6664.1286733027,N/A
+186,276,1995,N/A,East Asia & Pacific,6349.36215112069,N/A
+187,277,1994,N/A,East Asia & Pacific,6040.9282659118,N/A
+188,278,1993,N/A,East Asia & Pacific,5767.27230510283,N/A
+189,279,1992,N/A,East Asia & Pacific,5555.39494655743,N/A
+190,280,1991,N/A,East Asia & Pacific,5352.90983269797,N/A
+191,281,1990,N/A,East Asia & Pacific,5149.26874135107,N/A
+192,300,2021,N/A,North America,61504.8885723718,N/A
+193,301,2020,N/A,North America,58348.9952034209,N/A
+194,302,2019,N/A,North America,61097.0189925674,N/A
+195,303,2018,N/A,North America,60082.9007142365,N/A
+196,304,2017,N/A,North America,58746.9576152313,N/A
+197,305,2016,N/A,North America,57811.7517056487,N/A
+198,306,2015,N/A,North America,57331.8941695944,N/A
+199,307,2014,N/A,North America,56329.3642164554,N/A
+200,308,2013,N/A,North America,55464.1939579226,N/A
+201,309,2012,N/A,North America,54837.9366856616,N/A
+202,310,2011,N/A,North America,54053.0275659676,N/A
+203,311,2010,N/A,North America,53560.5554440883,N/A
+204,312,2009,N/A,North America,52581.6601007505,N/A
+205,313,2008,N/A,North America,54490.584644094,N/A
+206,314,2007,N/A,North America,54909.1229753077,N/A
+207,315,2006,N/A,North America,54138.9049919664,N/A
+208,316,2005,N/A,North America,53129.7156452643,N/A
+209,317,2004,N/A,North America,51760.122091716,N/A
+210,318,2003,N/A,North America,50301.7295026023,N/A
+211,319,2002,N/A,North America,49320.7055310762,N/A
+212,320,2001,N/A,North America,48896.2978561631,N/A
+213,321,2000,N/A,North America,48903.1480770841,N/A
+214,322,1999,N/A,North America,47475.5412943215,N/A
+215,323,1998,N/A,North America,45838.607877707,N/A
+216,324,1997,N/A,North America,44426.5028300991,N/A
+217,325,1996,N/A,North America,43041.0775491623,N/A
+218,326,1995,N/A,North America,41956.9289534986,N/A
+219,327,1994,N/A,North America,41342.9398310793,N/A
+220,328,1993,N/A,North America,40227.3779253965,N/A
+221,329,1992,N/A,North America,39660.9674567458,N/A
+222,330,1991,N/A,North America,38838.9727551063,N/A
+223,331,1990,N/A,North America,39400.7989874294,N/A
+0,1,2020,N/A,Sub-Saharan Africa,N/A,70.3955688476563
+1,2,2019,N/A,Sub-Saharan Africa,N/A,69.8094024658203
+2,3,2018,N/A,Sub-Saharan Africa,N/A,69.6157379150391
+3,4,2017,N/A,Sub-Saharan Africa,N/A,68.8854217529297
+4,5,2016,N/A,Sub-Saharan Africa,N/A,68.5222320556641
+5,6,2015,N/A,Sub-Saharan Africa,N/A,68.3284225463867
+6,7,2014,N/A,Sub-Saharan Africa,N/A,68.1073837280273
+7,8,2013,N/A,Sub-Saharan Africa,N/A,67.9339065551758
+8,9,2012,N/A,Sub-Saharan Africa,N/A,67.9717330932617
+9,10,2011,N/A,Sub-Saharan Africa,N/A,67.7666397094727
+10,11,2010,N/A,Sub-Saharan Africa,N/A,67.9499130249023
+11,12,2009,N/A,Sub-Saharan Africa,N/A,67.9298934936523
+12,13,2008,N/A,Sub-Saharan Africa,N/A,65.0271987915039
+13,14,2007,N/A,Sub-Saharan Africa,N/A,64.3262634277344
+14,15,2006,N/A,Sub-Saharan Africa,N/A,64.5378875732422
+15,16,2005,N/A,Sub-Saharan Africa,N/A,61.7397613525391
+16,17,2004,N/A,Sub-Saharan Africa,N/A,59.5650596618652
+17,18,2003,N/A,Sub-Saharan Africa,N/A,58.4016914367676
+18,19,2002,N/A,Sub-Saharan Africa,N/A,57.2587890625
+19,20,2001,N/A,Sub-Saharan Africa,N/A,55.9986991882324
+20,21,2000,N/A,Sub-Saharan Africa,N/A,54.400089263916
+21,22,1999,N/A,Sub-Saharan Africa,N/A,54.0572814941406
+22,23,1998,N/A,Sub-Saharan Africa,N/A,53.7348403930664
+23,24,1997,N/A,Sub-Saharan Africa,N/A,54.1199188232422
+24,25,1996,N/A,Sub-Saharan Africa,N/A,54.1459617614746
+25,26,1995,N/A,Sub-Saharan Africa,N/A,53.7520599365234
+26,27,1994,N/A,Sub-Saharan Africa,N/A,53.804630279541
+27,28,1993,N/A,Sub-Saharan Africa,N/A,54.7238006591797
+28,29,1992,N/A,Sub-Saharan Africa,N/A,54.0814018249512
+29,30,1991,N/A,Sub-Saharan Africa,N/A,54.5807304382324
+30,31,1990,N/A,Sub-Saharan Africa,N/A,54.1029586791992
+31,32,1989,N/A,Sub-Saharan Africa,N/A,53.4979782104492
+32,33,1988,N/A,Sub-Saharan Africa,N/A,54.5994606018066
+33,34,1987,N/A,Sub-Saharan Africa,N/A,55.3699989318848
+34,35,1986,N/A,Sub-Saharan Africa,N/A,56.0060081481934
+35,36,1985,N/A,Sub-Saharan Africa,N/A,56.1689910888672
+36,37,1984,N/A,Sub-Saharan Africa,N/A,58.4516181945801
+37,38,1983,N/A,Sub-Saharan Africa,N/A,56.522159576416
+38,39,1982,N/A,Sub-Saharan Africa,N/A,56.1214790344238
+39,40,1981,N/A,Sub-Saharan Africa,N/A,55.2676315307617
+40,41,1980,N/A,Sub-Saharan Africa,N/A,54.2001991271973
+41,42,1979,N/A,Sub-Saharan Africa,N/A,53.6570816040039
+42,43,1978,N/A,Sub-Saharan Africa,N/A,52.0935897827148
+43,44,1977,N/A,Sub-Saharan Africa,N/A,50.7124290466309
+44,45,1976,N/A,Sub-Saharan Africa,N/A,49.468189239502
+45,46,1975,N/A,Sub-Saharan Africa,N/A,48.7362403869629
+46,47,1974,N/A,Sub-Saharan Africa,N/A,47.7706108093262
+47,48,1973,N/A,Sub-Saharan Africa,N/A,47.2256698608398
+48,49,1972,N/A,Sub-Saharan Africa,N/A,46.7171096801758
+49,51,2020,N/A,Latin America & Caribbean,N/A,98.3068771362305
+50,52,2019,N/A,Latin America & Caribbean,N/A,98.0847320556641
+51,53,2018,N/A,Latin America & Caribbean,N/A,98.0542602539063
+52,54,2017,N/A,Latin America & Caribbean,N/A,98.6465530395508
+53,55,2016,N/A,Latin America & Caribbean,N/A,99.1196212768555
+54,56,2015,N/A,Latin America & Caribbean,N/A,99.3734283447266
+55,57,2014,N/A,Latin America & Caribbean,N/A,100.712699890137
+56,58,2013,N/A,Latin America & Caribbean,N/A,100.389801025391
+57,59,2012,N/A,Latin America & Caribbean,N/A,100.721092224121
+58,60,2011,N/A,Latin America & Caribbean,N/A,100.059959411621
+59,61,2010,N/A,Latin America & Caribbean,N/A,99.8350219726563
+60,62,2009,N/A,Latin America & Caribbean,N/A,99.4243927001953
+61,63,2008,N/A,Latin America & Caribbean,N/A,99.1042861938477
+62,64,2007,N/A,Latin America & Caribbean,N/A,99.0826568603516
+63,65,2006,N/A,Latin America & Caribbean,N/A,98.0330200195313
+64,66,2005,N/A,Latin America & Caribbean,N/A,96.8870010375977
+65,67,2004,N/A,Latin America & Caribbean,N/A,96.2044982910156
+66,68,2003,N/A,Latin America & Caribbean,N/A,98.2297134399414
+67,69,2002,N/A,Latin America & Caribbean,N/A,99.3510818481445
+68,70,2001,N/A,Latin America & Caribbean,N/A,97.4859390258789
+69,71,2000,N/A,Latin America & Caribbean,N/A,97.7939910888672
+70,72,1999,N/A,Latin America & Caribbean,N/A,96.9481506347656
+71,73,1998,N/A,Latin America & Caribbean,N/A,96.7409210205078
+72,74,1997,N/A,Latin America & Caribbean,N/A,95.7884979248047
+73,75,1996,N/A,Latin America & Caribbean,N/A,95.0433883666992
+74,76,1995,N/A,Latin America & Caribbean,N/A,94.6484527587891
+75,77,1994,N/A,Latin America & Caribbean,N/A,94.3023529052734
+76,78,1993,N/A,Latin America & Caribbean,N/A,93.8950500488281
+77,79,1992,N/A,Latin America & Caribbean,N/A,93.4434967041016
+78,80,1991,N/A,Latin America & Caribbean,N/A,92.1796569824219
+79,81,1990,N/A,Latin America & Caribbean,N/A,92.003288269043
+80,82,1989,N/A,Latin America & Caribbean,N/A,92.1152496337891
+81,83,1988,N/A,Latin America & Caribbean,N/A,92.3059387207031
+82,84,1987,N/A,Latin America & Caribbean,N/A,92.4467468261719
+83,85,1986,N/A,Latin America & Caribbean,N/A,92.2214584350586
+84,86,1985,N/A,Latin America & Caribbean,N/A,91.3584213256836
+85,87,1984,N/A,Latin America & Caribbean,N/A,91.7026519775391
+86,88,1983,N/A,Latin America & Caribbean,N/A,90.4761276245117
+87,89,1982,N/A,Latin America & Caribbean,N/A,89.2363204956055
+88,90,1981,N/A,Latin America & Caribbean,N/A,88.4819030761719
+89,91,1980,N/A,Latin America & Caribbean,N/A,87.8496322631836
+90,92,1979,N/A,Latin America & Caribbean,N/A,87.182487487793
+91,93,1978,N/A,Latin America & Caribbean,N/A,86.3508377075195
+92,94,1977,N/A,Latin America & Caribbean,N/A,86.0474319458008
+93,95,1976,N/A,Latin America & Caribbean,N/A,83.9801635742188
+94,96,1975,N/A,Latin America & Caribbean,N/A,82.6605529785156
+95,97,1974,N/A,Latin America & Caribbean,N/A,82.0216674804688
+96,98,1973,N/A,Latin America & Caribbean,N/A,81.4983673095703
+97,99,1972,N/A,Latin America & Caribbean,N/A,80.5564804077148
+98,101,2020,N/A,South Asia,N/A,92.24263
+99,102,2019,N/A,South Asia,N/A,90.21991
+100,103,2018,N/A,South Asia,N/A,90.04793
+101,104,2017,N/A,South Asia,N/A,91.2669
+102,105,2016,N/A,South Asia,N/A,91.8988
+103,106,2015,N/A,South Asia,N/A,92.4626
+104,107,2014,N/A,South Asia,N/A,92.09109
+105,108,2013,N/A,South Asia,N/A,90.63377
+106,109,2012,N/A,South Asia,N/A,89.01604
+107,110,2011,N/A,South Asia,N/A,86.95904
+108,111,2010,N/A,South Asia,N/A,87.3896
+109,112,2009,N/A,South Asia,N/A,87.68547
+110,113,2008,N/A,South Asia,N/A,86.17822
+111,114,2007,N/A,South Asia,N/A,84.34416
+112,115,2006,N/A,South Asia,N/A,82.39266
+113,116,2005,N/A,South Asia,N/A,80.52524
+114,117,2004,N/A,South Asia,N/A,78.16471
+115,118,2003,N/A,South Asia,N/A,75.87849
+116,119,2002,N/A,South Asia,N/A,72.49696
+117,120,2001,N/A,South Asia,N/A,69.70453
+118,121,2000,N/A,South Asia,N/A,69.02494
+119,122,1999,N/A,South Asia,N/A,66.69571
+120,123,1998,N/A,South Asia,N/A,67.02729
+121,124,1997,N/A,South Asia,N/A,67.41009
+122,125,1996,N/A,South Asia,N/A,67.79434
+123,126,1995,N/A,South Asia,N/A,68.19162
+124,127,1994,N/A,South Asia,N/A,67.27931
+125,128,1993,N/A,South Asia,N/A,66.36294
+126,129,1992,N/A,South Asia,N/A,65.48009
+127,130,1991,N/A,South Asia,N/A,64.51986
+128,131,1990,N/A,South Asia,N/A,63.56343
+129,132,1989,N/A,South Asia,N/A,62.60757
+130,133,1988,N/A,South Asia,N/A,61.53353
+131,134,1987,N/A,South Asia,N/A,60.24075
+132,135,1986,N/A,South Asia,N/A,58.75013
+133,136,1985,N/A,South Asia,N/A,57.24681
+134,137,1984,N/A,South Asia,N/A,55.76457
+135,138,1983,N/A,South Asia,N/A,54.2875
+136,139,1982,N/A,South Asia,N/A,52.86151
+137,140,1981,N/A,South Asia,N/A,51.4835
+138,141,1980,N/A,South Asia,N/A,50.08556
+139,142,1979,N/A,South Asia,N/A,48.74738
+140,143,1978,N/A,South Asia,N/A,47.47231
+141,144,1977,N/A,South Asia,N/A,45.98902
+142,145,1976,N/A,South Asia,N/A,45.65505
+143,146,1975,N/A,South Asia,N/A,44.86017
+144,147,1974,N/A,South Asia,N/A,43.61631
+145,148,1973,N/A,South Asia,N/A,43.15963
+146,149,1972,N/A,South Asia,N/A,42.70204
+147,151,2020,N/A,Middle East & North Africa,N/A,93.386962890625
+148,152,2019,N/A,Middle East & North Africa,N/A,92.5999603271484
+149,153,2018,N/A,Middle East & North Africa,N/A,91.4221801757813
+150,154,2017,N/A,Middle East & North Africa,N/A,90.9559173583984
+151,155,2016,N/A,Middle East & North Africa,N/A,91.1064376831055
+152,156,2015,N/A,Middle East & North Africa,N/A,91.5878295898438
+153,157,2014,N/A,Middle East & North Africa,N/A,92.6472778320313
+154,158,2013,N/A,Middle East & North Africa,N/A,91.539680480957
+155,159,2012,N/A,Middle East & North Africa,N/A,93.5742568969727
+156,160,2011,N/A,Middle East & North Africa,N/A,91.5446014404297
+157,161,2010,N/A,Middle East & North Africa,N/A,90.5987319946289
+158,162,2009,N/A,Middle East & North Africa,N/A,88.9137878417969
+159,163,2008,N/A,Middle East & North Africa,N/A,90.0283508300781
+160,164,2007,N/A,Middle East & North Africa,N/A,87.9729766845703
+161,165,2006,N/A,Middle East & North Africa,N/A,87.043212890625
+162,166,2005,N/A,Middle East & North Africa,N/A,90.5817184448242
+163,167,2004,N/A,Middle East & North Africa,N/A,89.5261611938477
+164,168,2003,N/A,Middle East & North Africa,N/A,85.9357986450195
+165,169,2002,N/A,Middle East & North Africa,N/A,84.4618682861328
+166,170,2001,N/A,Middle East & North Africa,N/A,83.4867401123047
+167,171,2000,N/A,Middle East & North Africa,N/A,81.5530776977539
+168,172,1999,N/A,Middle East & North Africa,N/A,82.3561630249023
+169,173,1998,N/A,Middle East & North Africa,N/A,82.0326080322266
+170,174,1997,N/A,Middle East & North Africa,N/A,81.5606079101563
+171,175,1996,N/A,Middle East & North Africa,N/A,81.2283096313477
+172,176,1995,N/A,Middle East & North Africa,N/A,80.7703170776367
+173,177,1994,N/A,Middle East & North Africa,N/A,79.0382995605469
+174,178,1993,N/A,Middle East & North Africa,N/A,78.7782974243164
+175,179,1992,N/A,Middle East & North Africa,N/A,77.2994995117188
+176,180,1991,N/A,Middle East & North Africa,N/A,75.8783187866211
+177,181,1990,N/A,Middle East & North Africa,N/A,75.1158065795898
+178,182,1989,N/A,Middle East & North Africa,N/A,73.3234634399414
+179,183,1988,N/A,Middle East & North Africa,N/A,72.9409713745117
+180,184,1987,N/A,Middle East & North Africa,N/A,72.4744415283203
+181,185,1986,N/A,Middle East & North Africa,N/A,72.4836578369141
+182,186,1985,N/A,Middle East & North Africa,N/A,73.3342895507813
+183,187,1984,N/A,Middle East & North Africa,N/A,68.910758972168
+184,188,1983,N/A,Middle East & North Africa,N/A,66.2561721801758
+185,189,1982,N/A,Middle East & North Africa,N/A,64.6960601806641
+186,190,1981,N/A,Middle East & North Africa,N/A,63.5701713562012
+187,191,1980,N/A,Middle East & North Africa,N/A,59.9061813354492
+188,192,1979,N/A,Middle East & North Africa,N/A,56.5351486206055
+189,193,1978,N/A,Middle East & North Africa,N/A,60.2006416320801
+190,194,1977,N/A,Middle East & North Africa,N/A,60.4123306274414
+191,195,1976,N/A,Middle East & North Africa,N/A,57.933780670166
+192,196,1975,N/A,Middle East & North Africa,N/A,55.9670715332031
+193,197,1974,N/A,Middle East & North Africa,N/A,52.6413192749023
+194,198,1973,N/A,Middle East & North Africa,N/A,50.7231903076172
+195,199,1972,N/A,Middle East & North Africa,N/A,48.7890815734863
+196,201,2020,N/A,Europe & Central Asia,N/A,98.4302825927734
+197,202,2019,N/A,Europe & Central Asia,N/A,98.4947814941406
+198,203,2018,N/A,Europe & Central Asia,N/A,97.6106719970703
+199,204,2017,N/A,Europe & Central Asia,N/A,97.6972427368164
+200,205,2016,N/A,Europe & Central Asia,N/A,97.1601104736328
+201,206,2015,N/A,Europe & Central Asia,N/A,98.4220275878906
+202,207,2014,N/A,Europe & Central Asia,N/A,97.6501007080078
+203,208,2013,N/A,Europe & Central Asia,N/A,97.9743270874023
+204,209,2012,N/A,Europe & Central Asia,N/A,97.8226623535156
+205,210,2011,N/A,Europe & Central Asia,N/A,98.4512023925781
+206,211,2010,N/A,Europe & Central Asia,N/A,97.8608779907227
+207,212,2009,N/A,Europe & Central Asia,N/A,97.6199569702148
+208,213,2008,N/A,Europe & Central Asia,N/A,97.1209182739258
+209,214,2007,N/A,Europe & Central Asia,N/A,96.7337188720703
+210,215,2006,N/A,Europe & Central Asia,N/A,96.921630859375
+211,216,2005,N/A,Europe & Central Asia,N/A,98.0765075683594
+212,217,2004,N/A,Europe & Central Asia,N/A,97.8408126831055
+213,218,2003,N/A,Europe & Central Asia,N/A,97.5621795654297
+214,219,2002,N/A,Europe & Central Asia,N/A,98.0746688842773
+215,220,2001,N/A,Europe & Central Asia,N/A,97.823486328125
+216,221,2000,N/A,Europe & Central Asia,N/A,96.1200866699219
+217,222,1999,N/A,Europe & Central Asia,N/A,95.9384078979492
+218,223,1998,N/A,Europe & Central Asia,N/A,95.9751663208008
+219,224,1997,N/A,Europe & Central Asia,N/A,95.9024505615234
+220,225,1996,N/A,Europe & Central Asia,N/A,95.7046279907227
+221,226,1995,N/A,Europe & Central Asia,N/A,95.7503890991211
+222,227,1994,N/A,Europe & Central Asia,N/A,96.4994964599609
+223,228,1993,N/A,Europe & Central Asia,N/A,96.9427185058594
+224,229,1992,N/A,Europe & Central Asia,N/A,97.159912109375
+225,230,1991,N/A,Europe & Central Asia,N/A,96.9283218383789
+226,231,1990,N/A,Europe & Central Asia,N/A,96.8356018066406
+227,232,1989,N/A,Europe & Central Asia,N/A,96.6673736572266
+228,233,1988,N/A,Europe & Central Asia,N/A,97.9564590454102
+229,234,1987,N/A,Europe & Central Asia,N/A,96.3936920166016
+230,235,1986,N/A,Europe & Central Asia,N/A,96.7981719970703
+231,236,1985,N/A,Europe & Central Asia,N/A,96.5160064697266
+232,237,1984,N/A,Europe & Central Asia,N/A,95.9039764404297
+233,238,1983,N/A,Europe & Central Asia,N/A,95.5472030639648
+234,239,1982,N/A,Europe & Central Asia,N/A,95.8685531616211
+235,240,1981,N/A,Europe & Central Asia,N/A,95.9943695068359
+236,241,1980,N/A,Europe & Central Asia,N/A,96.4035873413086
+237,242,1979,N/A,Europe & Central Asia,N/A,96.3424987792969
+238,243,1978,N/A,Europe & Central Asia,N/A,96.5213775634766
+239,244,1977,N/A,Europe & Central Asia,N/A,96.473991394043
+240,245,1976,N/A,Europe & Central Asia,N/A,96.4391937255859
+241,246,1975,N/A,Europe & Central Asia,N/A,96.3960189819336
+242,247,1974,N/A,Europe & Central Asia,N/A,95.7050704956055
+243,248,1973,N/A,Europe & Central Asia,N/A,95.4568328857422
+244,249,1972,N/A,Europe & Central Asia,N/A,95.3789825439453
+245,251,2020,N/A,East Asia & Pacific,N/A,97.7170867919922
+246,252,2019,N/A,East Asia & Pacific,N/A,98.3665924072266
+247,253,2018,N/A,East Asia & Pacific,N/A,98.1277313232422
+248,254,2017,N/A,East Asia & Pacific,N/A,96.0217666625977
+249,255,2016,N/A,East Asia & Pacific,N/A,94.1387481689453
+250,256,2015,N/A,East Asia & Pacific,N/A,91.7858200073242
+251,257,2014,N/A,East Asia & Pacific,N/A,92.8511276245117
+252,258,2013,N/A,East Asia & Pacific,N/A,95.392463684082
+253,259,2012,N/A,East Asia & Pacific,N/A,95.8929824829102
+254,260,2011,N/A,East Asia & Pacific,N/A,95.3548202514648
+255,261,2010,N/A,East Asia & Pacific,N/A,96.3436508178711
+256,262,2009,N/A,East Asia & Pacific,N/A,97.0339736938477
+257,263,2008,N/A,East Asia & Pacific,N/A,97.3116912841797
+258,264,2007,N/A,East Asia & Pacific,N/A,93.8815002441406
+259,265,2006,N/A,East Asia & Pacific,N/A,92.2653579711914
+260,266,2005,N/A,East Asia & Pacific,N/A,92.6233520507813
+261,267,2004,N/A,East Asia & Pacific,N/A,93.001220703125
+262,268,2003,N/A,East Asia & Pacific,N/A,93.2984008789063
+263,269,2002,N/A,East Asia & Pacific,N/A,93.3133392333984
+264,270,2001,N/A,East Asia & Pacific,N/A,93.8838500976563
+265,271,2000,N/A,East Asia & Pacific,N/A,92.7499008178711
+266,272,1999,N/A,East Asia & Pacific,N/A,91.7376403808594
+267,273,1998,N/A,East Asia & Pacific,N/A,90.9440002441406
+268,274,1997,N/A,East Asia & Pacific,N/A,90.1427001953125
+269,275,1996,N/A,East Asia & Pacific,N/A,91.659912109375
+270,276,1995,N/A,East Asia & Pacific,N/A,94.9419784545898
+271,277,1994,N/A,East Asia & Pacific,N/A,97.6075668334961
+272,278,1993,N/A,East Asia & Pacific,N/A,95.8746490478516
+273,279,1992,N/A,East Asia & Pacific,N/A,94.3934478759766
+274,280,1991,N/A,East Asia & Pacific,N/A,96.5764389038086
+275,281,1990,N/A,East Asia & Pacific,N/A,96.2810821533203
+276,282,1989,N/A,East Asia & Pacific,N/A,95.7406692504883
+277,283,1988,N/A,East Asia & Pacific,N/A,95.8620071411133
+278,284,1987,N/A,East Asia & Pacific,N/A,96.1346282958984
+279,301,2020,N/A,North America,N/A,100.258682250977
+280,302,2019,N/A,North America,N/A,100.259582519531
+281,303,2018,N/A,North America,N/A,99.898681640625
+282,304,2017,N/A,North America,N/A,98.746452331543
+283,305,2016,N/A,North America,N/A,98.8179397583008
+284,306,2015,N/A,North America,N/A,98.8875122070313
+285,307,2014,N/A,North America,N/A,98.9552001953125
+286,308,2013,N/A,North America,N/A,99.0257034301758
+287,309,2012,N/A,North America,N/A,99.0955963134766
+288,310,2011,N/A,North America,N/A,99.1632080078125
+289,311,2010,N/A,North America,N/A,99.2304077148438
+290,312,2009,N/A,North America,N/A,99.2958602905273
+291,313,2008,N/A,North America,N/A,99.3628692626953
+292,314,2007,N/A,North America,N/A,99.4293594360352
+293,315,2006,N/A,North America,N/A,99.4945297241211
+294,316,2005,N/A,North America,N/A,99.5635681152344
+295,317,2004,N/A,North America,N/A,99.6343994140625
+296,318,2003,N/A,North America,N/A,99.7073287963867
+297,319,2002,N/A,North America,N/A,99.7807083129883
+298,320,2001,N/A,North America,N/A,99.8437194824219
+299,321,2000,N/A,North America,N/A,99.9085311889648
+300,322,1999,N/A,North America,N/A,99.7495269775391
