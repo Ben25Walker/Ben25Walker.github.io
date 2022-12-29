@@ -1,0 +1,207 @@
+,country,hdi_2019
+0,Afghanistan,0.488
+1,Angola,0.595
+2,Albania,0.81
+3,Andorra,0.873
+4,United Arab Emirates,0.92
+5,Argentina,0.852
+6,Armenia,0.778
+7,Antigua and Barbuda,0.8
+8,Australia,0.941
+9,Austria,0.919
+10,Azerbaijan,0.761
+11,Burundi,0.431
+12,Belgium,0.936
+13,Benin,0.53
+14,Burkina Faso,0.452
+15,Bangladesh,0.644
+16,Bulgaria,0.81
+17,Bahrain,0.882
+18,Bahamas,0.816
+19,Bosnia and Herzegovina,0.783
+20,Belarus,0.817
+21,Belize,0.705
+22,Bolivia (Plurinational State of),0.717
+23,Brazil,0.766
+24,Barbados,0.799
+25,Brunei Darussalam,0.83
+26,Bhutan,0.671
+27,Botswana,0.717
+28,Central African Rep.,0.411
+29,Canada,0.937
+30,Switzerland,0.962
+31,Chile,0.861
+32,China,0.762
+33,Côte d'Ivoire,0.55
+34,Cameroon,0.583
+35,Congo (Democratic Republic of the),0.482
+36,Congo,0.57
+37,Colombia,0.768
+38,Comoros,0.56
+39,Cabo Verde,0.676
+40,Costa Rica,0.819
+41,Cuba,0.788
+42,Cyprus,0.897
+43,Czechia,0.897
+44,Germany,0.948
+45,Djibouti,0.512
+46,Dominica,0.729
+47,Denmark,0.946
+48,Dominican Republic,0.771
+49,Algeria,0.748
+50,Ecuador,0.76
+51,Egypt,0.735
+52,Eritrea,0.495
+53,Spain,0.908
+54,Estonia,0.896
+55,Ethiopia,0.498
+56,Finland,0.939
+57,Fiji,0.746
+58,France,0.905
+59,Micronesia (Federated States of),0.633
+60,Gabon,0.709
+61,United Kingdom,0.935
+62,Georgia,0.81
+63,Ghana,0.631
+64,Guinea,0.467
+65,Gambia,0.503
+66,Guinea-Bissau,0.49
+67,Eq. Guinea,0.605
+68,Greece,0.889
+69,Grenada,0.8
+70,Guatemala,0.642
+71,Guyana,0.708
+72,"Hong Kong, China (SAR)",0.952
+73,Honduras,0.632
+74,Croatia,0.861
+75,Haiti,0.543
+76,Hungary,0.853
+77,Indonesia,0.716
+78,India,0.645
+79,Ireland,0.942
+80,Iran (Islamic Republic of),0.783
+81,Iraq,0.696
+82,Iceland,0.96
+83,Israel,0.921
+84,Italy,0.897
+85,Jamaica,0.719
+86,Jordan,0.727
+87,Japan,0.924
+88,Kazakhstan,0.819
+89,Kenya,0.581
+90,Kyrgyzstan,0.698
+91,Cambodia,0.598
+92,Kiribati,0.63
+93,Saint Kitts and Nevis,0.783
+94,Korea (Republic of),0.923
+95,Kuwait,0.839
+96,Lao People's Democratic Republic,0.61
+97,Lebanon,0.745
+98,Liberia,0.484
+99,Libya,0.722
+100,Saint Lucia,0.735
+101,Liechtenstein,0.94
+102,Sri Lanka,0.778
+103,Lesotho,0.524
+104,Lithuania,0.884
+105,Luxembourg,0.927
+106,Latvia,0.871
+107,Morocco,0.682
+108,Monaco,
+109,Moldova,0.774
+110,Madagascar,0.51
+111,Maldives,0.755
+112,Mexico,0.779
+113,Marshall Islands,0.64
+114,North Macedonia,0.784
+115,Mali,0.433
+116,Malta,0.915
+117,Myanmar,0.598
+118,Montenegro,0.837
+119,Mongolia,0.746
+120,Mozambique,0.456
+121,Mauritania,0.563
+122,Mauritius,0.817
+123,Malawi,0.519
+124,Malaysia,0.81
+125,Namibia,0.639
+126,Niger,0.406
+127,Nigeria,0.538
+128,Nicaragua,0.664
+129,Netherlands,0.943
+130,Norway,0.961
+131,Nepal,0.611
+132,Nauru,
+133,New Zealand,0.937
+134,Oman,0.839
+135,Pakistan,0.546
+136,Panama,0.817
+137,Peru,0.78
+138,Philippines,0.718
+139,Palau,0.776
+140,Papua New Guinea,0.56
+141,Poland,0.881
+142,Korea (Democratic People's Rep. of),
+143,Portugal,0.867
+144,Paraguay,0.732
+145,"Palestine, State of",0.727
+146,Qatar,0.859
+147,Romania,0.832
+148,Russia,0.845
+149,Rwanda,0.534
+150,Saudi Arabia,0.873
+151,Sudan,0.514
+152,Senegal,0.513
+153,Singapore,0.943
+154,Solomon Islands,0.567
+155,Sierra Leone,0.48
+156,El Salvador,0.683
+157,San Marino,0.862
+158,Somalia,
+159,Serbia,0.811
+160,South Sudan,0.393
+161,Sao Tome and Principe,0.622
+162,Suriname,0.755
+163,Slovakia,0.862
+164,Slovenia,0.921
+165,Sweden,0.947
+166,eSwatini ,0.615
+167,Seychelles,0.802
+168,Syrian Arab Republic,0.584
+169,Chad,0.403
+170,Togo,0.535
+171,Thailand,0.804
+172,Tajikistan,0.676
+173,Turkmenistan,0.742
+174,Timor-Leste,0.614
+175,Tonga,0.744
+176,Trinidad and Tobago,0.821
+177,Tunisia,0.745
+178,Turkey,0.842
+179,Tuvalu,0.635
+180,Tanzania ,0.548
+181,Uganda,0.525
+182,Ukraine,0.786
+183,Uruguay,0.821
+184,United States,0.93
+185,Uzbekistan,0.726
+186,Saint Vincent and the Grenadines,0.769
+187,Venezuela (Bolivarian Republic of),0.721
+188,Viet Nam,0.703
+189,Vanuatu,0.611
+190,Samoa,0.715
+191,Yemen,0.461
+192,South Africa,0.736
+193,Zambia,0.575
+194,Zimbabwe,0.601
+195,Very high human development,0.902
+196,High human development,0.756
+197,Medium human development,0.645
+198,Low human development,0.522
+199,Arab States,0.715
+200,East Asia and the Pacific,0.748
+201,Europe and Central Asia,0.802
+202,Latin America and the Caribbean,0.768
+203,South Asia,0.641
+204,Sub-Saharan Africa,0.552
+205,World,0.739
