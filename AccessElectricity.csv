@@ -1,4 +1,4 @@
-﻿Country Name,Year,Access to Electricity (% of population)
+﻿Country,Year,Access to Electricity (% of population)
 Aruba,2020,100
 Africa Eastern and Southern,2020,45.80348523
 Afghanistan,2020,97.69999695
@@ -39,11 +39,11 @@ Central Europe and the Baltics,2020,99.97964003
 Switzerland,2020,100
 Channel Islands,2020,100
 Chile,2020,100
-People's Republic of China,2020,100
-Ivory Coast,2020,69.67912292
+China,2020,100
+Cote d'Ivoire,2020,69.67912292
 Cameroon,2020,64.72136688
-"Democratic Republic of the Congo",2020,19.10000038
-"Republic of the Congo",2020,49.51710129
+"Congo, Dem. Rep.",2020,19.10000038
+"Congo, Rep.",2020,49.51710129
 Colombia,2020,100
 Comoros,2020,86.73713684
 Cabo Verde,2020,94.16174316
@@ -53,7 +53,7 @@ Cuba,2020,100
 Curacao,2020,100
 Cayman Islands,2020,100
 Cyprus,2020,100
-Czech Republic,2020,100
+Czechia,2020,100
 Germany,2020,100
 Djibouti,2020,61.76708221
 Dominica,2020,100
@@ -66,7 +66,7 @@ East Asia & Pacific,2020,98.01333385
 Europe & Central Asia (excluding high income),2020,99.98920108
 Europe & Central Asia,2020,99.99532134
 Ecuador,2020,98.84999847
-"Egypt",2020,100
+"Egypt, Arab Rep.",2020,100
 Euro area,2020,100
 Eritrea,2020,52.1710968
 Spain,2020,100
@@ -121,14 +121,14 @@ Jordan,2020,99.90000153
 Japan,2020,100
 Kazakhstan,2020,100
 Kenya,2020,71.4379425
-Kyrgyzstan,2020,99.98104858
+Kyrgyz Republic,2020,99.98104858
 Cambodia,2020,86.40000153
 Kiribati,2020,91.96302795
 St. Kitts and Nevis,2020,100
-"Korea, Rep.",2020,100
+South Korea,2020,100
 Kuwait,2020,100
 Latin America & Caribbean (excluding high income),2020,98.38595442
-Laos,2020,100
+Lao PDR,2020,100
 Lebanon,2020,100
 Liberia,2020,27.53470993
 Libya,2020,69.70735168
@@ -201,7 +201,7 @@ Post-demographic dividend,2020,99.99813813
 French Polynesia,2020,100
 Qatar,2020,100
 Romania,2020,100
-Russia,2020,100
+Russian Federation,2020,100
 Rwanda,2020,46.59999847
 South Asia,2020,95.78428943
 Saudi Arabia,2020,100
@@ -220,7 +220,7 @@ Sub-Saharan Africa,2020,48.35107879
 Small states,2020,83.18852027
 Sao Tome and Principe,2020,76.55908966
 Suriname,2020,98.20477295
-Slovakia,2020,100
+Slovak Republic,2020,100
 Slovenia,2020,100
 Sweden,2020,100
 Eswatini,2020,79.73049927
@@ -243,14 +243,14 @@ South Asia (IDA & IBRD),2020,95.78428943
 Sub-Saharan Africa (IDA & IBRD countries),2020,48.35107879
 Trinidad and Tobago,2020,100
 Tunisia,2020,100
-Turkey,2020,100
+Turkiye,2020,100
 Tuvalu,2020,99.68923187
 Tanzania,2020,39.90000153
 Uganda,2020,42.07441711
 Ukraine,2020,100
 Upper middle income,2020,99.37388382
 Uruguay,2020,100
-United States of America,2020,100
+United States,2020,100
 Uzbekistan,2020,100
 St. Vincent and the Grenadines,2020,100
 "Venezuela, RB",2020,100
@@ -265,3 +265,6 @@ Kosovo,2020,
 South Africa,2020,84.38553619
 Zambia,2020,44.5244751
 Zimbabwe,2020,52.74766922
+North Korea,,
+,,
+Western Sahara,,
