@@ -1,0 +1,4867 @@
+﻿date ,Region,price
+01/02/1988,East Anglia,0.8936
+01/02/1988,East Midlands,0.8426
+01/02/1988,London,0.9474
+01/02/1988,North,0.8308
+01/02/1988,North West,0.7922
+01/02/1988,Northern Ireland,0.9782
+01/02/1988,Scotland,0.8911
+01/02/1988,South East,0.9427
+01/02/1988,South West,0.8920
+01/02/1988,Wales,0.8097
+01/02/1988,West Midlands,0.8100
+01/02/1988,Yorkshire & Humber,0.8158
+01/03/1988,East Anglia,0.8936
+01/03/1988,East Midlands,0.8428
+01/03/1988,London,0.9528
+01/03/1988,North,0.8293
+01/03/1988,North West,0.7968
+01/03/1988,Northern Ireland,0.9782
+01/03/1988,Scotland,0.8873
+01/03/1988,South East,0.9425
+01/03/1988,South West,0.8937
+01/03/1988,Wales,0.8106
+01/03/1988,West Midlands,0.8090
+01/03/1988,Yorkshire & Humber,0.8183
+01/04/1988,East Anglia,0.9191
+01/04/1988,East Midlands,0.8643
+01/04/1988,London,0.9828
+01/04/1988,North,0.8439
+01/04/1988,North West,0.8131
+01/04/1988,Northern Ireland,0.9896
+01/04/1988,Scotland,0.9039
+01/04/1988,South East,0.9754
+01/04/1988,South West,0.9000
+01/04/1988,Wales,0.8279
+01/04/1988,West Midlands,0.8222
+01/04/1988,Yorkshire & Humber,0.8343
+01/05/1988,East Anglia,0.9216
+01/05/1988,East Midlands,0.8683
+01/05/1988,London,0.9727
+01/05/1988,North,0.8452
+01/05/1988,North West,0.8166
+01/05/1988,Northern Ireland,0.9935
+01/05/1988,Scotland,0.9063
+01/05/1988,South East,0.9690
+01/05/1988,South West,0.9074
+01/05/1988,Wales,0.8265
+01/05/1988,West Midlands,0.8245
+01/05/1988,Yorkshire & Humber,0.8354
+01/06/1988,East Anglia,0.9186
+01/06/1988,East Midlands,0.8617
+01/06/1988,London,0.9881
+01/06/1988,North,0.8518
+01/06/1988,North West,0.8164
+01/06/1988,Northern Ireland,0.9948
+01/06/1988,Scotland,0.9094
+01/06/1988,South East,0.9748
+01/06/1988,South West,0.9105
+01/06/1988,Wales,0.8328
+01/06/1988,West Midlands,0.8235
+01/06/1988,Yorkshire & Humber,0.8370
+01/07/1988,East Anglia,0.9183
+01/07/1988,East Midlands,0.8660
+01/07/1988,London,0.9958
+01/07/1988,North,0.8495
+01/07/1988,North West,0.8243
+01/07/1988,Northern Ireland,0.9935
+01/07/1988,Scotland,0.9170
+01/07/1988,South East,0.9747
+01/07/1988,South West,0.9105
+01/07/1988,Wales,0.8324
+01/07/1988,West Midlands,0.8271
+01/07/1988,Yorkshire & Humber,0.8413
+01/09/1988,East Anglia,0.9352
+01/09/1988,East Midlands,0.8814
+01/09/1988,London,1.0111
+01/09/1988,North,0.8568
+01/09/1988,North West,0.8470
+01/09/1988,Northern Ireland,0.9957
+01/09/1988,Scotland,0.9389
+01/09/1988,South East,0.9979
+01/09/1988,South West,0.9261
+01/09/1988,Wales,0.8352
+01/09/1988,West Midlands,0.8466
+01/09/1988,Yorkshire & Humber,0.8660
+01/10/1988,East Anglia,0.9595
+01/10/1988,East Midlands,0.8871
+01/10/1988,London,1.0189
+01/10/1988,North,0.8755
+01/10/1988,North West,0.8471
+01/10/1988,Northern Ireland,1.0113
+01/10/1988,Scotland,0.9389
+01/10/1988,South East,0.9980
+01/10/1988,South West,0.9503
+01/10/1988,Wales,0.8419
+01/10/1988,West Midlands,0.8664
+01/10/1988,Yorkshire & Humber,0.8662
+01/11/1988,East Anglia,0.9603
+01/11/1988,East Midlands,0.9047
+01/11/1988,London,1.0264
+01/11/1988,North,0.8798
+01/11/1988,North West,0.8476
+01/11/1988,Northern Ireland,1.0232
+01/11/1988,Scotland,0.9412
+01/11/1988,South East,1.0130
+01/11/1988,South West,0.9603
+01/11/1988,Wales,0.8423
+01/11/1988,West Midlands,0.8702
+01/11/1988,Yorkshire & Humber,0.8721
+01/12/1988,East Anglia,0.9608
+01/12/1988,East Midlands,0.9128
+01/12/1988,London,1.0261
+01/12/1988,North,0.8836
+01/12/1988,North West,0.8480
+01/12/1988,Northern Ireland,1.0300
+01/12/1988,Scotland,0.9436
+01/12/1988,South East,1.0231
+01/12/1988,South West,0.9598
+01/12/1988,Wales,0.8442
+01/12/1988,West Midlands,0.8707
+01/12/1988,Yorkshire & Humber,0.8751
+01/01/1989,East Anglia,0.9592
+01/01/1989,East Midlands,0.9129
+01/01/1989,London,1.0527
+01/01/1989,North,0.8877
+01/01/1989,North West,0.8530
+01/01/1989,Northern Ireland,1.0400
+01/01/1989,Scotland,0.9442
+01/01/1989,South East,1.0200
+01/01/1989,South West,0.9671
+01/01/1989,Wales,0.8587
+01/01/1989,West Midlands,0.8743
+01/01/1989,Yorkshire & Humber,0.8781
+01/03/1989,East Anglia,0.9637
+01/03/1989,East Midlands,0.9164
+01/03/1989,London,1.0622
+01/03/1989,North,0.8848
+01/03/1989,North West,0.8610
+01/03/1989,Northern Ireland,1.0425
+01/03/1989,Scotland,0.9496
+01/03/1989,South East,1.0225
+01/03/1989,South West,0.9778
+01/03/1989,Wales,0.8814
+01/03/1989,West Midlands,0.8826
+01/03/1989,Yorkshire & Humber,0.8815
+01/05/1989,East Anglia,0.9641
+01/05/1989,East Midlands,0.9270
+01/05/1989,London,1.0771
+01/05/1989,North,0.8905
+01/05/1989,North West,0.8693
+01/05/1989,Northern Ireland,1.0454
+01/05/1989,Scotland,0.9602
+01/05/1989,South East,1.0353
+01/05/1989,South West,0.9820
+01/05/1989,Wales,0.8841
+01/05/1989,West Midlands,0.8894
+01/05/1989,Yorkshire & Humber,0.8863
+01/06/1989,East Anglia,0.9653
+01/06/1989,East Midlands,0.9300
+01/06/1989,London,1.0671
+01/06/1989,North,0.9041
+01/06/1989,North West,0.8789
+01/06/1989,Northern Ireland,1.0579
+01/06/1989,Scotland,0.9622
+01/06/1989,South East,1.0301
+01/06/1989,South West,0.9793
+01/06/1989,Wales,0.8803
+01/06/1989,West Midlands,0.8933
+01/06/1989,Yorkshire & Humber,0.8907
+01/07/1989,East Anglia,0.9752
+01/07/1989,East Midlands,0.9396
+01/07/1989,London,1.0992
+01/07/1989,North,0.9144
+01/07/1989,North West,0.8823
+01/07/1989,Northern Ireland,1.0600
+01/07/1989,Scotland,0.9775
+01/07/1989,South East,1.0374
+01/07/1989,South West,0.9920
+01/07/1989,Wales,0.8803
+01/07/1989,West Midlands,0.8983
+01/07/1989,Yorkshire & Humber,0.9018
+01/08/1989,East Anglia,0.9935
+01/08/1989,East Midlands,0.9472
+01/08/1989,London,1.1062
+01/08/1989,North,0.9295
+01/08/1989,North West,0.8909
+01/08/1989,Northern Ireland,1.0622
+01/08/1989,Scotland,0.9845
+01/08/1989,South East,1.0581
+01/08/1989,South West,1.0033
+01/08/1989,Wales,0.8913
+01/08/1989,West Midlands,0.8977
+01/08/1989,Yorkshire & Humber,0.9294
+01/09/1989,East Anglia,1.0033
+01/09/1989,East Midlands,0.9667
+01/09/1989,London,1.1119
+01/09/1989,North,0.9324
+01/09/1989,North West,0.8932
+01/09/1989,Northern Ireland,1.0600
+01/09/1989,Scotland,0.9902
+01/09/1989,South East,1.0638
+01/09/1989,South West,1.0243
+01/09/1989,Wales,0.8979
+01/09/1989,West Midlands,0.9072
+01/09/1989,Yorkshire & Humber,0.9289
+01/10/1989,East Anglia,1.0239
+01/10/1989,East Midlands,0.9786
+01/10/1989,London,1.1150
+01/10/1989,North,0.9339
+01/10/1989,North West,0.8973
+01/10/1989,Northern Ireland,1.0943
+01/10/1989,Scotland,0.9951
+01/10/1989,South East,1.0806
+01/10/1989,South West,1.0253
+01/10/1989,Wales,0.9015
+01/10/1989,West Midlands,0.9365
+01/10/1989,Yorkshire & Humber,0.9314
+01/11/1989,East Anglia,1.0265
+01/11/1989,East Midlands,0.9700
+01/11/1989,London,1.1206
+01/11/1989,North,0.9405
+01/11/1989,North West,0.8997
+01/11/1989,Northern Ireland,1.0996
+01/11/1989,Scotland,0.9974
+01/11/1989,South East,1.0874
+01/11/1989,South West,1.0367
+01/11/1989,Wales,0.9024
+01/11/1989,West Midlands,0.9280
+01/11/1989,Yorkshire & Humber,0.9370
+01/12/1989,East Anglia,1.0303
+01/12/1989,East Midlands,0.9746
+01/12/1989,London,1.1258
+01/12/1989,North,0.9370
+01/12/1989,North West,0.9032
+01/12/1989,Northern Ireland,1.0954
+01/12/1989,Scotland,0.9994
+01/12/1989,South East,1.0920
+01/12/1989,South West,1.0391
+01/12/1989,Wales,0.8994
+01/12/1989,West Midlands,0.9442
+01/12/1989,Yorkshire & Humber,0.9431
+01/01/1990,East Anglia,1.0306
+01/01/1990,East Midlands,0.9598
+01/01/1990,London,1.1397
+01/01/1990,North,0.9478
+01/01/1990,North West,0.9083
+01/01/1990,Northern Ireland,1.1036
+01/01/1990,Scotland,0.9996
+01/01/1990,South East,1.1005
+01/01/1990,South West,1.0326
+01/01/1990,Wales,0.9119
+01/01/1990,West Midlands,0.9352
+01/01/1990,Yorkshire & Humber,0.9364
+01/02/1990,East Anglia,1.0363
+01/02/1990,East Midlands,0.9769
+01/02/1990,London,1.1651
+01/02/1990,North,0.9605
+01/02/1990,North West,0.9151
+01/02/1990,Northern Ireland,1.1036
+01/02/1990,Scotland,1.0016
+01/02/1990,South East,1.1058
+01/02/1990,South West,1.0331
+01/02/1990,Wales,0.9364
+01/02/1990,West Midlands,0.9476
+01/02/1990,Yorkshire & Humber,0.9400
+01/03/1990,East Anglia,1.0359
+01/03/1990,East Midlands,0.9804
+01/03/1990,London,1.1671
+01/03/1990,North,0.9755
+01/03/1990,North West,0.9196
+01/03/1990,Northern Ireland,1.1036
+01/03/1990,Scotland,1.0042
+01/03/1990,South East,1.1005
+01/03/1990,South West,1.0367
+01/03/1990,Wales,0.9413
+01/03/1990,West Midlands,0.9305
+01/03/1990,Yorkshire & Humber,0.9416
+01/04/1990,East Anglia,1.1050
+01/04/1990,East Midlands,1.0076
+01/04/1990,London,1.2116
+01/04/1990,North,0.9990
+01/04/1990,North West,0.9484
+01/04/1990,Northern Ireland,1.1400
+01/04/1990,Scotland,1.0359
+01/04/1990,South East,1.1441
+01/04/1990,South West,1.0744
+01/04/1990,Wales,0.9662
+01/04/1990,West Midlands,0.9495
+01/04/1990,Yorkshire & Humber,0.9831
+01/05/1990,East Anglia,1.1103
+01/05/1990,East Midlands,1.0247
+01/05/1990,London,1.2088
+01/05/1990,North,1.0146
+01/05/1990,North West,0.9642
+01/05/1990,Northern Ireland,1.1600
+01/05/1990,Scotland,1.0476
+01/05/1990,South East,1.1522
+01/05/1990,South West,1.0917
+01/05/1990,Wales,0.9846
+01/05/1990,West Midlands,0.9974
+01/05/1990,Yorkshire & Humber,0.9800
+01/06/1990,East Anglia,1.1077
+01/06/1990,East Midlands,1.0271
+01/06/1990,London,1.2137
+01/06/1990,North,1.0146
+01/06/1990,North West,0.9696
+01/06/1990,Northern Ireland,1.1600
+01/06/1990,Scotland,1.0484
+01/06/1990,South East,1.1568
+01/06/1990,South West,1.0992
+01/06/1990,Wales,0.9844
+01/06/1990,West Midlands,1.0035
+01/06/1990,Yorkshire & Humber,0.9867
+01/07/1990,East Anglia,1.1233
+01/07/1990,East Midlands,1.0409
+01/07/1990,London,1.2357
+01/07/1990,North,1.0185
+01/07/1990,North West,0.9899
+01/07/1990,Northern Ireland,1.1605
+01/07/1990,Scotland,1.0882
+01/07/1990,South East,1.1737
+01/07/1990,South West,1.1193
+01/07/1990,Wales,0.9886
+01/07/1990,West Midlands,1.0116
+01/07/1990,Yorkshire & Humber,1.0140
+01/08/1990,East Anglia,1.1282
+01/08/1990,East Midlands,1.0644
+01/08/1990,London,1.2528
+01/08/1990,North,1.0497
+01/08/1990,North West,0.9976
+01/08/1990,Northern Ireland,1.1605
+01/08/1990,Scotland,1.0923
+01/08/1990,South East,1.2093
+01/08/1990,South West,1.1448
+01/08/1990,Wales,0.9946
+01/08/1990,West Midlands,1.0264
+01/08/1990,Yorkshire & Humber,1.0270
+01/09/1990,East Anglia,1.1559
+01/09/1990,East Midlands,1.0708
+01/09/1990,London,1.2679
+01/09/1990,North,1.0438
+01/09/1990,North West,1.0019
+01/09/1990,Northern Ireland,1.1605
+01/09/1990,Scotland,1.0912
+01/09/1990,South East,1.2130
+01/09/1990,South West,1.1597
+01/09/1990,Wales,1.0114
+01/09/1990,West Midlands,1.0342
+01/09/1990,Yorkshire & Humber,1.0274
+01/10/1990,East Anglia,1.1770
+01/10/1990,East Midlands,1.0880
+01/10/1990,London,1.2800
+01/10/1990,North,1.0483
+01/10/1990,North West,1.0063
+01/10/1990,Northern Ireland,1.2110
+01/10/1990,Scotland,1.0955
+01/10/1990,South East,1.2158
+01/10/1990,South West,1.1652
+01/10/1990,Wales,1.0200
+01/10/1990,West Midlands,1.0716
+01/10/1990,Yorkshire & Humber,1.0307
+01/11/1990,East Anglia,1.1745
+01/11/1990,East Midlands,1.0738
+01/11/1990,London,1.2784
+01/11/1990,North,1.0481
+01/11/1990,North West,1.0081
+01/11/1990,Northern Ireland,1.2105
+01/11/1990,Scotland,1.1005
+01/11/1990,South East,1.2105
+01/11/1990,South West,1.1755
+01/11/1990,Wales,1.0278
+01/11/1990,West Midlands,1.0747
+01/11/1990,Yorkshire & Humber,1.0361
+01/12/1990,East Anglia,1.1902
+01/12/1990,East Midlands,1.0848
+01/12/1990,London,1.2976
+01/12/1990,North,1.0555
+01/12/1990,North West,1.0149
+01/12/1990,Northern Ireland,1.2127
+01/12/1990,Scotland,1.0996
+01/12/1990,South East,1.2240
+01/12/1990,South West,1.1940
+01/12/1990,Wales,1.0335
+01/12/1990,West Midlands,1.0771
+01/12/1990,Yorkshire & Humber,1.0389
+01/01/1991,East Anglia,1.2008
+01/01/1991,East Midlands,1.0790
+01/01/1991,London,1.3174
+01/01/1991,North,1.0553
+01/01/1991,North West,1.0199
+01/01/1991,Northern Ireland,1.2157
+01/01/1991,Scotland,1.1018
+01/01/1991,South East,1.2420
+01/01/1991,South West,1.2019
+01/01/1991,Wales,1.0376
+01/01/1991,West Midlands,1.0774
+01/01/1991,Yorkshire & Humber,1.0412
+01/02/1991,East Anglia,1.1957
+01/02/1991,East Midlands,1.1297
+01/02/1991,London,1.3208
+01/02/1991,North,1.0602
+01/02/1991,North West,1.0328
+01/02/1991,Northern Ireland,1.2136
+01/02/1991,Scotland,1.1070
+01/02/1991,South East,1.2498
+01/02/1991,South West,1.2019
+01/02/1991,Wales,1.0447
+01/02/1991,West Midlands,1.0816
+01/02/1991,Yorkshire & Humber,1.0371
+01/03/1991,East Anglia,1.2002
+01/03/1991,East Midlands,1.1297
+01/03/1991,London,1.3151
+01/03/1991,North,1.0687
+01/03/1991,North West,1.0338
+01/03/1991,Northern Ireland,1.2136
+01/03/1991,Scotland,1.1092
+01/03/1991,South East,1.2484
+01/03/1991,South West,1.2063
+01/03/1991,Wales,1.0589
+01/03/1991,West Midlands,1.0803
+01/03/1991,Yorkshire & Humber,1.0430
+01/04/1991,East Anglia,1.2781
+01/04/1991,East Midlands,1.2043
+01/04/1991,London,1.3751
+01/04/1991,North,1.1439
+01/04/1991,North West,1.0986
+01/04/1991,Northern Ireland,1.2714
+01/04/1991,Scotland,1.1696
+01/04/1991,South East,1.3175
+01/04/1991,South West,1.2802
+01/04/1991,Wales,1.1222
+01/04/1991,West Midlands,1.1450
+01/04/1991,Yorkshire & Humber,1.1140
+01/05/1991,East Anglia,1.2873
+01/05/1991,East Midlands,1.2092
+01/05/1991,London,1.3724
+01/05/1991,North,1.1404
+01/05/1991,North West,1.1028
+01/05/1991,Northern Ireland,1.2705
+01/05/1991,Scotland,1.1712
+01/05/1991,South East,1.3277
+01/05/1991,South West,1.2859
+01/05/1991,Wales,1.1171
+01/05/1991,West Midlands,1.1446
+01/05/1991,Yorkshire & Humber,1.1148
+01/06/1991,East Anglia,1.2890
+01/06/1991,East Midlands,1.2173
+01/06/1991,London,1.3884
+01/06/1991,North,1.1538
+01/06/1991,North West,1.1153
+01/06/1991,Northern Ireland,1.2727
+01/06/1991,Scotland,1.1818
+01/06/1991,South East,1.3362
+01/06/1991,South West,1.2917
+01/06/1991,Wales,1.1217
+01/06/1991,West Midlands,1.1522
+01/06/1991,Yorkshire & Humber,1.1179
+01/07/1991,East Anglia,1.3040
+01/07/1991,East Midlands,1.2432
+01/07/1991,London,1.4016
+01/07/1991,North,1.1610
+01/07/1991,North West,1.1310
+01/07/1991,Northern Ireland,1.2714
+01/07/1991,Scotland,1.2264
+01/07/1991,South East,1.3603
+01/07/1991,South West,1.3188
+01/07/1991,Wales,1.1224
+01/07/1991,West Midlands,1.1633
+01/07/1991,Yorkshire & Humber,1.1408
+01/08/1991,East Anglia,1.3217
+01/08/1991,East Midlands,1.2436
+01/08/1991,London,1.4120
+01/08/1991,North,1.1764
+01/08/1991,North West,1.1352
+01/08/1991,Northern Ireland,1.2773
+01/08/1991,Scotland,1.2298
+01/08/1991,South East,1.3663
+01/08/1991,South West,1.3248
+01/08/1991,Wales,1.1314
+01/08/1991,West Midlands,1.1850
+01/08/1991,Yorkshire & Humber,1.1560
+01/09/1991,East Anglia,1.3468
+01/09/1991,East Midlands,1.2488
+01/09/1991,London,1.4327
+01/09/1991,North,1.1832
+01/09/1991,North West,1.1399
+01/09/1991,Northern Ireland,1.2810
+01/09/1991,Scotland,1.2322
+01/09/1991,South East,1.3834
+01/09/1991,South West,1.3370
+01/09/1991,Wales,1.1471
+01/09/1991,West Midlands,1.1936
+01/09/1991,Yorkshire & Humber,1.1610
+01/10/1991,East Anglia,1.3549
+01/10/1991,East Midlands,1.2488
+01/10/1991,London,1.4260
+01/10/1991,North,1.1920
+01/10/1991,North West,1.1426
+01/10/1991,Northern Ireland,1.3388
+01/10/1991,Scotland,1.2279
+01/10/1991,South East,1.3787
+01/10/1991,South West,1.3413
+01/10/1991,Wales,1.1688
+01/10/1991,West Midlands,1.2004
+01/10/1991,Yorkshire & Humber,1.1674
+01/11/1991,East Anglia,1.3512
+01/11/1991,East Midlands,1.2483
+01/11/1991,London,1.4277
+01/11/1991,North,1.1990
+01/11/1991,North West,1.1407
+01/11/1991,Northern Ireland,1.3590
+01/11/1991,Scotland,1.2356
+01/11/1991,South East,1.3865
+01/11/1991,South West,1.3440
+01/11/1991,Wales,1.1740
+01/11/1991,West Midlands,1.1967
+01/11/1991,Yorkshire & Humber,1.1685
+01/12/1991,East Anglia,1.3480
+01/12/1991,East Midlands,1.2477
+01/12/1991,London,1.4286
+01/12/1991,North,1.1977
+01/12/1991,North West,1.1417
+01/12/1991,Northern Ireland,1.3590
+01/12/1991,Scotland,1.2341
+01/12/1991,South East,1.3911
+01/12/1991,South West,1.3440
+01/12/1991,Wales,1.1786
+01/12/1991,West Midlands,1.1894
+01/12/1991,Yorkshire & Humber,1.1696
+01/01/1992,East Anglia,1.3320
+01/01/1992,East Midlands,1.2457
+01/01/1992,London,1.4346
+01/01/1992,North,1.1939
+01/01/1992,North West,1.1487
+01/01/1992,Northern Ireland,1.3590
+01/01/1992,Scotland,1.2347
+01/01/1992,South East,1.3957
+01/01/1992,South West,1.3521
+01/01/1992,Wales,1.1820
+01/01/1992,West Midlands,1.1949
+01/01/1992,Yorkshire & Humber,1.1682
+01/02/1992,East Anglia,1.3433
+01/02/1992,East Midlands,1.2449
+01/02/1992,London,1.4235
+01/02/1992,North,1.1972
+01/02/1992,North West,1.1634
+01/02/1992,Northern Ireland,1.3539
+01/02/1992,Scotland,1.2398
+01/02/1992,South East,1.4033
+01/02/1992,South West,1.3607
+01/02/1992,Wales,1.1880
+01/02/1992,West Midlands,1.1942
+01/02/1992,Yorkshire & Humber,1.1684
+01/03/1992,East Anglia,1.3465
+01/03/1992,East Midlands,1.2578
+01/03/1992,London,1.4322
+01/03/1992,North,1.2182
+01/03/1992,North West,1.1699
+01/03/1992,Northern Ireland,1.3539
+01/03/1992,Scotland,1.2389
+01/03/1992,South East,1.4109
+01/03/1992,South West,1.3583
+01/03/1992,Wales,1.1910
+01/03/1992,West Midlands,1.1945
+01/03/1992,Yorkshire & Humber,1.1675
+01/04/1992,East Anglia,1.3670
+01/04/1992,East Midlands,1.2779
+01/04/1992,London,1.4462
+01/04/1992,North,1.2404
+01/04/1992,North West,1.1812
+01/04/1992,Northern Ireland,1.3682
+01/04/1992,Scotland,1.2566
+01/04/1992,South East,1.4230
+01/04/1992,South West,1.3742
+01/04/1992,Wales,1.2109
+01/04/1992,West Midlands,1.2081
+01/04/1992,Yorkshire & Humber,1.1777
+01/05/1992,East Anglia,1.3748
+01/05/1992,East Midlands,1.2687
+01/05/1992,London,1.4534
+01/05/1992,North,1.2408
+01/05/1992,North West,1.1871
+01/05/1992,Northern Ireland,1.3787
+01/05/1992,Scotland,1.2657
+01/05/1992,South East,1.4309
+01/05/1992,South West,1.3796
+01/05/1992,Wales,1.2143
+01/05/1992,West Midlands,1.2086
+01/05/1992,Yorkshire & Humber,1.1838
+01/06/1992,East Anglia,1.3762
+01/06/1992,East Midlands,1.2733
+01/06/1992,London,1.4740
+01/06/1992,North,1.2555
+01/06/1992,North West,1.1944
+01/06/1992,Northern Ireland,1.3787
+01/06/1992,Scotland,1.2834
+01/06/1992,South East,1.4366
+01/06/1992,South West,1.3849
+01/06/1992,Wales,1.2130
+01/06/1992,West Midlands,1.2149
+01/06/1992,Yorkshire & Humber,1.1827
+01/07/1992,East Anglia,1.3920
+01/07/1992,East Midlands,1.2861
+01/07/1992,London,1.4708
+01/07/1992,North,1.2512
+01/07/1992,North West,1.2043
+01/07/1992,Northern Ireland,1.3787
+01/07/1992,Scotland,1.3207
+01/07/1992,South East,1.4533
+01/07/1992,South West,1.3970
+01/07/1992,Wales,1.2162
+01/07/1992,West Midlands,1.2151
+01/07/1992,Yorkshire & Humber,1.1976
+01/08/1992,East Anglia,1.3934
+01/08/1992,East Midlands,1.2920
+01/08/1992,London,1.4624
+01/08/1992,North,1.2551
+01/08/1992,North West,1.2080
+01/08/1992,Northern Ireland,1.3774
+01/08/1992,Scotland,1.3211
+01/08/1992,South East,1.4598
+01/08/1992,South West,1.3976
+01/08/1992,Wales,1.2130
+01/08/1992,West Midlands,1.2450
+01/08/1992,Yorkshire & Humber,1.2026
+01/09/1992,East Anglia,1.4060
+01/09/1992,East Midlands,1.3021
+01/09/1992,London,1.4743
+01/09/1992,North,1.2635
+01/09/1992,North West,1.2115
+01/09/1992,Northern Ireland,1.3787
+01/09/1992,Scotland,1.3191
+01/09/1992,South East,1.4685
+01/09/1992,South West,1.4164
+01/09/1992,Wales,1.2202
+01/09/1992,West Midlands,1.2530
+01/09/1992,Yorkshire & Humber,1.2106
+01/10/1992,East Anglia,1.4144
+01/10/1992,East Midlands,1.3145
+01/10/1992,London,1.4931
+01/10/1992,North,1.2647
+01/10/1992,North West,1.2127
+01/10/1992,Northern Ireland,1.4223
+01/10/1992,Scotland,1.3156
+01/10/1992,South East,1.4738
+01/10/1992,South West,1.4171
+01/10/1992,Wales,1.2434
+01/10/1992,West Midlands,1.2568
+01/10/1992,Yorkshire & Humber,1.2205
+01/11/1992,East Anglia,1.4120
+01/11/1992,East Midlands,1.3148
+01/11/1992,London,1.4829
+01/11/1992,North,1.2713
+01/11/1992,North West,1.2128
+01/11/1992,Northern Ireland,1.4245
+01/11/1992,Scotland,1.3203
+01/11/1992,South East,1.4700
+01/11/1992,South West,1.4232
+01/11/1992,Wales,1.2451
+01/11/1992,West Midlands,1.2624
+01/11/1992,Yorkshire & Humber,1.2229
+01/12/1992,East Anglia,1.4211
+01/12/1992,East Midlands,1.3242
+01/12/1992,London,1.4826
+01/12/1992,North,1.2650
+01/12/1992,North West,1.2091
+01/12/1992,Northern Ireland,1.4244
+01/12/1992,Scotland,1.3209
+01/12/1992,South East,1.4737
+01/12/1992,South West,1.4224
+01/12/1992,Wales,1.2521
+01/12/1992,West Midlands,1.2586
+01/12/1992,Yorkshire & Humber,1.2269
+01/01/1993,East Anglia,1.4104
+01/01/1993,East Midlands,1.3214
+01/01/1993,London,1.4999
+01/01/1993,North,1.2759
+01/01/1993,North West,1.2069
+01/01/1993,Northern Ireland,1.4243
+01/01/1993,Scotland,1.3247
+01/01/1993,South East,1.4716
+01/01/1993,South West,1.4186
+01/01/1993,Wales,1.2488
+01/01/1993,West Midlands,1.2614
+01/01/1993,Yorkshire & Humber,1.2280
+01/02/1993,East Anglia,1.4108
+01/02/1993,East Midlands,1.3140
+01/02/1993,London,1.4914
+01/02/1993,North,1.2742
+01/02/1993,North West,1.2185
+01/02/1993,Northern Ireland,1.4329
+01/02/1993,Scotland,1.3246
+01/02/1993,South East,1.4645
+01/02/1993,South West,1.4069
+01/02/1993,Wales,1.2502
+01/02/1993,West Midlands,1.2637
+01/02/1993,Yorkshire & Humber,1.2246
+01/03/1993,East Anglia,1.4108
+01/03/1993,East Midlands,1.3181
+01/03/1993,London,1.4859
+01/03/1993,North,1.2852
+01/03/1993,North West,1.2186
+01/03/1993,Northern Ireland,1.4350
+01/03/1993,Scotland,1.3225
+01/03/1993,South East,1.4688
+01/03/1993,South West,1.4131
+01/03/1993,Wales,1.2538
+01/03/1993,West Midlands,1.2609
+01/03/1993,Yorkshire & Humber,1.2230
+01/04/1993,East Anglia,1.4341
+01/04/1993,East Midlands,1.3431
+01/04/1993,London,1.5110
+01/04/1993,North,1.3104
+01/04/1993,North West,1.2478
+01/04/1993,Northern Ireland,1.4662
+01/04/1993,Scotland,1.3532
+01/04/1993,South East,1.4942
+01/04/1993,South West,1.4403
+01/04/1993,Wales,1.2726
+01/04/1993,West Midlands,1.2857
+01/04/1993,Yorkshire & Humber,1.2411
+01/05/1993,East Anglia,1.4374
+01/05/1993,East Midlands,1.3460
+01/05/1993,London,1.5115
+01/05/1993,North,1.3101
+01/05/1993,North West,1.2456
+01/05/1993,Northern Ireland,1.4662
+01/05/1993,Scotland,1.3625
+01/05/1993,South East,1.4911
+01/05/1993,South West,1.4477
+01/05/1993,Wales,1.2745
+01/05/1993,West Midlands,1.2830
+01/05/1993,Yorkshire & Humber,1.2456
+01/06/1993,East Anglia,1.4406
+01/06/1993,East Midlands,1.3481
+01/06/1993,London,1.5151
+01/06/1993,North,1.3155
+01/06/1993,North West,1.2482
+01/06/1993,Northern Ireland,1.4717
+01/06/1993,Scotland,1.3769
+01/06/1993,South East,1.5008
+01/06/1993,South West,1.4645
+01/06/1993,Wales,1.2776
+01/06/1993,West Midlands,1.2803
+01/06/1993,Yorkshire & Humber,1.2518
+01/07/1993,East Anglia,1.4600
+01/07/1993,East Midlands,1.3721
+01/07/1993,London,1.5273
+01/07/1993,North,1.3184
+01/07/1993,North West,1.2574
+01/07/1993,Northern Ireland,1.4733
+01/07/1993,Scotland,1.3841
+01/07/1993,South East,1.5181
+01/07/1993,South West,1.4759
+01/07/1993,Wales,1.2904
+01/07/1993,West Midlands,1.3131
+01/07/1993,Yorkshire & Humber,1.2605
+01/08/1993,East Anglia,1.4566
+01/08/1993,East Midlands,1.3762
+01/08/1993,London,1.5246
+01/08/1993,North,1.3186
+01/08/1993,North West,1.2581
+01/08/1993,Northern Ireland,1.4737
+01/08/1993,Scotland,1.3874
+01/08/1993,South East,1.5240
+01/08/1993,South West,1.4837
+01/08/1993,Wales,1.3114
+01/08/1993,West Midlands,1.3211
+01/08/1993,Yorkshire & Humber,1.2722
+01/09/1993,East Anglia,1.4630
+01/09/1993,East Midlands,1.3840
+01/09/1993,London,1.5246
+01/09/1993,North,1.3286
+01/09/1993,North West,1.2603
+01/09/1993,Northern Ireland,1.4779
+01/09/1993,Scotland,1.3927
+01/09/1993,South East,1.5266
+01/09/1993,South West,1.4742
+01/09/1993,Wales,1.3045
+01/09/1993,West Midlands,1.3227
+01/09/1993,Yorkshire & Humber,1.2722
+01/10/1993,East Anglia,1.4653
+01/10/1993,East Midlands,1.3904
+01/10/1993,London,1.5309
+01/10/1993,North,1.3249
+01/10/1993,North West,1.2635
+01/10/1993,Northern Ireland,1.5163
+01/10/1993,Scotland,1.3901
+01/10/1993,South East,1.5291
+01/10/1993,South West,1.4767
+01/10/1993,Wales,1.3204
+01/10/1993,West Midlands,1.3248
+01/10/1993,Yorkshire & Humber,1.2776
+01/11/1993,East Anglia,1.4621
+01/11/1993,East Midlands,1.3898
+01/11/1993,London,1.5399
+01/11/1993,North,1.3155
+01/11/1993,North West,1.2665
+01/11/1993,Northern Ireland,1.5225
+01/11/1993,Scotland,1.3849
+01/11/1993,South East,1.5292
+01/11/1993,South West,1.4774
+01/11/1993,Wales,1.3217
+01/11/1993,West Midlands,1.3233
+01/11/1993,Yorkshire & Humber,1.2782
+01/12/1993,East Anglia,1.4642
+01/12/1993,East Midlands,1.3923
+01/12/1993,London,1.5363
+01/12/1993,North,1.3136
+01/12/1993,North West,1.2669
+01/12/1993,Northern Ireland,1.5267
+01/12/1993,Scotland,1.3961
+01/12/1993,South East,1.5337
+01/12/1993,South West,1.4725
+01/12/1993,Wales,1.3249
+01/12/1993,West Midlands,1.3245
+01/12/1993,Yorkshire & Humber,1.2796
+01/01/1994,East Anglia,1.4686
+01/01/1994,East Midlands,1.3850
+01/01/1994,London,1.5472
+01/01/1994,North,1.3280
+01/01/1994,North West,1.2650
+01/01/1994,Northern Ireland,1.5279
+01/01/1994,Scotland,1.3954
+01/01/1994,South East,1.5362
+01/01/1994,South West,1.4712
+01/01/1994,Wales,1.3231
+01/01/1994,West Midlands,1.3172
+01/01/1994,Yorkshire & Humber,1.2841
+01/02/1994,East Anglia,1.4718
+01/02/1994,East Midlands,1.3814
+01/02/1994,London,1.5442
+01/02/1994,North,1.3353
+01/02/1994,North West,1.2644
+01/02/1994,Northern Ireland,1.5287
+01/02/1994,Scotland,1.3975
+01/02/1994,South East,1.5363
+01/02/1994,South West,1.4759
+01/02/1994,Wales,1.3220
+01/02/1994,West Midlands,1.3276
+01/02/1994,Yorkshire & Humber,1.2820
+01/03/1994,East Anglia,1.4740
+01/03/1994,East Midlands,1.3842
+01/03/1994,London,1.5343
+01/03/1994,North,1.3371
+01/03/1994,North West,1.2578
+01/03/1994,Northern Ireland,1.5308
+01/03/1994,Scotland,1.3968
+01/03/1994,South East,1.5355
+01/03/1994,South West,1.4853
+01/03/1994,Wales,1.3277
+01/03/1994,West Midlands,1.3235
+01/03/1994,Yorkshire & Humber,1.2890
+01/04/1994,East Anglia,1.4752
+01/04/1994,East Midlands,1.3846
+01/04/1994,London,1.5356
+01/04/1994,North,1.3399
+01/04/1994,North West,1.2647
+01/04/1994,Northern Ireland,1.5322
+01/04/1994,Scotland,1.4005
+01/04/1994,South East,1.5364
+01/04/1994,South West,1.4832
+01/04/1994,Wales,1.3219
+01/04/1994,West Midlands,1.3292
+01/04/1994,Yorkshire & Humber,1.2880
+01/05/1994,East Anglia,1.4827
+01/05/1994,East Midlands,1.3812
+01/05/1994,London,1.5370
+01/05/1994,North,1.3418
+01/05/1994,North West,1.2751
+01/05/1994,Northern Ireland,1.5308
+01/05/1994,Scotland,1.4051
+01/05/1994,South East,1.5368
+01/05/1994,South West,1.4717
+01/05/1994,Wales,1.3282
+01/05/1994,West Midlands,1.3277
+01/05/1994,Yorkshire & Humber,1.2924
+01/06/1994,East Anglia,1.5044
+01/06/1994,East Midlands,1.3973
+01/06/1994,London,1.5485
+01/06/1994,North,1.3556
+01/06/1994,North West,1.2922
+01/06/1994,Northern Ireland,1.5308
+01/06/1994,Scotland,1.4301
+01/06/1994,South East,1.5495
+01/06/1994,South West,1.4945
+01/06/1994,Wales,1.3404
+01/06/1994,West Midlands,1.3488
+01/06/1994,Yorkshire & Humber,1.3014
+01/07/1994,East Anglia,1.5083
+01/07/1994,East Midlands,1.4148
+01/07/1994,London,1.5459
+01/07/1994,North,1.3581
+01/07/1994,North West,1.2986
+01/07/1994,Northern Ireland,1.5337
+01/07/1994,Scotland,1.4353
+01/07/1994,South East,1.5606
+01/07/1994,South West,1.5097
+01/07/1994,Wales,1.3535
+01/07/1994,West Midlands,1.3618
+01/07/1994,Yorkshire & Humber,1.3156
+01/08/1994,East Anglia,1.5158
+01/08/1994,East Midlands,1.4266
+01/08/1994,London,1.5542
+01/08/1994,North,1.3719
+01/08/1994,North West,1.3033
+01/08/1994,Northern Ireland,1.5779
+01/08/1994,Scotland,1.4378
+01/08/1994,South East,1.5667
+01/08/1994,South West,1.5195
+01/08/1994,Wales,1.3737
+01/08/1994,West Midlands,1.3630
+01/08/1994,Yorkshire & Humber,1.3193
+01/09/1994,East Anglia,1.5176
+01/09/1994,East Midlands,1.4323
+01/09/1994,London,1.5496
+01/09/1994,North,1.3744
+01/09/1994,North West,1.3043
+01/09/1994,Northern Ireland,1.5800
+01/09/1994,Scotland,1.4391
+01/09/1994,South East,1.5666
+01/09/1994,South West,1.5160
+01/09/1994,Wales,1.3761
+01/09/1994,West Midlands,1.3624
+01/09/1994,Yorkshire & Humber,1.3239
+01/10/1994,East Anglia,1.5112
+01/10/1994,East Midlands,1.4229
+01/10/1994,London,1.5583
+01/10/1994,North,1.3767
+01/10/1994,North West,1.3021
+01/10/1994,Northern Ireland,1.5842
+01/10/1994,Scotland,1.4449
+01/10/1994,South East,1.5749
+01/10/1994,South West,1.5289
+01/10/1994,Wales,1.3709
+01/10/1994,West Midlands,1.3654
+01/10/1994,Yorkshire & Humber,1.3279
+01/11/1994,East Anglia,1.5131
+01/11/1994,East Midlands,1.4264
+01/11/1994,London,1.5611
+01/11/1994,North,1.3749
+01/11/1994,North West,1.3055
+01/11/1994,Northern Ireland,1.5904
+01/11/1994,Scotland,1.4404
+01/11/1994,South East,1.5732
+01/11/1994,South West,1.5340
+01/11/1994,Wales,1.3804
+01/11/1994,West Midlands,1.3677
+01/11/1994,Yorkshire & Humber,1.3271
+01/12/1994,East Anglia,1.5192
+01/12/1994,East Midlands,1.4181
+01/12/1994,London,1.5657
+01/12/1994,North,1.3751
+01/12/1994,North West,1.3081
+01/12/1994,Northern Ireland,1.5883
+01/12/1994,Scotland,1.4399
+01/12/1994,South East,1.5797
+01/12/1994,South West,1.5316
+01/12/1994,Wales,1.3821
+01/12/1994,West Midlands,1.3652
+01/12/1994,Yorkshire & Humber,1.3309
+01/01/1995,East Anglia,1.5332
+01/01/1995,East Midlands,1.4447
+01/01/1995,London,1.5847
+01/01/1995,North,1.3893
+01/01/1995,North West,1.3200
+01/01/1995,Northern Ireland,1.5929
+01/01/1995,Scotland,1.4474
+01/01/1995,South East,1.5926
+01/01/1995,South West,1.5509
+01/01/1995,Wales,1.3990
+01/01/1995,West Midlands,1.3661
+01/01/1995,Yorkshire & Humber,1.3448
+01/02/1995,East Anglia,1.5563
+01/02/1995,East Midlands,1.4442
+01/02/1995,London,1.5925
+01/02/1995,North,1.3940
+01/02/1995,North West,1.3239
+01/02/1995,Northern Ireland,1.6070
+01/02/1995,Scotland,1.4771
+01/02/1995,South East,1.5920
+01/02/1995,South West,1.5341
+01/02/1995,Wales,1.3869
+01/02/1995,West Midlands,1.4140
+01/02/1995,Yorkshire & Humber,1.3526
+01/03/1995,East Anglia,1.5530
+01/03/1995,East Midlands,1.4575
+01/03/1995,London,1.5886
+01/03/1995,North,1.3944
+01/03/1995,North West,1.3298
+01/03/1995,Northern Ireland,1.6087
+01/03/1995,Scotland,1.4792
+01/03/1995,South East,1.5970
+01/03/1995,South West,1.5399
+01/03/1995,Wales,1.3925
+01/03/1995,West Midlands,1.4102
+01/03/1995,Yorkshire & Humber,1.3619
+01/04/1995,East Anglia,1.5541
+01/04/1995,East Midlands,1.4649
+01/04/1995,London,1.5903
+01/04/1995,North,1.3983
+01/04/1995,North West,1.3373
+01/04/1995,Northern Ireland,1.6157
+01/04/1995,Scotland,1.4668
+01/04/1995,South East,1.6046
+01/04/1995,South West,1.5429
+01/04/1995,Wales,1.3872
+01/04/1995,West Midlands,1.4064
+01/04/1995,Yorkshire & Humber,1.3659
+01/05/1995,East Anglia,1.5567
+01/05/1995,East Midlands,1.4598
+01/05/1995,London,1.6122
+01/05/1995,North,1.4021
+01/05/1995,North West,1.3337
+01/05/1995,Northern Ireland,1.6150
+01/05/1995,Scotland,1.4940
+01/05/1995,South East,1.6105
+01/05/1995,South West,1.5420
+01/05/1995,Wales,1.3880
+01/05/1995,West Midlands,1.4019
+01/05/1995,Yorkshire & Humber,1.3666
+01/06/1995,East Anglia,1.5588
+01/06/1995,East Midlands,1.4717
+01/06/1995,London,1.6176
+01/06/1995,North,1.4175
+01/06/1995,North West,1.3465
+01/06/1995,Northern Ireland,1.6200
+01/06/1995,Scotland,1.5124
+01/06/1995,South East,1.6199
+01/06/1995,South West,1.5626
+01/06/1995,Wales,1.4025
+01/06/1995,West Midlands,1.4232
+01/06/1995,Yorkshire & Humber,1.3836
+01/07/1995,East Anglia,1.5752
+01/07/1995,East Midlands,1.4771
+01/07/1995,London,1.6220
+01/07/1995,North,1.4314
+01/07/1995,North West,1.3491
+01/07/1995,Northern Ireland,1.6396
+01/07/1995,Scotland,1.5236
+01/07/1995,South East,1.6348
+01/07/1995,South West,1.5758
+01/07/1995,Wales,1.4014
+01/07/1995,West Midlands,1.4332
+01/07/1995,Yorkshire & Humber,1.3974
+01/08/1995,East Anglia,1.5770
+01/08/1995,East Midlands,1.4790
+01/08/1995,London,1.6260
+01/08/1995,North,1.4357
+01/08/1995,North West,1.3544
+01/08/1995,Northern Ireland,1.6578
+01/08/1995,Scotland,1.5256
+01/08/1995,South East,1.6301
+01/08/1995,South West,1.5856
+01/08/1995,Wales,1.4062
+01/08/1995,West Midlands,1.4330
+01/08/1995,Yorkshire & Humber,1.3982
+01/09/1995,East Anglia,1.5825
+01/09/1995,East Midlands,1.4893
+01/09/1995,London,1.6349
+01/09/1995,North,1.4350
+01/09/1995,North West,1.3585
+01/09/1995,Northern Ireland,1.6665
+01/09/1995,Scotland,1.5266
+01/09/1995,South East,1.6375
+01/09/1995,South West,1.5814
+01/09/1995,Wales,1.4044
+01/09/1995,West Midlands,1.4339
+01/09/1995,Yorkshire & Humber,1.3963
+01/10/1995,East Anglia,1.5857
+01/10/1995,East Midlands,1.4946
+01/10/1995,London,1.6358
+01/10/1995,North,1.4354
+01/10/1995,North West,1.3677
+01/10/1995,Northern Ireland,1.6730
+01/10/1995,Scotland,1.5290
+01/10/1995,South East,1.6450
+01/10/1995,South West,1.5909
+01/10/1995,Wales,1.4186
+01/10/1995,West Midlands,1.4204
+01/10/1995,Yorkshire & Humber,1.4070
+01/11/1995,East Anglia,1.5929
+01/11/1995,East Midlands,1.4862
+01/11/1995,London,1.6363
+01/11/1995,North,1.4365
+01/11/1995,North West,1.3623
+01/11/1995,Northern Ireland,1.6730
+01/11/1995,Scotland,1.5314
+01/11/1995,South East,1.6478
+01/11/1995,South West,1.5916
+01/11/1995,Wales,1.4237
+01/11/1995,West Midlands,1.4343
+01/11/1995,Yorkshire & Humber,1.4068
+01/12/1995,East Anglia,1.5860
+01/12/1995,East Midlands,1.4954
+01/12/1995,London,1.6408
+01/12/1995,North,1.4359
+01/12/1995,North West,1.3638
+01/12/1995,Northern Ireland,1.6774
+01/12/1995,Scotland,1.5344
+01/12/1995,South East,1.6465
+01/12/1995,South West,1.5918
+01/12/1995,Wales,1.4338
+01/12/1995,West Midlands,1.4297
+01/12/1995,Yorkshire & Humber,1.4067
+01/01/1996,East Anglia,1.5774
+01/01/1996,East Midlands,1.4977
+01/01/1996,London,1.6525
+01/01/1996,North,1.4337
+01/01/1996,North West,1.3584
+01/01/1996,Northern Ireland,1.6774
+01/01/1996,Scotland,1.5286
+01/01/1996,South East,1.6464
+01/01/1996,South West,1.6061
+01/01/1996,Wales,1.4351
+01/01/1996,West Midlands,1.4278
+01/01/1996,Yorkshire & Humber,1.4041
+01/02/1996,East Anglia,1.5695
+01/02/1996,East Midlands,1.4966
+01/02/1996,London,1.6546
+01/02/1996,North,1.4518
+01/02/1996,North West,1.3728
+01/02/1996,Northern Ireland,1.6774
+01/02/1996,Scotland,1.5625
+01/02/1996,South East,1.6445
+01/02/1996,South West,1.6207
+01/02/1996,Wales,1.4266
+01/02/1996,West Midlands,1.4326
+01/02/1996,Yorkshire & Humber,1.4359
+01/03/1996,East Anglia,1.5769
+01/03/1996,East Midlands,1.4951
+01/03/1996,London,1.6580
+01/03/1996,North,1.4556
+01/03/1996,North West,1.3722
+01/03/1996,Northern Ireland,1.6796
+01/03/1996,Scotland,1.5631
+01/03/1996,South East,1.6395
+01/03/1996,South West,1.6257
+01/03/1996,Wales,1.4283
+01/03/1996,West Midlands,1.4359
+01/03/1996,Yorkshire & Humber,1.4378
+01/04/1996,East Anglia,1.5834
+01/04/1996,East Midlands,1.4908
+01/04/1996,London,1.6662
+01/04/1996,North,1.4497
+01/04/1996,North West,1.3820
+01/04/1996,Northern Ireland,1.6745
+01/04/1996,Scotland,1.5757
+01/04/1996,South East,1.6515
+01/04/1996,South West,1.6460
+01/04/1996,Wales,1.4141
+01/04/1996,West Midlands,1.4320
+01/04/1996,Yorkshire & Humber,1.4435
+01/05/1996,East Anglia,1.5839
+01/05/1996,East Midlands,1.4878
+01/05/1996,London,1.6709
+01/05/1996,North,1.4651
+01/05/1996,North West,1.3884
+01/05/1996,Northern Ireland,1.6795
+01/05/1996,Scotland,1.5771
+01/05/1996,South East,1.6530
+01/05/1996,South West,1.6448
+01/05/1996,Wales,1.4203
+01/05/1996,West Midlands,1.4341
+01/05/1996,Yorkshire & Humber,1.4477
+01/06/1996,East Anglia,1.6055
+01/06/1996,East Midlands,1.5163
+01/06/1996,London,1.6620
+01/06/1996,North,1.4934
+01/06/1996,North West,1.3949
+01/06/1996,Northern Ireland,1.6795
+01/06/1996,Scotland,1.5896
+01/06/1996,South East,1.6605
+01/06/1996,South West,1.6530
+01/06/1996,Wales,1.4459
+01/06/1996,West Midlands,1.4556
+01/06/1996,Yorkshire & Humber,1.4736
+01/07/1996,East Anglia,1.6510
+01/07/1996,East Midlands,1.5198
+01/07/1996,London,1.6661
+01/07/1996,North,1.5000
+01/07/1996,North West,1.4005
+01/07/1996,Northern Ireland,1.6995
+01/07/1996,Scotland,1.6051
+01/07/1996,South East,1.6675
+01/07/1996,South West,1.6633
+01/07/1996,Wales,1.4561
+01/07/1996,West Midlands,1.4617
+01/07/1996,Yorkshire & Humber,1.4813
+01/08/1996,East Anglia,1.6677
+01/08/1996,East Midlands,1.5207
+01/08/1996,London,1.7088
+01/08/1996,North,1.5038
+01/08/1996,North West,1.4514
+01/08/1996,Northern Ireland,1.7245
+01/08/1996,Scotland,1.6193
+01/08/1996,South East,1.6795
+01/08/1996,South West,1.6640
+01/08/1996,Wales,1.4609
+01/08/1996,West Midlands,1.4886
+01/08/1996,Yorkshire & Humber,1.5065
+01/09/1996,East Anglia,1.6723
+01/09/1996,East Midlands,1.5254
+01/09/1996,London,1.7204
+01/09/1996,North,1.5082
+01/09/1996,North West,1.4486
+01/09/1996,Northern Ireland,1.7245
+01/09/1996,Scotland,1.6251
+01/09/1996,South East,1.6860
+01/09/1996,South West,1.6693
+01/09/1996,Wales,1.4682
+01/09/1996,West Midlands,1.4880
+01/09/1996,Yorkshire & Humber,1.5045
+01/10/1996,East Anglia,1.6662
+01/10/1996,East Midlands,1.5305
+01/10/1996,London,1.7261
+01/10/1996,North,1.5296
+01/10/1996,North West,1.4259
+01/10/1996,Northern Ireland,1.7295
+01/10/1996,Scotland,1.6174
+01/10/1996,South East,1.6864
+01/10/1996,South West,1.6744
+01/10/1996,Wales,1.4736
+01/10/1996,West Midlands,1.4898
+01/10/1996,Yorkshire & Humber,1.5119
+01/11/1996,East Anglia,1.6709
+01/11/1996,East Midlands,1.5338
+01/11/1996,London,1.7406
+01/11/1996,North,1.5157
+01/11/1996,North West,1.4269
+01/11/1996,Northern Ireland,1.7468
+01/11/1996,Scotland,1.6352
+01/11/1996,South East,1.6907
+01/11/1996,South West,1.6733
+01/11/1996,Wales,1.4759
+01/11/1996,West Midlands,1.4890
+01/11/1996,Yorkshire & Humber,1.5120
+01/12/1996,East Anglia,1.6630
+01/12/1996,East Midlands,1.5379
+01/12/1996,London,1.7296
+01/12/1996,North,1.5124
+01/12/1996,North West,1.4322
+01/12/1996,Northern Ireland,1.7521
+01/12/1996,Scotland,1.6417
+01/12/1996,South East,1.7026
+01/12/1996,South West,1.6750
+01/12/1996,Wales,1.4780
+01/12/1996,West Midlands,1.4945
+01/12/1996,Yorkshire & Humber,1.5035
+01/01/1997,East Anglia,1.6852
+01/01/1997,East Midlands,1.5376
+01/01/1997,London,1.7070
+01/01/1997,North,1.5341
+01/01/1997,North West,1.4392
+01/01/1997,Northern Ireland,1.7445
+01/01/1997,Scotland,1.6262
+01/01/1997,South East,1.7140
+01/01/1997,South West,1.6804
+01/01/1997,Wales,1.4713
+01/01/1997,West Midlands,1.4894
+01/01/1997,Yorkshire & Humber,1.4941
+01/02/1997,East Anglia,1.7071
+01/02/1997,East Midlands,1.5028
+01/02/1997,London,1.7597
+01/02/1997,North,1.5078
+01/02/1997,North West,1.4434
+01/02/1997,Northern Ireland,1.7470
+01/02/1997,Scotland,1.6604
+01/02/1997,South East,1.7051
+01/02/1997,South West,1.6713
+01/02/1997,Wales,1.4593
+01/02/1997,West Midlands,1.4984
+01/02/1997,Yorkshire & Humber,1.5039
+01/03/1997,East Anglia,1.7071
+01/03/1997,East Midlands,1.5182
+01/03/1997,London,1.7679
+01/03/1997,North,1.5213
+01/03/1997,North West,1.4467
+01/03/1997,Northern Ireland,1.7495
+01/03/1997,Scotland,1.6410
+01/03/1997,South East,1.7136
+01/03/1997,South West,1.6775
+01/03/1997,Wales,1.4308
+01/03/1997,West Midlands,1.5067
+01/03/1997,Yorkshire & Humber,1.5051
+01/04/1997,East Anglia,1.7068
+01/04/1997,East Midlands,1.5253
+01/04/1997,London,1.7861
+01/04/1997,North,1.5321
+01/04/1997,North West,1.4633
+01/04/1997,Northern Ireland,1.7495
+01/04/1997,Scotland,1.6495
+01/04/1997,South East,1.7184
+01/04/1997,South West,1.6738
+01/04/1997,Wales,1.4358
+01/04/1997,West Midlands,1.4996
+01/04/1997,Yorkshire & Humber,1.5110
+01/05/1997,East Anglia,1.7070
+01/05/1997,East Midlands,1.5303
+01/05/1997,London,1.7967
+01/05/1997,North,1.5379
+01/05/1997,North West,1.4648
+01/05/1997,Northern Ireland,1.7545
+01/05/1997,Scotland,1.6655
+01/05/1997,South East,1.7161
+01/05/1997,South West,1.6800
+01/05/1997,Wales,1.4437
+01/05/1997,West Midlands,1.5257
+01/05/1997,Yorkshire & Humber,1.5191
+01/06/1997,East Anglia,1.7358
+01/06/1997,East Midlands,1.5400
+01/06/1997,London,1.7995
+01/06/1997,North,1.5630
+01/06/1997,North West,1.4706
+01/06/1997,Northern Ireland,1.7550
+01/06/1997,Scotland,1.6837
+01/06/1997,South East,1.7263
+01/06/1997,South West,1.7093
+01/06/1997,Wales,1.4544
+01/06/1997,West Midlands,1.5404
+01/06/1997,Yorkshire & Humber,1.5380
+01/07/1997,East Anglia,1.7404
+01/07/1997,East Midlands,1.5515
+01/07/1997,London,1.8014
+01/07/1997,North,1.5631
+01/07/1997,North West,1.4931
+01/07/1997,Northern Ireland,1.7875
+01/07/1997,Scotland,1.6914
+01/07/1997,South East,1.7447
+01/07/1997,South West,1.7102
+01/07/1997,Wales,1.4793
+01/07/1997,West Midlands,1.5565
+01/07/1997,Yorkshire & Humber,1.5289
+01/08/1997,East Anglia,1.7404
+01/08/1997,East Midlands,1.5721
+01/08/1997,London,1.8122
+01/08/1997,North,1.5668
+01/08/1997,North West,1.4920
+01/08/1997,Northern Ireland,1.7975
+01/08/1997,Scotland,1.6913
+01/08/1997,South East,1.7543
+01/08/1997,South West,1.7052
+01/08/1997,Wales,1.4793
+01/08/1997,West Midlands,1.5506
+01/08/1997,Yorkshire & Humber,1.5481
+01/09/1997,East Anglia,1.7468
+01/09/1997,East Midlands,1.5574
+01/09/1997,London,1.8250
+01/09/1997,North,1.5668
+01/09/1997,North West,1.4936
+01/09/1997,Northern Ireland,1.8047
+01/09/1997,Scotland,1.6915
+01/09/1997,South East,1.7626
+01/09/1997,South West,1.7078
+01/09/1997,Wales,1.4704
+01/09/1997,West Midlands,1.5585
+01/09/1997,Yorkshire & Humber,1.5438
+01/10/1997,East Anglia,1.7361
+01/10/1997,East Midlands,1.5772
+01/10/1997,London,1.8171
+01/10/1997,North,1.5684
+01/10/1997,North West,1.4993
+01/10/1997,Northern Ireland,1.8021
+01/10/1997,Scotland,1.6964
+01/10/1997,South East,1.7636
+01/10/1997,South West,1.7089
+01/10/1997,Wales,1.4833
+01/10/1997,West Midlands,1.5700
+01/10/1997,Yorkshire & Humber,1.5485
+01/11/1997,East Anglia,1.7426
+01/11/1997,East Midlands,1.5757
+01/11/1997,London,1.8194
+01/11/1997,North,1.5723
+01/11/1997,North West,1.5007
+01/11/1997,Northern Ireland,1.8022
+01/11/1997,Scotland,1.6967
+01/11/1997,South East,1.7642
+01/11/1997,South West,1.7148
+01/11/1997,Wales,1.4833
+01/11/1997,West Midlands,1.5746
+01/11/1997,Yorkshire & Humber,1.5491
+01/12/1997,East Anglia,1.7561
+01/12/1997,East Midlands,1.5807
+01/12/1997,London,1.8202
+01/12/1997,North,1.5774
+01/12/1997,North West,1.5106
+01/12/1997,Northern Ireland,1.8050
+01/12/1997,Scotland,1.7047
+01/12/1997,South East,1.7655
+01/12/1997,South West,1.7155
+01/12/1997,Wales,1.4852
+01/12/1997,West Midlands,1.5691
+01/12/1997,Yorkshire & Humber,1.5435
+01/01/1998,East Anglia,1.7605
+01/01/1998,East Midlands,1.5935
+01/01/1998,London,1.8306
+01/01/1998,North,1.5927
+01/01/1998,North West,1.5100
+01/01/1998,Northern Ireland,1.8145
+01/01/1998,Scotland,1.7024
+01/01/1998,South East,1.7722
+01/01/1998,South West,1.7372
+01/01/1998,Wales,1.5059
+01/01/1998,West Midlands,1.5843
+01/01/1998,Yorkshire & Humber,1.5570
+01/02/1998,East Anglia,1.7900
+01/02/1998,East Midlands,1.5795
+01/02/1998,London,1.8280
+01/02/1998,North,1.6029
+01/02/1998,North West,1.4838
+01/02/1998,Northern Ireland,1.8570
+01/02/1998,Scotland,1.7018
+01/02/1998,South East,1.7791
+01/02/1998,South West,1.7102
+01/02/1998,Wales,1.5619
+01/02/1998,West Midlands,1.5769
+01/02/1998,Yorkshire & Humber,1.5674
+01/03/1998,East Anglia,1.7950
+01/03/1998,East Midlands,1.5723
+01/03/1998,London,1.8624
+01/03/1998,North,1.6035
+01/03/1998,North West,1.4890
+01/03/1998,Northern Ireland,1.8626
+01/03/1998,Scotland,1.7147
+01/03/1998,South East,1.7874
+01/03/1998,South West,1.7129
+01/03/1998,Wales,1.5770
+01/03/1998,West Midlands,1.5835
+01/03/1998,Yorkshire & Humber,1.5655
+01/04/1998,East Anglia,1.7833
+01/04/1998,East Midlands,1.5951
+01/04/1998,London,1.8708
+01/04/1998,North,1.5959
+01/04/1998,North West,1.4931
+01/04/1998,Northern Ireland,1.8650
+01/04/1998,Scotland,1.7070
+01/04/1998,South East,1.7968
+01/04/1998,South West,1.7366
+01/04/1998,Wales,1.5800
+01/04/1998,West Midlands,1.5879
+01/04/1998,Yorkshire & Humber,1.5700
+01/05/1998,East Anglia,1.8033
+01/05/1998,East Midlands,1.6213
+01/05/1998,London,1.8916
+01/05/1998,North,1.6350
+01/05/1998,North West,1.5073
+01/05/1998,Northern Ireland,1.8700
+01/05/1998,Scotland,1.7319
+01/05/1998,South East,1.8131
+01/05/1998,South West,1.7543
+01/05/1998,Wales,1.5863
+01/05/1998,West Midlands,1.5992
+01/05/1998,Yorkshire & Humber,1.5913
+01/06/1998,East Anglia,1.8138
+01/06/1998,East Midlands,1.6280
+01/06/1998,London,1.8787
+01/06/1998,North,1.6367
+01/06/1998,North West,1.4998
+01/06/1998,Northern Ireland,1.8711
+01/06/1998,Scotland,1.7452
+01/06/1998,South East,1.8228
+01/06/1998,South West,1.7560
+01/06/1998,Wales,1.5915
+01/06/1998,West Midlands,1.6055
+01/06/1998,Yorkshire & Humber,1.5963
+01/07/1998,East Anglia,1.8233
+01/07/1998,East Midlands,1.6305
+01/07/1998,London,1.8937
+01/07/1998,North,1.6367
+01/07/1998,North West,1.5137
+01/07/1998,Northern Ireland,1.8760
+01/07/1998,Scotland,1.7467
+01/07/1998,South East,1.8250
+01/07/1998,South West,1.7634
+01/07/1998,Wales,1.6063
+01/07/1998,West Midlands,1.6084
+01/07/1998,Yorkshire & Humber,1.6013
+01/08/1998,East Anglia,1.7911
+01/08/1998,East Midlands,1.6228
+01/08/1998,London,1.9079
+01/08/1998,North,1.6360
+01/08/1998,North West,1.5255
+01/08/1998,Northern Ireland,1.8825
+01/08/1998,Scotland,1.7504
+01/08/1998,South East,1.8247
+01/08/1998,South West,1.7684
+01/08/1998,Wales,1.6182
+01/08/1998,West Midlands,1.6129
+01/08/1998,Yorkshire & Humber,1.6198
+01/09/1998,East Anglia,1.7979
+01/09/1998,East Midlands,1.6335
+01/09/1998,London,1.9086
+01/09/1998,North,1.6367
+01/09/1998,North West,1.5365
+01/09/1998,Northern Ireland,1.8721
+01/09/1998,Scotland,1.7449
+01/09/1998,South East,1.8170
+01/09/1998,South West,1.7704
+01/09/1998,Wales,1.6236
+01/09/1998,West Midlands,1.6098
+01/09/1998,Yorkshire & Humber,1.5998
+01/10/1998,East Anglia,1.8175
+01/10/1998,East Midlands,1.6388
+01/10/1998,London,1.9133
+01/10/1998,North,1.6393
+01/10/1998,North West,1.5392
+01/10/1998,Northern Ireland,1.8747
+01/10/1998,Scotland,1.7491
+01/10/1998,South East,1.8266
+01/10/1998,South West,1.7873
+01/10/1998,Wales,1.6023
+01/10/1998,West Midlands,1.5976
+01/10/1998,Yorkshire & Humber,1.6044
+01/11/1998,East Anglia,1.8310
+01/11/1998,East Midlands,1.6571
+01/11/1998,London,1.9294
+01/11/1998,North,1.6471
+01/11/1998,North West,1.5330
+01/11/1998,Northern Ireland,1.8747
+01/11/1998,Scotland,1.7541
+01/11/1998,South East,1.8374
+01/11/1998,South West,1.7817
+01/11/1998,Wales,1.6062
+01/11/1998,West Midlands,1.6055
+01/11/1998,Yorkshire & Humber,1.6067
+01/12/1998,East Anglia,1.8409
+01/12/1998,East Midlands,1.6770
+01/12/1998,London,1.9531
+01/12/1998,North,1.6623
+01/12/1998,North West,1.5323
+01/12/1998,Northern Ireland,1.8747
+01/12/1998,Scotland,1.7552
+01/12/1998,South East,1.8431
+01/12/1998,South West,1.7953
+01/12/1998,Wales,1.6078
+01/12/1998,West Midlands,1.6087
+01/12/1998,Yorkshire & Humber,1.6139
+01/01/1999,East Anglia,1.8787
+01/01/1999,East Midlands,1.6792
+01/01/1999,London,1.9710
+01/01/1999,North,1.6337
+01/01/1999,North West,1.5250
+01/01/1999,Northern Ireland,1.8750
+01/01/1999,Scotland,1.7469
+01/01/1999,South East,1.8443
+01/01/1999,South West,1.7771
+01/01/1999,Wales,1.6161
+01/01/1999,West Midlands,1.6116
+01/01/1999,Yorkshire & Humber,1.6346
+01/02/1999,East Anglia,1.8800
+01/02/1999,East Midlands,1.6737
+01/02/1999,London,1.9176
+01/02/1999,North,1.6346
+01/02/1999,North West,1.5365
+01/02/1999,Northern Ireland,1.8750
+01/02/1999,Scotland,1.7744
+01/02/1999,South East,1.8452
+01/02/1999,South West,1.7905
+01/02/1999,Wales,1.6232
+01/02/1999,West Midlands,1.6583
+01/02/1999,Yorkshire & Humber,1.6207
+01/03/1999,East Anglia,1.8530
+01/03/1999,East Midlands,1.6732
+01/03/1999,London,1.9378
+01/03/1999,North,1.6393
+01/03/1999,North West,1.5362
+01/03/1999,Northern Ireland,1.8813
+01/03/1999,Scotland,1.7817
+01/03/1999,South East,1.8457
+01/03/1999,South West,1.7916
+01/03/1999,Wales,1.6250
+01/03/1999,West Midlands,1.6604
+01/03/1999,Yorkshire & Humber,1.6147
+01/04/1999,East Anglia,1.8530
+01/04/1999,East Midlands,1.6795
+01/04/1999,London,1.9380
+01/04/1999,North,1.6629
+01/04/1999,North West,1.5402
+01/04/1999,Northern Ireland,1.9206
+01/04/1999,Scotland,1.7832
+01/04/1999,South East,1.8663
+01/04/1999,South West,1.8193
+01/04/1999,Wales,1.6381
+01/04/1999,West Midlands,1.6594
+01/04/1999,Yorkshire & Humber,1.6247
+01/05/1999,East Anglia,1.8579
+01/05/1999,East Midlands,1.6964
+01/05/1999,London,1.9288
+01/05/1999,North,1.6660
+01/05/1999,North West,1.5462
+01/05/1999,Northern Ireland,1.9250
+01/05/1999,Scotland,1.8177
+01/05/1999,South East,1.8742
+01/05/1999,South West,1.8302
+01/05/1999,Wales,1.6436
+01/05/1999,West Midlands,1.6660
+01/05/1999,Yorkshire & Humber,1.6502
+01/06/1999,East Anglia,1.8670
+01/06/1999,East Midlands,1.7014
+01/06/1999,London,1.9740
+01/06/1999,North,1.6485
+01/06/1999,North West,1.5617
+01/06/1999,Northern Ireland,1.9289
+01/06/1999,Scotland,1.8262
+01/06/1999,South East,1.8835
+01/06/1999,South West,1.8245
+01/06/1999,Wales,1.6471
+01/06/1999,West Midlands,1.6766
+01/06/1999,Yorkshire & Humber,1.6533
+01/07/1999,East Anglia,1.8695
+01/07/1999,East Midlands,1.6860
+01/07/1999,London,1.9600
+01/07/1999,North,1.6492
+01/07/1999,North West,1.5669
+01/07/1999,Northern Ireland,1.9316
+01/07/1999,Scotland,1.8440
+01/07/1999,South East,1.8910
+01/07/1999,South West,1.8259
+01/07/1999,Wales,1.6550
+01/07/1999,West Midlands,1.6760
+01/07/1999,Yorkshire & Humber,1.6496
+01/08/1999,East Anglia,1.8895
+01/08/1999,East Midlands,1.6847
+01/08/1999,London,1.9579
+01/08/1999,North,1.6537
+01/08/1999,North West,1.5568
+01/08/1999,Northern Ireland,1.9316
+01/08/1999,Scotland,1.8409
+01/08/1999,South East,1.8718
+01/08/1999,South West,1.8119
+01/08/1999,Wales,1.6550
+01/08/1999,West Midlands,1.6773
+01/08/1999,Yorkshire & Humber,1.6658
+01/09/1999,East Anglia,1.8939
+01/09/1999,East Midlands,1.6927
+01/09/1999,London,1.9516
+01/09/1999,North,1.6378
+01/09/1999,North West,1.5758
+01/09/1999,Northern Ireland,1.9278
+01/09/1999,Scotland,1.8337
+01/09/1999,South East,1.8740
+01/09/1999,South West,1.8057
+01/09/1999,Wales,1.6386
+01/09/1999,West Midlands,1.6678
+01/09/1999,Yorkshire & Humber,1.6678
+01/10/1999,East Anglia,1.8818
+01/10/1999,East Midlands,1.7030
+01/10/1999,London,1.9670
+01/10/1999,North,1.6546
+01/10/1999,North West,1.5687
+01/10/1999,Northern Ireland,1.9278
+01/10/1999,Scotland,1.8505
+01/10/1999,South East,1.8996
+01/10/1999,South West,1.8119
+01/10/1999,Wales,1.6536
+01/10/1999,West Midlands,1.6826
+01/10/1999,Yorkshire & Humber,1.6448
+01/11/1999,East Anglia,1.8911
+01/11/1999,East Midlands,1.7044
+01/11/1999,London,1.9531
+01/11/1999,North,1.6415
+01/11/1999,North West,1.5637
+01/11/1999,Northern Ireland,1.9278
+01/11/1999,Scotland,1.8350
+01/11/1999,South East,1.8896
+01/11/1999,South West,1.8121
+01/11/1999,Wales,1.6500
+01/11/1999,West Midlands,1.6598
+01/11/1999,Yorkshire & Humber,1.6483
+01/12/1999,East Anglia,1.8911
+01/12/1999,East Midlands,1.7007
+01/12/1999,London,1.9633
+01/12/1999,North,1.6489
+01/12/1999,North West,1.5515
+01/12/1999,Northern Ireland,1.9278
+01/12/1999,Scotland,1.8412
+01/12/1999,South East,1.8951
+01/12/1999,South West,1.8140
+01/12/1999,Wales,1.6579
+01/12/1999,West Midlands,1.6533
+01/12/1999,Yorkshire & Humber,1.6631
+01/01/2000,East Anglia,1.8945
+01/01/2000,East Midlands,1.7107
+01/01/2000,London,1.9481
+01/01/2000,North,1.6458
+01/01/2000,North West,1.5542
+01/01/2000,Northern Ireland,1.9333
+01/01/2000,Scotland,1.8385
+01/01/2000,South East,1.8915
+01/01/2000,South West,1.8130
+01/01/2000,Wales,1.6607
+01/01/2000,West Midlands,1.6342
+01/01/2000,Yorkshire & Humber,1.6472
+01/02/2000,East Anglia,1.8740
+01/02/2000,East Midlands,1.7205
+01/02/2000,London,1.9272
+01/02/2000,North,1.5963
+01/02/2000,North West,1.5675
+01/02/2000,Northern Ireland,1.9333
+01/02/2000,Scotland,1.8545
+01/02/2000,South East,1.9035
+01/02/2000,South West,1.8224
+01/02/2000,Wales,1.6533
+01/02/2000,West Midlands,1.6751
+01/02/2000,Yorkshire & Humber,1.6284
+01/03/2000,East Anglia,1.8724
+01/03/2000,East Midlands,1.7300
+01/03/2000,London,1.9382
+01/03/2000,North,1.6111
+01/03/2000,North West,1.5665
+01/03/2000,Northern Ireland,1.9361
+01/03/2000,Scotland,1.8521
+01/03/2000,South East,1.9103
+01/03/2000,South West,1.8329
+01/03/2000,Wales,1.6744
+01/03/2000,West Midlands,1.7011
+01/03/2000,Yorkshire & Humber,1.6327
+01/04/2000,East Anglia,1.8761
+01/04/2000,East Midlands,1.7338
+01/04/2000,London,1.9394
+01/04/2000,North,1.6142
+01/04/2000,North West,1.5829
+01/04/2000,Northern Ireland,1.9684
+01/04/2000,Scotland,1.8579
+01/04/2000,South East,1.9243
+01/04/2000,South West,1.8450
+01/04/2000,Wales,1.6908
+01/04/2000,West Midlands,1.7200
+01/04/2000,Yorkshire & Humber,1.6464
+01/05/2000,East Anglia,1.9035
+01/05/2000,East Midlands,1.7446
+01/05/2000,London,1.9539
+01/05/2000,North,1.6270
+01/05/2000,North West,1.5855
+01/05/2000,Northern Ireland,1.9816
+01/05/2000,Scotland,1.8877
+01/05/2000,South East,1.9276
+01/05/2000,South West,1.8602
+01/05/2000,Wales,1.6925
+01/05/2000,West Midlands,1.7270
+01/05/2000,Yorkshire & Humber,1.6516
+01/06/2000,East Anglia,1.9053
+01/06/2000,East Midlands,1.7381
+01/06/2000,London,1.9717
+01/06/2000,North,1.6292
+01/06/2000,North West,1.5780
+01/06/2000,Northern Ireland,1.9816
+01/06/2000,Scotland,1.8945
+01/06/2000,South East,1.9345
+01/06/2000,South West,1.8712
+01/06/2000,Wales,1.7000
+01/06/2000,West Midlands,1.7273
+01/06/2000,Yorkshire & Humber,1.6459
+01/07/2000,East Anglia,1.9084
+01/07/2000,East Midlands,1.7597
+01/07/2000,London,1.9561
+01/07/2000,North,1.6420
+01/07/2000,North West,1.5824
+01/07/2000,Northern Ireland,1.9816
+01/07/2000,Scotland,1.8933
+01/07/2000,South East,1.9375
+01/07/2000,South West,1.8620
+01/07/2000,Wales,1.7068
+01/07/2000,West Midlands,1.7240
+01/07/2000,Yorkshire & Humber,1.6312
+01/08/2000,East Anglia,1.9131
+01/08/2000,East Midlands,1.7486
+01/08/2000,London,1.9609
+01/08/2000,North,1.6096
+01/08/2000,North West,1.5941
+01/08/2000,Northern Ireland,1.9775
+01/08/2000,Scotland,1.8897
+01/08/2000,South East,1.9450
+01/08/2000,South West,1.8622
+01/08/2000,Wales,1.6996
+01/08/2000,West Midlands,1.7229
+01/08/2000,Yorkshire & Humber,1.6682
+01/09/2000,East Anglia,1.9138
+01/09/2000,East Midlands,1.7382
+01/09/2000,London,1.9809
+01/09/2000,North,1.6504
+01/09/2000,North West,1.5965
+01/09/2000,Northern Ireland,1.9816
+01/09/2000,Scotland,1.8950
+01/09/2000,South East,1.9293
+01/09/2000,South West,1.8733
+01/09/2000,Wales,1.7019
+01/09/2000,West Midlands,1.7250
+01/09/2000,Yorkshire & Humber,1.6373
+01/10/2000,East Anglia,1.8866
+01/10/2000,East Midlands,1.7467
+01/10/2000,London,1.9687
+01/10/2000,North,1.6319
+01/10/2000,North West,1.5964
+01/10/2000,Northern Ireland,1.9816
+01/10/2000,Scotland,1.8925
+01/10/2000,South East,1.9360
+01/10/2000,South West,1.8653
+01/10/2000,Wales,1.7107
+01/10/2000,West Midlands,1.7249
+01/10/2000,Yorkshire & Humber,1.6431
+01/11/2000,East Anglia,1.8900
+01/11/2000,East Midlands,1.7477
+01/11/2000,London,1.9699
+01/11/2000,North,1.6388
+01/11/2000,North West,1.6030
+01/11/2000,Northern Ireland,1.9816
+01/11/2000,Scotland,1.9000
+01/11/2000,South East,1.9342
+01/11/2000,South West,1.8790
+01/11/2000,Wales,1.7229
+01/11/2000,West Midlands,1.7291
+01/11/2000,Yorkshire & Humber,1.6458
+01/12/2000,East Anglia,1.9058
+01/12/2000,East Midlands,1.7451
+01/12/2000,London,1.9817
+01/12/2000,North,1.6388
+01/12/2000,North West,1.6115
+01/12/2000,Northern Ireland,1.9875
+01/12/2000,Scotland,1.9100
+01/12/2000,South East,1.9374
+01/12/2000,South West,1.8752
+01/12/2000,Wales,1.7137
+01/12/2000,West Midlands,1.7391
+01/12/2000,Yorkshire & Humber,1.6464
+01/01/2001,East Anglia,1.9083
+01/01/2001,East Midlands,1.7502
+01/01/2001,London,1.9625
+01/01/2001,North,1.5962
+01/01/2001,North West,1.6033
+01/01/2001,Northern Ireland,1.9875
+01/01/2001,Scotland,1.9151
+01/01/2001,South East,1.9422
+01/01/2001,South West,1.8702
+01/01/2001,Wales,1.7186
+01/01/2001,West Midlands,1.7204
+01/01/2001,Yorkshire & Humber,1.6495
+01/02/2001,East Anglia,1.9121
+01/02/2001,East Midlands,1.7332
+01/02/2001,London,1.9913
+01/02/2001,North,1.5431
+01/02/2001,North West,1.6509
+01/02/2001,Northern Ireland,1.9868
+01/02/2001,Scotland,1.8772
+01/02/2001,South East,1.9788
+01/02/2001,South West,1.8764
+01/02/2001,Wales,1.6679
+01/02/2001,West Midlands,1.7345
+01/02/2001,Yorkshire & Humber,1.6434
+01/03/2001,East Anglia,1.9007
+01/03/2001,East Midlands,1.7403
+01/03/2001,London,1.9949
+01/03/2001,North,1.5914
+01/03/2001,North West,1.6603
+01/03/2001,Northern Ireland,1.9921
+01/03/2001,Scotland,1.8939
+01/03/2001,South East,1.9914
+01/03/2001,South West,1.8978
+01/03/2001,Wales,1.6711
+01/03/2001,West Midlands,1.7386
+01/03/2001,Yorkshire & Humber,1.6412
+01/04/2001,East Anglia,1.9089
+01/04/2001,East Midlands,1.7625
+01/04/2001,London,2.0004
+01/04/2001,North,1.6789
+01/04/2001,North West,1.6707
+01/04/2001,Northern Ireland,1.9947
+01/04/2001,Scotland,1.9044
+01/04/2001,South East,2.0042
+01/04/2001,South West,1.9190
+01/04/2001,Wales,1.6767
+01/04/2001,West Midlands,1.7551
+01/04/2001,Yorkshire & Humber,1.6940
+01/05/2001,East Anglia,1.9209
+01/05/2001,East Midlands,1.7791
+01/05/2001,London,2.0126
+01/05/2001,North,1.6668
+01/05/2001,North West,1.6821
+01/05/2001,Northern Ireland,2.0316
+01/05/2001,Scotland,1.9036
+01/05/2001,South East,2.0154
+01/05/2001,South West,1.9298
+01/05/2001,Wales,1.6819
+01/05/2001,West Midlands,1.7545
+01/05/2001,Yorkshire & Humber,1.6937
+01/06/2001,East Anglia,1.9160
+01/06/2001,East Midlands,1.7680
+01/06/2001,London,2.0164
+01/06/2001,North,1.6842
+01/06/2001,North West,1.6858
+01/06/2001,Northern Ireland,2.0425
+01/06/2001,Scotland,1.9215
+01/06/2001,South East,2.0237
+01/06/2001,South West,1.9331
+01/06/2001,Wales,1.6819
+01/06/2001,West Midlands,1.7451
+01/06/2001,Yorkshire & Humber,1.7370
+01/07/2001,East Anglia,1.9139
+01/07/2001,East Midlands,1.7664
+01/07/2001,London,2.0181
+01/07/2001,North,1.6647
+01/07/2001,North West,1.6897
+01/07/2001,Northern Ireland,2.0475
+01/07/2001,Scotland,1.9090
+01/07/2001,South East,2.0167
+01/07/2001,South West,1.9256
+01/07/2001,Wales,1.6879
+01/07/2001,West Midlands,1.7640
+01/07/2001,Yorkshire & Humber,1.7196
+01/08/2001,East Anglia,1.9264
+01/08/2001,East Midlands,1.7895
+01/08/2001,London,2.0052
+01/08/2001,North,1.6695
+01/08/2001,North West,1.6861
+01/08/2001,Northern Ireland,2.0550
+01/08/2001,Scotland,1.9137
+01/08/2001,South East,2.0186
+01/08/2001,South West,1.9167
+01/08/2001,Wales,1.6815
+01/08/2001,West Midlands,1.7551
+01/08/2001,Yorkshire & Humber,1.7183
+01/09/2001,East Anglia,1.9161
+01/09/2001,East Midlands,1.7911
+01/09/2001,London,2.0088
+01/09/2001,North,1.6695
+01/09/2001,North West,1.6964
+01/09/2001,Northern Ireland,2.0500
+01/09/2001,Scotland,1.9017
+01/09/2001,South East,2.0246
+01/09/2001,South West,1.9357
+01/09/2001,Wales,1.6870
+01/09/2001,West Midlands,1.7591
+01/09/2001,Yorkshire & Humber,1.7191
+01/10/2001,East Anglia,1.9194
+01/10/2001,East Midlands,1.7886
+01/10/2001,London,2.0339
+01/10/2001,North,1.6884
+01/10/2001,North West,1.7077
+01/10/2001,Northern Ireland,2.0632
+01/10/2001,Scotland,1.9082
+01/10/2001,South East,2.0191
+01/10/2001,South West,1.9420
+01/10/2001,Wales,1.7008
+01/10/2001,West Midlands,1.7725
+01/10/2001,Yorkshire & Humber,1.7243
+01/11/2001,East Anglia,1.9160
+01/11/2001,East Midlands,1.7932
+01/11/2001,London,2.0423
+01/11/2001,North,1.6953
+01/11/2001,North West,1.7095
+01/11/2001,Northern Ireland,2.0632
+01/11/2001,Scotland,1.9215
+01/11/2001,South East,2.0250
+01/11/2001,South West,1.9456
+01/11/2001,Wales,1.7040
+01/11/2001,West Midlands,1.7766
+01/11/2001,Yorkshire & Humber,1.7220
+01/12/2001,East Anglia,1.9191
+01/12/2001,East Midlands,1.7911
+01/12/2001,London,2.0449
+01/12/2001,North,1.6979
+01/12/2001,North West,1.7245
+01/12/2001,Northern Ireland,2.0632
+01/12/2001,Scotland,1.9273
+01/12/2001,South East,2.0353
+01/12/2001,South West,1.9392
+01/12/2001,Wales,1.7000
+01/12/2001,West Midlands,1.7772
+01/12/2001,Yorkshire & Humber,1.7230
+01/01/2002,East Anglia,1.9196
+01/01/2002,East Midlands,1.7984
+01/01/2002,London,2.0477
+01/01/2002,North,1.7000
+01/01/2002,North West,1.7181
+01/01/2002,Northern Ireland,2.0632
+01/01/2002,Scotland,1.9272
+01/01/2002,South East,2.0380
+01/01/2002,South West,1.9444
+01/01/2002,Wales,1.6835
+01/01/2002,West Midlands,1.7972
+01/01/2002,Yorkshire & Humber,1.7163
+01/02/2002,East Anglia,1.9004
+01/02/2002,East Midlands,1.7808
+01/02/2002,London,2.0346
+01/02/2002,North,1.6777
+01/02/2002,North West,1.6676
+01/02/2002,Northern Ireland,2.0611
+01/02/2002,Scotland,1.9544
+01/02/2002,South East,2.0503
+01/02/2002,South West,1.9053
+01/02/2002,Wales,1.6850
+01/02/2002,West Midlands,1.7707
+01/02/2002,Yorkshire & Humber,1.7080
+01/03/2002,East Anglia,1.9016
+01/03/2002,East Midlands,1.8008
+01/03/2002,London,2.0549
+01/03/2002,North,1.6905
+01/03/2002,North West,1.6953
+01/03/2002,Northern Ireland,2.0611
+01/03/2002,Scotland,1.9777
+01/03/2002,South East,2.0658
+01/03/2002,South West,1.9196
+01/03/2002,Wales,1.6908
+01/03/2002,West Midlands,1.7907
+01/03/2002,Yorkshire & Humber,1.7260
+01/04/2002,East Anglia,1.9160
+01/04/2002,East Midlands,1.8047
+01/04/2002,London,2.0525
+01/04/2002,North,1.6995
+01/04/2002,North West,1.7089
+01/04/2002,Northern Ireland,2.0611
+01/04/2002,Scotland,1.9892
+01/04/2002,South East,2.0720
+01/04/2002,South West,1.9368
+01/04/2002,Wales,1.6919
+01/04/2002,West Midlands,1.8031
+01/04/2002,Yorkshire & Humber,1.7564
+01/05/2002,East Anglia,1.9302
+01/05/2002,East Midlands,1.7976
+01/05/2002,London,2.0681
+01/05/2002,North,1.7148
+01/05/2002,North West,1.7071
+01/05/2002,Northern Ireland,2.0284
+01/05/2002,Scotland,1.9780
+01/05/2002,South East,2.0717
+01/05/2002,South West,1.9498
+01/05/2002,Wales,1.7104
+01/05/2002,West Midlands,1.8005
+01/05/2002,Yorkshire & Humber,1.7552
+01/06/2002,East Anglia,1.9385
+01/06/2002,East Midlands,1.8163
+01/06/2002,London,2.0581
+01/06/2002,North,1.7139
+01/06/2002,North West,1.7055
+01/06/2002,Northern Ireland,2.0611
+01/06/2002,Scotland,1.9846
+01/06/2002,South East,2.0989
+01/06/2002,South West,1.9655
+01/06/2002,Wales,1.7196
+01/06/2002,West Midlands,1.8061
+01/06/2002,Yorkshire & Humber,1.7283
+01/07/2002,East Anglia,1.9338
+01/07/2002,East Midlands,1.8140
+01/07/2002,London,2.0669
+01/07/2002,North,1.7081
+01/07/2002,North West,1.7102
+01/07/2002,Northern Ireland,2.0647
+01/07/2002,Scotland,1.9766
+01/07/2002,South East,2.1014
+01/07/2002,South West,1.9677
+01/07/2002,Wales,1.7271
+01/07/2002,West Midlands,1.8074
+01/07/2002,Yorkshire & Humber,1.7187
+01/08/2002,East Anglia,1.9512
+01/08/2002,East Midlands,1.8178
+01/08/2002,London,2.0793
+01/08/2002,North,1.6933
+01/08/2002,North West,1.7130
+01/08/2002,Northern Ireland,2.0722
+01/08/2002,Scotland,1.9924
+01/08/2002,South East,2.1042
+01/08/2002,South West,1.9661
+01/08/2002,Wales,1.7241
+01/08/2002,West Midlands,1.8158
+01/08/2002,Yorkshire & Humber,1.7258
+01/09/2002,East Anglia,1.9415
+01/09/2002,East Midlands,1.8384
+01/09/2002,London,2.0720
+01/09/2002,North,1.7077
+01/09/2002,North West,1.7075
+01/09/2002,Northern Ireland,2.0800
+01/09/2002,Scotland,1.9937
+01/09/2002,South East,2.1121
+01/09/2002,South West,1.9704
+01/09/2002,Wales,1.7289
+01/09/2002,West Midlands,1.8260
+01/09/2002,Yorkshire & Humber,1.7191
+01/10/2002,East Anglia,1.9406
+01/10/2002,East Midlands,1.8434
+01/10/2002,London,2.0784
+01/10/2002,North,1.7261
+01/10/2002,North West,1.7129
+01/10/2002,Northern Ireland,2.0384
+01/10/2002,Scotland,1.9870
+01/10/2002,South East,2.1176
+01/10/2002,South West,1.9853
+01/10/2002,Wales,1.7307
+01/10/2002,West Midlands,1.8249
+01/10/2002,Yorkshire & Humber,1.7465
+01/11/2002,East Anglia,1.9415
+01/11/2002,East Midlands,1.8511
+01/11/2002,London,2.0641
+01/11/2002,North,1.7604
+01/11/2002,North West,1.7252
+01/11/2002,Northern Ireland,2.0437
+01/11/2002,Scotland,1.9887
+01/11/2002,South East,2.1135
+01/11/2002,South West,1.9907
+01/11/2002,Wales,1.7179
+01/11/2002,West Midlands,1.8300
+01/11/2002,Yorkshire & Humber,1.7457
+01/12/2002,East Anglia,1.9596
+01/12/2002,East Midlands,1.8417
+01/12/2002,London,2.0619
+01/12/2002,North,1.7557
+01/12/2002,North West,1.7274
+01/12/2002,Northern Ireland,2.0516
+01/12/2002,Scotland,2.0034
+01/12/2002,South East,2.1239
+01/12/2002,South West,1.9965
+01/12/2002,Wales,1.7161
+01/12/2002,West Midlands,1.8466
+01/12/2002,Yorkshire & Humber,1.7530
+01/01/2003,East Anglia,1.9596
+01/01/2003,East Midlands,1.8487
+01/01/2003,London,2.0512
+01/01/2003,North,1.7691
+01/01/2003,North West,1.7330
+01/01/2003,Northern Ireland,2.0595
+01/01/2003,Scotland,2.0046
+01/01/2003,South East,2.1294
+01/01/2003,South West,1.9858
+01/01/2003,Wales,1.7168
+01/01/2003,West Midlands,1.8457
+01/01/2003,Yorkshire & Humber,1.7618
+01/02/2003,East Anglia,1.9811
+01/02/2003,East Midlands,1.8674
+01/02/2003,London,2.1549
+01/02/2003,North,1.7839
+01/02/2003,North West,1.7510
+01/02/2003,Northern Ireland,2.0060
+01/02/2003,Scotland,2.0040
+01/02/2003,South East,2.1314
+01/02/2003,South West,2.0176
+01/02/2003,Wales,1.7274
+01/02/2003,West Midlands,1.8896
+01/02/2003,Yorkshire & Humber,1.7256
+01/03/2003,East Anglia,1.9984
+01/03/2003,East Midlands,1.8754
+01/03/2003,London,2.1580
+01/03/2003,North,1.8175
+01/03/2003,North West,1.7619
+01/03/2003,Northern Ireland,2.0239
+01/03/2003,Scotland,2.0205
+01/03/2003,South East,2.1495
+01/03/2003,South West,2.0247
+01/03/2003,Wales,1.7686
+01/03/2003,West Midlands,1.9105
+01/03/2003,Yorkshire & Humber,1.7654
+01/04/2003,East Anglia,2.0250
+01/04/2003,East Midlands,1.8808
+01/04/2003,London,2.1811
+01/04/2003,North,1.8359
+01/04/2003,North West,1.7725
+01/04/2003,Northern Ireland,2.0332
+01/04/2003,Scotland,2.0292
+01/04/2003,South East,2.1457
+01/04/2003,South West,2.0475
+01/04/2003,Wales,1.7586
+01/04/2003,West Midlands,1.9223
+01/04/2003,Yorkshire & Humber,1.7852
+01/05/2003,East Anglia,2.0180
+01/05/2003,East Midlands,1.8844
+01/05/2003,London,2.1857
+01/05/2003,North,1.8196
+01/05/2003,North West,1.7827
+01/05/2003,Northern Ireland,2.0310
+01/05/2003,Scotland,2.0436
+01/05/2003,South East,2.1448
+01/05/2003,South West,2.0726
+01/05/2003,Wales,1.7622
+01/05/2003,West Midlands,1.9249
+01/05/2003,Yorkshire & Humber,1.7944
+01/06/2003,East Anglia,2.0331
+01/06/2003,East Midlands,1.8805
+01/06/2003,London,2.1819
+01/06/2003,North,1.8178
+01/06/2003,North West,1.7854
+01/06/2003,Northern Ireland,2.0885
+01/06/2003,Scotland,2.0575
+01/06/2003,South East,2.1534
+01/06/2003,South West,2.0830
+01/06/2003,Wales,1.7622
+01/06/2003,West Midlands,1.9147
+01/06/2003,Yorkshire & Humber,1.7958
+01/07/2003,East Anglia,2.0255
+01/07/2003,East Midlands,1.8818
+01/07/2003,London,2.1866
+01/07/2003,North,1.8133
+01/07/2003,North West,1.7931
+01/07/2003,Northern Ireland,2.0910
+01/07/2003,Scotland,2.0423
+01/07/2003,South East,2.1380
+01/07/2003,South West,2.0708
+01/07/2003,Wales,1.7613
+01/07/2003,West Midlands,1.9056
+01/07/2003,Yorkshire & Humber,1.7664
+01/08/2003,East Anglia,2.0249
+01/08/2003,East Midlands,1.8889
+01/08/2003,London,2.1769
+01/08/2003,North,1.8350
+01/08/2003,North West,1.7983
+01/08/2003,Northern Ireland,2.0910
+01/08/2003,Scotland,2.0436
+01/08/2003,South East,2.1337
+01/08/2003,South West,2.0643
+01/08/2003,Wales,1.7674
+01/08/2003,West Midlands,1.9295
+01/08/2003,Yorkshire & Humber,1.7876
+01/09/2003,East Anglia,2.0313
+01/09/2003,East Midlands,1.8755
+01/09/2003,London,2.1812
+01/09/2003,North,1.8392
+01/09/2003,North West,1.8042
+01/09/2003,Northern Ireland,2.0958
+01/09/2003,Scotland,2.0513
+01/09/2003,South East,2.1486
+01/09/2003,South West,2.0496
+01/09/2003,Wales,1.7891
+01/09/2003,West Midlands,1.9295
+01/09/2003,Yorkshire & Humber,1.7626
+01/10/2003,East Anglia,2.0311
+01/10/2003,East Midlands,1.8889
+01/10/2003,London,2.1763
+01/10/2003,North,1.8408
+01/10/2003,North West,1.8035
+01/10/2003,Northern Ireland,2.0958
+01/10/2003,Scotland,2.0627
+01/10/2003,South East,2.1505
+01/10/2003,South West,2.0668
+01/10/2003,Wales,1.7913
+01/10/2003,West Midlands,1.9441
+01/10/2003,Yorkshire & Humber,1.7602
+01/11/2003,East Anglia,2.0350
+01/11/2003,East Midlands,1.8889
+01/11/2003,London,2.1775
+01/11/2003,North,1.8674
+01/11/2003,North West,1.8090
+01/11/2003,Northern Ireland,2.0844
+01/11/2003,Scotland,2.0661
+01/11/2003,South East,2.1472
+01/11/2003,South West,2.0722
+01/11/2003,Wales,1.8282
+01/11/2003,West Midlands,1.9505
+01/11/2003,Yorkshire & Humber,1.7528
+01/12/2003,East Anglia,2.0325
+01/12/2003,East Midlands,1.8889
+01/12/2003,London,2.1927
+01/12/2003,North,1.8471
+01/12/2003,North West,1.8159
+01/12/2003,Northern Ireland,2.0958
+01/12/2003,Scotland,2.0619
+01/12/2003,South East,2.1472
+01/12/2003,South West,2.0764
+01/12/2003,Wales,1.8204
+01/12/2003,West Midlands,1.9533
+01/12/2003,Yorkshire & Humber,1.7658
+01/01/2004,East Anglia,2.0385
+01/01/2004,East Midlands,1.8900
+01/01/2004,London,2.2017
+01/01/2004,North,1.8509
+01/01/2004,North West,1.8193
+01/01/2004,Northern Ireland,2.0958
+01/01/2004,Scotland,2.0619
+01/01/2004,South East,2.1510
+01/01/2004,South West,2.0548
+01/01/2004,Wales,1.8204
+01/01/2004,West Midlands,1.9633
+01/01/2004,Yorkshire & Humber,1.7608
+01/02/2004,East Anglia,2.0442
+01/02/2004,East Midlands,1.9279
+01/02/2004,London,2.1982
+01/02/2004,North,1.8404
+01/02/2004,North West,1.8209
+01/02/2004,Northern Ireland,2.2265
+01/02/2004,Scotland,2.0082
+01/02/2004,South East,2.1583
+01/02/2004,South West,2.0592
+01/02/2004,Wales,1.8363
+01/02/2004,West Midlands,1.9527
+01/02/2004,Yorkshire & Humber,1.8402
+01/03/2004,East Anglia,2.0773
+01/03/2004,East Midlands,1.9397
+01/03/2004,London,2.2129
+01/03/2004,North,1.8722
+01/03/2004,North West,1.8374
+01/03/2004,Northern Ireland,2.2281
+01/03/2004,Scotland,1.9950
+01/03/2004,South East,2.1723
+01/03/2004,South West,2.1040
+01/03/2004,Wales,1.8704
+01/03/2004,West Midlands,1.9716
+01/03/2004,Yorkshire & Humber,1.8777
+01/04/2004,East Anglia,2.1015
+01/04/2004,East Midlands,1.9435
+01/04/2004,London,2.2369
+01/04/2004,North,1.9086
+01/04/2004,North West,1.8393
+01/04/2004,Northern Ireland,2.2467
+01/04/2004,Scotland,1.9976
+01/04/2004,South East,2.1865
+01/04/2004,South West,2.1235
+01/04/2004,Wales,1.8954
+01/04/2004,West Midlands,1.9793
+01/04/2004,Yorkshire & Humber,1.9037
+01/05/2004,East Anglia,2.1096
+01/05/2004,East Midlands,1.9767
+01/05/2004,London,2.2119
+01/05/2004,North,1.8990
+01/05/2004,North West,1.8271
+01/05/2004,Northern Ireland,2.2767
+01/05/2004,Scotland,2.0403
+01/05/2004,South East,2.1751
+01/05/2004,South West,2.1254
+01/05/2004,Wales,1.8987
+01/05/2004,West Midlands,1.9771
+01/05/2004,Yorkshire & Humber,1.8960
+01/06/2004,East Anglia,2.1196
+01/06/2004,East Midlands,1.9931
+01/06/2004,London,2.2133
+01/06/2004,North,1.9059
+01/06/2004,North West,1.8407
+01/06/2004,Northern Ireland,2.2306
+01/06/2004,Scotland,2.0311
+01/06/2004,South East,2.1777
+01/06/2004,South West,2.1430
+01/06/2004,Wales,1.9050
+01/06/2004,West Midlands,2.0089
+01/06/2004,Yorkshire & Humber,1.8971
+01/07/2004,East Anglia,2.1125
+01/07/2004,East Midlands,1.9946
+01/07/2004,London,2.2146
+01/07/2004,North,1.8882
+01/07/2004,North West,1.8471
+01/07/2004,Northern Ireland,2.2427
+01/07/2004,Scotland,2.0107
+01/07/2004,South East,2.1886
+01/07/2004,South West,2.1294
+01/07/2004,Wales,1.9029
+01/07/2004,West Midlands,1.9993
+01/07/2004,Yorkshire & Humber,1.9098
+01/08/2004,East Anglia,2.1040
+01/08/2004,East Midlands,1.9941
+01/08/2004,London,2.2044
+01/08/2004,North,1.8996
+01/08/2004,North West,1.8686
+01/08/2004,Northern Ireland,2.2318
+01/08/2004,Scotland,1.9990
+01/08/2004,South East,2.2001
+01/08/2004,South West,2.1273
+01/08/2004,Wales,1.9108
+01/08/2004,West Midlands,2.0016
+01/08/2004,Yorkshire & Humber,1.9209
+01/09/2004,East Anglia,2.0969
+01/09/2004,East Midlands,1.9972
+01/09/2004,London,2.1963
+01/09/2004,North,1.8841
+01/09/2004,North West,1.8532
+01/09/2004,Northern Ireland,2.2376
+01/09/2004,Scotland,1.9995
+01/09/2004,South East,2.1975
+01/09/2004,South West,2.1384
+01/09/2004,Wales,1.9152
+01/09/2004,West Midlands,1.9850
+01/09/2004,Yorkshire & Humber,1.9433
+01/10/2004,East Anglia,2.1186
+01/10/2004,East Midlands,2.0076
+01/10/2004,London,2.2125
+01/10/2004,North,1.8841
+01/10/2004,North West,1.8684
+01/10/2004,Northern Ireland,2.2376
+01/10/2004,Scotland,2.0095
+01/10/2004,South East,2.1805
+01/10/2004,South West,2.1418
+01/10/2004,Wales,1.8758
+01/10/2004,West Midlands,1.9876
+01/10/2004,Yorkshire & Humber,1.9356
+01/11/2004,East Anglia,2.0943
+01/11/2004,East Midlands,2.0159
+01/11/2004,London,2.2215
+01/11/2004,North,1.8905
+01/11/2004,North West,1.8813
+01/11/2004,Northern Ireland,2.2560
+01/11/2004,Scotland,2.0202
+01/11/2004,South East,2.1853
+01/11/2004,South West,2.1575
+01/11/2004,Wales,1.8770
+01/11/2004,West Midlands,2.0050
+01/11/2004,Yorkshire & Humber,1.9227
+01/12/2004,East Anglia,2.0953
+01/12/2004,East Midlands,2.0174
+01/12/2004,London,2.2222
+01/12/2004,North,1.8991
+01/12/2004,North West,1.8658
+01/12/2004,Northern Ireland,2.1862
+01/12/2004,Scotland,2.0107
+01/12/2004,South East,2.1924
+01/12/2004,South West,2.1515
+01/12/2004,Wales,1.8770
+01/12/2004,West Midlands,2.0086
+01/12/2004,Yorkshire & Humber,1.9293
+01/01/2005,East Anglia,2.1178
+01/01/2005,East Midlands,2.0178
+01/01/2005,London,2.2267
+01/01/2005,North,1.8991
+01/01/2005,North West,1.8712
+01/01/2005,Northern Ireland,2.2775
+01/01/2005,Scotland,2.0102
+01/01/2005,South East,2.1943
+01/01/2005,South West,2.1649
+01/01/2005,Wales,1.8592
+01/01/2005,West Midlands,1.9886
+01/01/2005,Yorkshire & Humber,1.9381
+01/02/2005,East Anglia,2.1282
+01/02/2005,East Midlands,2.0524
+01/02/2005,London,2.2131
+01/02/2005,North,1.9218
+01/02/2005,North West,1.8858
+01/02/2005,Northern Ireland,2.2775
+01/02/2005,Scotland,2.1161
+01/02/2005,South East,2.2186
+01/02/2005,South West,2.0788
+01/02/2005,Wales,1.8921
+01/02/2005,West Midlands,1.9724
+01/02/2005,Yorkshire & Humber,1.9586
+01/03/2005,East Anglia,2.1820
+01/03/2005,East Midlands,2.0655
+01/03/2005,London,2.2391
+01/03/2005,North,1.9259
+01/03/2005,North West,1.8833
+01/03/2005,Northern Ireland,2.2775
+01/03/2005,Scotland,2.1047
+01/03/2005,South East,2.2162
+01/03/2005,South West,2.1048
+01/03/2005,Wales,1.9209
+01/03/2005,West Midlands,1.9832
+01/03/2005,Yorkshire & Humber,1.9764
+01/04/2005,East Anglia,2.1825
+01/04/2005,East Midlands,2.1114
+01/04/2005,London,2.2558
+01/04/2005,North,1.9759
+01/04/2005,North West,1.9005
+01/04/2005,Northern Ireland,2.3025
+01/04/2005,Scotland,2.1146
+01/04/2005,South East,2.2739
+01/04/2005,South West,2.1267
+01/04/2005,Wales,1.9764
+01/04/2005,West Midlands,2.0011
+01/04/2005,Yorkshire & Humber,1.9832
+01/05/2005,East Anglia,2.1398
+01/05/2005,East Midlands,2.0770
+01/05/2005,London,2.1875
+01/05/2005,North,1.9705
+01/05/2005,North West,1.9269
+01/05/2005,Northern Ireland,2.2775
+01/05/2005,Scotland,2.0697
+01/05/2005,South East,2.2409
+01/05/2005,South West,2.0930
+01/05/2005,Wales,1.9091
+01/05/2005,West Midlands,1.9707
+01/05/2005,Yorkshire & Humber,1.9983
+01/06/2005,East Anglia,2.2138
+01/06/2005,East Midlands,2.1206
+01/06/2005,London,2.2561
+01/06/2005,North,1.9739
+01/06/2005,North West,1.9019
+01/06/2005,Northern Ireland,2.2482
+01/06/2005,Scotland,2.1304
+01/06/2005,South East,2.3135
+01/06/2005,South West,2.1429
+01/06/2005,Wales,1.9841
+01/06/2005,West Midlands,2.0258
+01/06/2005,Yorkshire & Humber,1.9991
+01/07/2005,East Anglia,2.2044
+01/07/2005,East Midlands,2.1313
+01/07/2005,London,2.2661
+01/07/2005,North,1.9817
+01/07/2005,North West,1.9073
+01/07/2005,Northern Ireland,2.2481
+01/07/2005,Scotland,2.1371
+01/07/2005,South East,2.3121
+01/07/2005,South West,2.1375
+01/07/2005,Wales,1.9804
+01/07/2005,West Midlands,2.0139
+01/07/2005,Yorkshire & Humber,2.0026
+01/08/2005,East Anglia,2.1984
+01/08/2005,East Midlands,2.1403
+01/08/2005,London,2.2494
+01/08/2005,North,1.9700
+01/08/2005,North West,1.9140
+01/08/2005,Northern Ireland,2.2575
+01/08/2005,Scotland,2.1470
+01/08/2005,South East,2.3176
+01/08/2005,South West,2.1473
+01/08/2005,Wales,1.9675
+01/08/2005,West Midlands,2.0157
+01/08/2005,Yorkshire & Humber,2.0022
+01/09/2005,East Anglia,2.1808
+01/09/2005,East Midlands,2.1430
+01/09/2005,London,2.2557
+01/09/2005,North,1.9700
+01/09/2005,North West,1.9173
+01/09/2005,Northern Ireland,2.2506
+01/09/2005,Scotland,2.1509
+01/09/2005,South East,2.3242
+01/09/2005,South West,2.1427
+01/09/2005,Wales,1.9675
+01/09/2005,West Midlands,2.0313
+01/09/2005,Yorkshire & Humber,2.0206
+01/10/2005,East Anglia,2.2098
+01/10/2005,East Midlands,2.1481
+01/10/2005,London,2.2726
+01/10/2005,North,1.9787
+01/10/2005,North West,1.9057
+01/10/2005,Northern Ireland,2.2506
+01/10/2005,Scotland,2.1533
+01/10/2005,South East,2.3179
+01/10/2005,South West,2.1539
+01/10/2005,Wales,1.9729
+01/10/2005,West Midlands,2.0287
+01/10/2005,Yorkshire & Humber,2.0243
+01/11/2005,East Anglia,2.2076
+01/11/2005,East Midlands,2.1513
+01/11/2005,London,2.2830
+01/11/2005,North,1.9787
+01/11/2005,North West,1.9127
+01/11/2005,Northern Ireland,2.2558
+01/11/2005,Scotland,2.1285
+01/11/2005,South East,2.3084
+01/11/2005,South West,2.1596
+01/11/2005,Wales,1.9717
+01/11/2005,West Midlands,2.0253
+01/11/2005,Yorkshire & Humber,2.0156
+01/12/2005,East Anglia,2.2027
+01/12/2005,East Midlands,2.1346
+01/12/2005,London,2.2841
+01/12/2005,North,1.9757
+01/12/2005,North West,1.9321
+01/12/2005,Northern Ireland,2.2716
+01/12/2005,Scotland,2.1510
+01/12/2005,South East,2.3131
+01/12/2005,South West,2.1598
+01/12/2005,Wales,1.9679
+01/12/2005,West Midlands,2.0285
+01/12/2005,Yorkshire & Humber,2.0159
+01/01/2006,East Anglia,2.2143
+01/01/2006,East Midlands,2.1492
+01/01/2006,London,2.2948
+01/01/2006,North,1.9778
+01/01/2006,North West,1.9295
+01/01/2006,Northern Ireland,2.2795
+01/01/2006,Scotland,2.1418
+01/01/2006,South East,2.3057
+01/01/2006,South West,2.1559
+01/01/2006,Wales,1.9583
+01/01/2006,West Midlands,2.0224
+01/01/2006,Yorkshire & Humber,2.0233
+01/02/2006,East Anglia,2.2268
+01/02/2006,East Midlands,2.1297
+01/02/2006,London,2.3303
+01/02/2006,North,2.0005
+01/02/2006,North West,1.8982
+01/02/2006,Northern Ireland,2.2795
+01/02/2006,Scotland,2.1415
+01/02/2006,South East,2.3481
+01/02/2006,South West,2.2027
+01/02/2006,Wales,2.0071
+01/02/2006,West Midlands,2.0365
+01/02/2006,Yorkshire & Humber,2.1116
+01/03/2006,East Anglia,2.2415
+01/03/2006,East Midlands,2.1435
+01/03/2006,London,2.3317
+01/03/2006,North,2.0119
+01/03/2006,North West,1.9228
+01/03/2006,Northern Ireland,2.2795
+01/03/2006,Scotland,2.1630
+01/03/2006,South East,2.3415
+01/03/2006,South West,2.2139
+01/03/2006,Wales,2.0135
+01/03/2006,West Midlands,2.0481
+01/03/2006,Yorkshire & Humber,2.1383
+01/04/2006,East Anglia,2.2633
+01/04/2006,East Midlands,2.1425
+01/04/2006,London,2.3665
+01/04/2006,North,2.0329
+01/04/2006,North West,1.9351
+01/04/2006,Northern Ireland,2.2953
+01/04/2006,Scotland,2.1697
+01/04/2006,South East,2.3552
+01/04/2006,South West,2.2333
+01/04/2006,Wales,2.0310
+01/04/2006,West Midlands,2.0624
+01/04/2006,Yorkshire & Humber,2.1048
+01/05/2006,East Anglia,2.2727
+01/05/2006,East Midlands,2.1725
+01/05/2006,London,2.3638
+01/05/2006,North,2.0300
+01/05/2006,North West,1.9674
+01/05/2006,Northern Ireland,2.3163
+01/05/2006,Scotland,2.1868
+01/05/2006,South East,2.3828
+01/05/2006,South West,2.2482
+01/05/2006,Wales,2.0333
+01/05/2006,West Midlands,2.0948
+01/05/2006,Yorkshire & Humber,2.1350
+01/06/2006,East Anglia,2.2815
+01/06/2006,East Midlands,2.1764
+01/06/2006,London,2.3684
+01/06/2006,North,2.0283
+01/06/2006,North West,1.9637
+01/06/2006,Northern Ireland,2.3347
+01/06/2006,Scotland,2.2088
+01/06/2006,South East,2.3932
+01/06/2006,South West,2.2493
+01/06/2006,Wales,2.0380
+01/06/2006,West Midlands,2.0929
+01/06/2006,Yorkshire & Humber,2.1318
+01/07/2006,East Anglia,2.2842
+01/07/2006,East Midlands,2.1889
+01/07/2006,London,2.3881
+01/07/2006,North,2.0438
+01/07/2006,North West,1.9566
+01/07/2006,Northern Ireland,2.3311
+01/07/2006,Scotland,2.2175
+01/07/2006,South East,2.3886
+01/07/2006,South West,2.2565
+01/07/2006,Wales,2.0130
+01/07/2006,West Midlands,2.1027
+01/07/2006,Yorkshire & Humber,2.1140
+01/08/2006,East Anglia,2.2655
+01/08/2006,East Midlands,2.1814
+01/08/2006,London,2.3608
+01/08/2006,North,2.0617
+01/08/2006,North West,1.9529
+01/08/2006,Northern Ireland,2.3311
+01/08/2006,Scotland,2.2108
+01/08/2006,South East,2.3999
+01/08/2006,South West,2.2293
+01/08/2006,Wales,2.0687
+01/08/2006,West Midlands,2.0986
+01/08/2006,Yorkshire & Humber,2.1218
+01/09/2006,East Anglia,2.2502
+01/09/2006,East Midlands,2.1856
+01/09/2006,London,2.3685
+01/09/2006,North,2.0730
+01/09/2006,North West,1.9727
+01/09/2006,Northern Ireland,2.3447
+01/09/2006,Scotland,2.2249
+01/09/2006,South East,2.3824
+01/09/2006,South West,2.2316
+01/09/2006,Wales,2.0691
+01/09/2006,West Midlands,2.0819
+01/09/2006,Yorkshire & Humber,2.1224
+01/10/2006,East Anglia,2.2655
+01/10/2006,East Midlands,2.1784
+01/10/2006,London,2.4124
+01/10/2006,North,2.0752
+01/10/2006,North West,1.9675
+01/10/2006,Northern Ireland,2.3580
+01/10/2006,Scotland,2.2277
+01/10/2006,South East,2.3913
+01/10/2006,South West,2.2300
+01/10/2006,Wales,2.0996
+01/10/2006,West Midlands,2.1079
+01/10/2006,Yorkshire & Humber,2.1221
+01/11/2006,East Anglia,2.2754
+01/11/2006,East Midlands,2.1863
+01/11/2006,London,2.4152
+01/11/2006,North,2.0752
+01/11/2006,North West,1.9894
+01/11/2006,Northern Ireland,2.3630
+01/11/2006,Scotland,2.2120
+01/11/2006,South East,2.4007
+01/11/2006,South West,2.2563
+01/11/2006,Wales,2.1063
+01/11/2006,West Midlands,2.1077
+01/11/2006,Yorkshire & Humber,2.1147
+01/12/2006,East Anglia,2.2762
+01/12/2006,East Midlands,2.1768
+01/12/2006,London,2.4259
+01/12/2006,North,2.0755
+01/12/2006,North West,2.0025
+01/12/2006,Northern Ireland,2.3680
+01/12/2006,Scotland,2.1931
+01/12/2006,South East,2.4101
+01/12/2006,South West,2.2611
+01/12/2006,Wales,2.1125
+01/12/2006,West Midlands,2.1220
+01/12/2006,Yorkshire & Humber,2.1247
+01/01/2007,East Anglia,2.2969
+01/01/2007,East Midlands,2.1832
+01/01/2007,London,2.3747
+01/01/2007,North,2.0743
+01/01/2007,North West,1.9669
+01/01/2007,Northern Ireland,2.3680
+01/01/2007,Scotland,2.1867
+01/01/2007,South East,2.4070
+01/01/2007,South West,2.2494
+01/01/2007,Wales,2.0659
+01/01/2007,West Midlands,2.1293
+01/01/2007,Yorkshire & Humber,2.1323
+01/02/2007,East Anglia,2.2950
+01/02/2007,East Midlands,2.1995
+01/02/2007,London,2.3801
+01/02/2007,North,2.0790
+01/02/2007,North West,1.9655
+01/02/2007,Northern Ireland,2.3984
+01/02/2007,Scotland,2.1995
+01/02/2007,South East,2.4167
+01/02/2007,South West,2.2754
+01/02/2007,Wales,2.0390
+01/02/2007,West Midlands,2.1330
+01/02/2007,Yorkshire & Humber,2.1355
+01/03/2007,East Anglia,2.3242
+01/03/2007,East Midlands,2.2303
+01/03/2007,London,2.4130
+01/03/2007,North,2.1005
+01/03/2007,North West,1.9971
+01/03/2007,Northern Ireland,2.4089
+01/03/2007,Scotland,2.2087
+01/03/2007,South East,2.4339
+01/03/2007,South West,2.3011
+01/03/2007,Wales,2.0538
+01/03/2007,West Midlands,2.1521
+01/03/2007,Yorkshire & Humber,2.1872
+01/04/2007,East Anglia,2.3496
+01/04/2007,East Midlands,2.2542
+01/04/2007,London,2.4165
+01/04/2007,North,2.1355
+01/04/2007,North West,2.0260
+01/04/2007,Northern Ireland,2.4274
+01/04/2007,Scotland,2.2214
+01/04/2007,South East,2.4599
+01/04/2007,South West,2.3293
+01/04/2007,Wales,2.1024
+01/04/2007,West Midlands,2.1595
+01/04/2007,Yorkshire & Humber,2.1814
+01/05/2007,East Anglia,2.3546
+01/05/2007,East Midlands,2.2389
+01/05/2007,London,2.4285
+01/05/2007,North,2.0520
+01/05/2007,North West,2.0062
+01/05/2007,Northern Ireland,2.4276
+01/05/2007,Scotland,2.2394
+01/05/2007,South East,2.4791
+01/05/2007,South West,2.3384
+01/05/2007,Wales,2.1019
+01/05/2007,West Midlands,2.1805
+01/05/2007,Yorkshire & Humber,2.1860
+01/06/2007,East Anglia,2.3592
+01/06/2007,East Midlands,2.2414
+01/06/2007,London,2.4278
+01/06/2007,North,2.1070
+01/06/2007,North West,2.0154
+01/06/2007,Northern Ireland,2.4400
+01/06/2007,Scotland,2.2492
+01/06/2007,South East,2.4872
+01/06/2007,South West,2.3656
+01/06/2007,Wales,2.0810
+01/06/2007,West Midlands,2.1919
+01/06/2007,Yorkshire & Humber,2.1911
+01/07/2007,East Anglia,2.3796
+01/07/2007,East Midlands,2.2690
+01/07/2007,London,2.4348
+01/07/2007,North,2.1154
+01/07/2007,North West,2.0507
+01/07/2007,Northern Ireland,2.4537
+01/07/2007,Scotland,2.2532
+01/07/2007,South East,2.5064
+01/07/2007,South West,2.3620
+01/07/2007,Wales,2.1020
+01/07/2007,West Midlands,2.2063
+01/07/2007,Yorkshire & Humber,2.2037
+01/08/2007,East Anglia,2.3532
+01/08/2007,East Midlands,2.2695
+01/08/2007,London,2.4439
+01/08/2007,North,2.0987
+01/08/2007,North West,2.0587
+01/08/2007,Northern Ireland,2.4537
+01/08/2007,Scotland,2.2332
+01/08/2007,South East,2.5078
+01/08/2007,South West,2.3630
+01/08/2007,Wales,2.0870
+01/08/2007,West Midlands,2.2005
+01/08/2007,Yorkshire & Humber,2.2230
+01/09/2007,East Anglia,2.3565
+01/09/2007,East Midlands,2.2726
+01/09/2007,London,2.4390
+01/09/2007,North,2.1009
+01/09/2007,North West,2.0751
+01/09/2007,Northern Ireland,2.4537
+01/09/2007,Scotland,2.2422
+01/09/2007,South East,2.5112
+01/09/2007,South West,2.3628
+01/09/2007,Wales,2.0870
+01/09/2007,West Midlands,2.2195
+01/09/2007,Yorkshire & Humber,2.2224
+01/10/2007,East Anglia,2.3857
+01/10/2007,East Midlands,2.2646
+01/10/2007,London,2.4448
+01/10/2007,North,2.0987
+01/10/2007,North West,2.0473
+01/10/2007,Northern Ireland,2.4379
+01/10/2007,Scotland,2.2436
+01/10/2007,South East,2.5183
+01/10/2007,South West,2.3558
+01/10/2007,Wales,2.0958
+01/10/2007,West Midlands,2.2043
+01/10/2007,Yorkshire & Humber,2.2181
+01/11/2007,East Anglia,2.4054
+01/11/2007,East Midlands,2.2744
+01/11/2007,London,2.4507
+01/11/2007,North,2.1030
+01/11/2007,North West,2.0565
+01/11/2007,Northern Ireland,2.4030
+01/11/2007,Scotland,2.1879
+01/11/2007,South East,2.5180
+01/11/2007,South West,2.3704
+01/11/2007,Wales,2.0650
+01/11/2007,West Midlands,2.1845
+01/11/2007,Yorkshire & Humber,2.2288
+01/12/2007,East Anglia,2.4008
+01/12/2007,East Midlands,2.2545
+01/12/2007,London,2.4559
+01/12/2007,North,2.1161
+01/12/2007,North West,2.0556
+01/12/2007,Northern Ireland,2.4084
+01/12/2007,Scotland,2.1918
+01/12/2007,South East,2.5177
+01/12/2007,South West,2.3787
+01/12/2007,Wales,2.1000
+01/12/2007,West Midlands,2.1891
+01/12/2007,Yorkshire & Humber,2.2397
+01/01/2008,East Anglia,2.4028
+01/01/2008,East Midlands,2.2403
+01/01/2008,London,2.4442
+01/01/2008,North,2.0819
+01/01/2008,North West,2.0348
+01/01/2008,Northern Ireland,2.3979
+01/01/2008,Scotland,2.1729
+01/01/2008,South East,2.4924
+01/01/2008,South West,2.3723
+01/01/2008,Wales,2.1158
+01/01/2008,West Midlands,2.1891
+01/01/2008,Yorkshire & Humber,2.2395
+01/02/2008,East Anglia,2.4228
+01/02/2008,East Midlands,2.2479
+01/02/2008,London,2.4918
+01/02/2008,North,2.0765
+01/02/2008,North West,2.0565
+01/02/2008,Northern Ireland,2.3775
+01/02/2008,Scotland,2.2706
+01/02/2008,South East,2.4887
+01/02/2008,South West,2.3957
+01/02/2008,Wales,2.1382
+01/02/2008,West Midlands,2.2109
+01/02/2008,Yorkshire & Humber,2.2403
+01/03/2008,East Anglia,2.4486
+01/03/2008,East Midlands,2.2658
+01/03/2008,London,2.5229
+01/03/2008,North,2.1035
+01/03/2008,North West,2.0851
+01/03/2008,Northern Ireland,2.4100
+01/03/2008,Scotland,2.3197
+01/03/2008,South East,2.5153
+01/03/2008,South West,2.4111
+01/03/2008,Wales,2.1464
+01/03/2008,West Midlands,2.2139
+01/03/2008,Yorkshire & Humber,2.2715
+01/04/2008,East Anglia,2.4945
+01/04/2008,East Midlands,2.3327
+01/04/2008,London,2.5710
+01/04/2008,North,2.2314
+01/04/2008,North West,2.0942
+01/04/2008,Northern Ireland,2.4763
+01/04/2008,Scotland,2.3542
+01/04/2008,South East,2.5915
+01/04/2008,South West,2.4760
+01/04/2008,Wales,2.1614
+01/04/2008,West Midlands,2.2971
+01/04/2008,Yorkshire & Humber,2.3079
+01/05/2008,East Anglia,2.5033
+01/05/2008,East Midlands,2.3370
+01/05/2008,London,2.5856
+01/05/2008,North,2.2518
+01/05/2008,North West,2.0931
+01/05/2008,Northern Ireland,2.4868
+01/05/2008,Scotland,2.3635
+01/05/2008,South East,2.5971
+01/05/2008,South West,2.4835
+01/05/2008,Wales,2.1432
+01/05/2008,West Midlands,2.2917
+01/05/2008,Yorkshire & Humber,2.2903
+01/06/2008,East Anglia,2.5078
+01/06/2008,East Midlands,2.3263
+01/06/2008,London,2.5849
+01/06/2008,North,2.2632
+01/06/2008,North West,2.1229
+01/06/2008,Northern Ireland,2.4921
+01/06/2008,Scotland,2.3767
+01/06/2008,South East,2.6059
+01/06/2008,South West,2.4702
+01/06/2008,Wales,2.1667
+01/06/2008,West Midlands,2.2923
+01/06/2008,Yorkshire & Humber,2.2826
+01/07/2008,East Anglia,2.5085
+01/07/2008,East Midlands,2.3297
+01/07/2008,London,2.6029
+01/07/2008,North,2.2371
+01/07/2008,North West,2.1191
+01/07/2008,Northern Ireland,2.4974
+01/07/2008,Scotland,2.3754
+01/07/2008,South East,2.6120
+01/07/2008,South West,2.4802
+01/07/2008,Wales,2.1727
+01/07/2008,West Midlands,2.2915
+01/07/2008,Yorkshire & Humber,2.2784
+01/08/2008,East Anglia,2.5129
+01/08/2008,East Midlands,2.3321
+01/08/2008,London,2.5930
+01/08/2008,North,2.2371
+01/08/2008,North West,2.1132
+01/08/2008,Northern Ireland,2.4921
+01/08/2008,Scotland,2.4011
+01/08/2008,South East,2.5856
+01/08/2008,South West,2.4842
+01/08/2008,Wales,2.1792
+01/08/2008,West Midlands,2.3072
+01/08/2008,Yorkshire & Humber,2.2784
+01/09/2008,East Anglia,2.5283
+01/09/2008,East Midlands,2.3197
+01/09/2008,London,2.5731
+01/09/2008,North,2.2246
+01/09/2008,North West,2.0856
+01/09/2008,Northern Ireland,2.5295
+01/09/2008,Scotland,2.3959
+01/09/2008,South East,2.5866
+01/09/2008,South West,2.4954
+01/09/2008,Wales,2.1925
+01/09/2008,West Midlands,2.3059
+01/09/2008,Yorkshire & Humber,2.2759
+01/10/2008,East Anglia,2.5236
+01/10/2008,East Midlands,2.3184
+01/10/2008,London,2.5771
+01/10/2008,North,2.2287
+01/10/2008,North West,2.0905
+01/10/2008,Northern Ireland,2.5211
+01/10/2008,Scotland,2.3817
+01/10/2008,South East,2.5889
+01/10/2008,South West,2.4991
+01/10/2008,Wales,2.1862
+01/10/2008,West Midlands,2.2921
+01/10/2008,Yorkshire & Humber,2.3037
+01/11/2008,East Anglia,2.5036
+01/11/2008,East Midlands,2.3361
+01/11/2008,London,2.5897
+01/11/2008,North,2.2278
+01/11/2008,North West,2.1033
+01/11/2008,Northern Ireland,2.5342
+01/11/2008,Scotland,2.4051
+01/11/2008,South East,2.6121
+01/11/2008,South West,2.5013
+01/11/2008,Wales,2.1865
+01/11/2008,West Midlands,2.2782
+01/11/2008,Yorkshire & Humber,2.3170
+01/12/2008,East Anglia,2.5004
+01/12/2008,East Midlands,2.3453
+01/12/2008,London,2.5910
+01/12/2008,North,2.2154
+01/12/2008,North West,2.1374
+01/12/2008,Northern Ireland,2.4531
+01/12/2008,Scotland,2.3905
+01/12/2008,South East,2.6055
+01/12/2008,South West,2.5154
+01/12/2008,Wales,2.1852
+01/12/2008,West Midlands,2.3124
+01/12/2008,Yorkshire & Humber,2.3305
+01/01/2009,East Anglia,2.5074
+01/01/2009,East Midlands,2.3172
+01/01/2009,London,2.5878
+01/01/2009,North,2.2379
+01/01/2009,North West,2.0850
+01/01/2009,Northern Ireland,2.5132
+01/01/2009,Scotland,2.4081
+01/01/2009,South East,2.6101
+01/01/2009,South West,2.5184
+01/01/2009,Wales,2.2039
+01/01/2009,West Midlands,2.2770
+01/01/2009,Yorkshire & Humber,2.3233
+01/02/2009,East Anglia,2.5594
+01/02/2009,East Midlands,2.3424
+01/02/2009,London,2.5812
+01/02/2009,North,2.2592
+01/02/2009,North West,2.1198
+01/02/2009,Northern Ireland,2.6050
+01/02/2009,Scotland,2.3867
+01/02/2009,South East,2.6244
+01/02/2009,South West,2.5366
+01/02/2009,Wales,2.2232
+01/02/2009,West Midlands,2.2668
+01/02/2009,Yorkshire & Humber,2.3564
+01/03/2009,East Anglia,2.5796
+01/03/2009,East Midlands,2.3624
+01/03/2009,London,2.5710
+01/03/2009,North,2.2633
+01/03/2009,North West,2.1167
+01/03/2009,Northern Ireland,2.6065
+01/03/2009,Scotland,2.4193
+01/03/2009,South East,2.6350
+01/03/2009,South West,2.5424
+01/03/2009,Wales,2.2561
+01/03/2009,West Midlands,2.2927
+01/03/2009,Yorkshire & Humber,2.3744
+01/04/2009,East Anglia,2.5806
+01/04/2009,East Midlands,2.3593
+01/04/2009,London,2.6060
+01/04/2009,North,2.2746
+01/04/2009,North West,2.1398
+01/04/2009,Northern Ireland,2.5867
+01/04/2009,Scotland,2.4344
+01/04/2009,South East,2.6418
+01/04/2009,South West,2.5569
+01/04/2009,Wales,2.2655
+01/04/2009,West Midlands,2.2837
+01/04/2009,Yorkshire & Humber,2.3833
+01/05/2009,East Anglia,2.6122
+01/05/2009,East Midlands,2.4025
+01/05/2009,London,2.6138
+01/05/2009,North,2.2863
+01/05/2009,North West,2.1491
+01/05/2009,Northern Ireland,2.6228
+01/05/2009,Scotland,2.4444
+01/05/2009,South East,2.6682
+01/05/2009,South West,2.5554
+01/05/2009,Wales,2.3100
+01/05/2009,West Midlands,2.2890
+01/05/2009,Yorkshire & Humber,2.3863
+01/06/2009,East Anglia,2.6308
+01/06/2009,East Midlands,2.3689
+01/06/2009,London,2.5937
+01/06/2009,North,2.2971
+01/06/2009,North West,2.1353
+01/06/2009,Northern Ireland,2.6283
+01/06/2009,Scotland,2.4540
+01/06/2009,South East,2.6743
+01/06/2009,South West,2.5553
+01/06/2009,Wales,2.3200
+01/06/2009,West Midlands,2.2749
+01/06/2009,Yorkshire & Humber,2.3900
+01/07/2009,East Anglia,2.6173
+01/07/2009,East Midlands,2.3983
+01/07/2009,London,2.6043
+01/07/2009,North,2.3173
+01/07/2009,North West,2.1293
+01/07/2009,Northern Ireland,2.6624
+01/07/2009,Scotland,2.4636
+01/07/2009,South East,2.6610
+01/07/2009,South West,2.5517
+01/07/2009,Wales,2.3518
+01/07/2009,West Midlands,2.2805
+01/07/2009,Yorkshire & Humber,2.3947
+01/08/2009,East Anglia,2.6312
+01/08/2009,East Midlands,2.4067
+01/08/2009,London,2.6021
+01/08/2009,North,2.2764
+01/08/2009,North West,2.1495
+01/08/2009,Northern Ireland,2.6339
+01/08/2009,Scotland,2.4479
+01/08/2009,South East,2.6568
+01/08/2009,South West,2.5683
+01/08/2009,Wales,2.3519
+01/08/2009,West Midlands,2.2826
+01/08/2009,Yorkshire & Humber,2.3967
+01/09/2009,East Anglia,2.6220
+01/09/2009,East Midlands,2.3892
+01/09/2009,London,2.5894
+01/09/2009,North,2.2746
+01/09/2009,North West,2.1510
+01/09/2009,Northern Ireland,2.6339
+01/09/2009,Scotland,2.4502
+01/09/2009,South East,2.6738
+01/09/2009,South West,2.5683
+01/09/2009,Wales,2.3564
+01/09/2009,West Midlands,2.2813
+01/09/2009,Yorkshire & Humber,2.3934
+01/10/2009,East Anglia,2.6482
+01/10/2009,East Midlands,2.3697
+01/10/2009,London,2.5940
+01/10/2009,North,2.2808
+01/10/2009,North West,2.1548
+01/10/2009,Northern Ireland,2.6500
+01/10/2009,Scotland,2.4526
+01/10/2009,South East,2.7074
+01/10/2009,South West,2.5566
+01/10/2009,Wales,2.3264
+01/10/2009,West Midlands,2.3005
+01/10/2009,Yorkshire & Humber,2.3956
+01/11/2009,East Anglia,2.6533
+01/11/2009,East Midlands,2.4100
+01/11/2009,London,2.6097
+01/11/2009,North,2.2829
+01/11/2009,North West,2.1017
+01/11/2009,Northern Ireland,2.6412
+01/11/2009,Scotland,2.4474
+01/11/2009,South East,2.7133
+01/11/2009,South West,2.5536
+01/11/2009,Wales,2.3400
+01/11/2009,West Midlands,2.3217
+01/11/2009,Yorkshire & Humber,2.4126
+01/12/2009,East Anglia,2.6265
+01/12/2009,East Midlands,2.4128
+01/12/2009,London,2.6017
+01/12/2009,North,2.3058
+01/12/2009,North West,2.1457
+01/12/2009,Northern Ireland,2.6063
+01/12/2009,Scotland,2.4533
+01/12/2009,South East,2.7125
+01/12/2009,South West,2.5600
+01/12/2009,Wales,2.3245
+01/12/2009,West Midlands,2.3260
+01/12/2009,Yorkshire & Humber,2.3940
+01/01/2010,East Anglia,2.6458
+01/01/2010,East Midlands,2.4219
+01/01/2010,London,2.6097
+01/01/2010,North,2.3296
+01/01/2010,North West,2.1404
+01/01/2010,Northern Ireland,2.6611
+01/01/2010,Scotland,2.4485
+01/01/2010,South East,2.7069
+01/01/2010,South West,2.5849
+01/01/2010,Wales,2.3677
+01/01/2010,West Midlands,2.3154
+01/01/2010,Yorkshire & Humber,2.4183
+01/02/2010,East Anglia,2.6596
+01/02/2010,East Midlands,2.5418
+01/02/2010,London,2.6518
+01/02/2010,North,2.3167
+01/02/2010,North West,2.0841
+01/02/2010,Northern Ireland,2.7167
+01/02/2010,Scotland,2.4855
+01/02/2010,South East,2.7094
+01/02/2010,South West,2.5890
+01/02/2010,Wales,2.4071
+01/02/2010,West Midlands,2.4347
+01/02/2010,Yorkshire & Humber,2.4760
+01/03/2010,East Anglia,2.6683
+01/03/2010,East Midlands,2.5458
+01/03/2010,London,2.6591
+01/03/2010,North,2.3136
+01/03/2010,North West,2.1256
+01/03/2010,Northern Ireland,2.7308
+01/03/2010,Scotland,2.5027
+01/03/2010,South East,2.7285
+01/03/2010,South West,2.6307
+01/03/2010,Wales,2.4118
+01/03/2010,West Midlands,2.5037
+01/03/2010,Yorkshire & Humber,2.4855
+01/04/2010,East Anglia,2.6929
+01/04/2010,East Midlands,2.6051
+01/04/2010,London,2.6868
+01/04/2010,North,2.3445
+01/04/2010,North West,2.1532
+01/04/2010,Northern Ireland,2.7631
+01/04/2010,Scotland,2.5309
+01/04/2010,South East,2.7581
+01/04/2010,South West,2.6698
+01/04/2010,Wales,2.4167
+01/04/2010,West Midlands,2.4776
+01/04/2010,Yorkshire & Humber,2.5332
+01/05/2010,East Anglia,2.7065
+01/05/2010,East Midlands,2.5835
+01/05/2010,London,2.7034
+01/05/2010,North,2.3505
+01/05/2010,North West,2.1637
+01/05/2010,Northern Ireland,2.7708
+01/05/2010,Scotland,2.5452
+01/05/2010,South East,2.7764
+01/05/2010,South West,2.6813
+01/05/2010,Wales,2.4477
+01/05/2010,West Midlands,2.4592
+01/05/2010,Yorkshire & Humber,2.5360
+01/06/2010,East Anglia,2.7167
+01/06/2010,East Midlands,2.5900
+01/06/2010,London,2.7038
+01/06/2010,North,2.3529
+01/06/2010,North West,2.1536
+01/06/2010,Northern Ireland,2.7158
+01/06/2010,Scotland,2.5680
+01/06/2010,South East,2.7870
+01/06/2010,South West,2.6600
+01/06/2010,Wales,2.4413
+01/06/2010,West Midlands,2.4724
+01/06/2010,Yorkshire & Humber,2.5360
+01/07/2010,East Anglia,2.7194
+01/07/2010,East Midlands,2.5957
+01/07/2010,London,2.7047
+01/07/2010,North,2.3436
+01/07/2010,North West,2.1461
+01/07/2010,Northern Ireland,2.7336
+01/07/2010,Scotland,2.5451
+01/07/2010,South East,2.7887
+01/07/2010,South West,2.6628
+01/07/2010,Wales,2.4523
+01/07/2010,West Midlands,2.4871
+01/07/2010,Yorkshire & Humber,2.5271
+01/08/2010,East Anglia,2.7398
+01/08/2010,East Midlands,2.6024
+01/08/2010,London,2.6837
+01/08/2010,North,2.3243
+01/08/2010,North West,2.1604
+01/08/2010,Northern Ireland,2.7558
+01/08/2010,Scotland,2.5438
+01/08/2010,South East,2.7933
+01/08/2010,South West,2.6813
+01/08/2010,Wales,2.4573
+01/08/2010,West Midlands,2.4731
+01/08/2010,Yorkshire & Humber,2.5181
+01/09/2010,East Anglia,2.7039
+01/09/2010,East Midlands,2.5835
+01/09/2010,London,2.6900
+01/09/2010,North,2.3368
+01/09/2010,North West,2.1500
+01/09/2010,Northern Ireland,2.7558
+01/09/2010,Scotland,2.5498
+01/09/2010,South East,2.7959
+01/09/2010,South West,2.6585
+01/09/2010,Wales,2.4368
+01/09/2010,West Midlands,2.4456
+01/09/2010,Yorkshire & Humber,2.4882
+01/10/2010,East Anglia,2.7062
+01/10/2010,East Midlands,2.5626
+01/10/2010,London,2.6889
+01/10/2010,North,2.3391
+01/10/2010,North West,2.1661
+01/10/2010,Northern Ireland,2.7558
+01/10/2010,Scotland,2.5476
+01/10/2010,South East,2.8086
+01/10/2010,South West,2.6626
+01/10/2010,Wales,2.4290
+01/10/2010,West Midlands,2.4547
+01/10/2010,Yorkshire & Humber,2.5018
+01/11/2010,East Anglia,2.7196
+01/11/2010,East Midlands,2.5889
+01/11/2010,London,2.7150
+01/11/2010,North,2.3695
+01/11/2010,North West,2.1933
+01/11/2010,Northern Ireland,2.7000
+01/11/2010,Scotland,2.5538
+01/11/2010,South East,2.8119
+01/11/2010,South West,2.6656
+01/11/2010,Wales,2.4648
+01/11/2010,West Midlands,2.4514
+01/11/2010,Yorkshire & Humber,2.5234
+01/12/2010,East Anglia,2.7339
+01/12/2010,East Midlands,2.5764
+01/12/2010,London,2.7356
+01/12/2010,North,2.3767
+01/12/2010,North West,2.1911
+01/12/2010,Northern Ireland,2.6833
+01/12/2010,Scotland,2.5667
+01/12/2010,South East,2.8080
+01/12/2010,South West,2.6973
+01/12/2010,Wales,2.4595
+01/12/2010,West Midlands,2.4903
+01/12/2010,Yorkshire & Humber,2.5235
+01/01/2011,East Anglia,2.8102
+01/01/2011,East Midlands,2.5991
+01/01/2011,London,2.7735
+01/01/2011,North,2.4295
+01/01/2011,North West,2.2514
+01/01/2011,Northern Ireland,2.7167
+01/01/2011,Scotland,2.5918
+01/01/2011,South East,2.8462
+01/01/2011,South West,2.7716
+01/01/2011,Wales,2.5214
+01/01/2011,West Midlands,2.5346
+01/01/2011,Yorkshire & Humber,2.5736
+01/02/2011,East Anglia,2.8288
+01/02/2011,East Midlands,2.6268
+01/02/2011,London,2.7953
+01/02/2011,North,2.3858
+01/02/2011,North West,2.2375
+01/02/2011,Northern Ireland,2.7417
+01/02/2011,Scotland,2.5819
+01/02/2011,South East,2.8676
+01/02/2011,South West,2.7935
+01/02/2011,Wales,2.4300
+01/02/2011,West Midlands,2.5763
+01/02/2011,Yorkshire & Humber,2.5961
+01/03/2011,East Anglia,2.8220
+01/03/2011,East Midlands,2.6282
+01/03/2011,London,2.7954
+01/03/2011,North,2.4241
+01/03/2011,North West,2.2466
+01/03/2011,Northern Ireland,2.7417
+01/03/2011,Scotland,2.6436
+01/03/2011,South East,2.8988
+01/03/2011,South West,2.7926
+01/03/2011,Wales,2.4517
+01/03/2011,West Midlands,2.5508
+01/03/2011,Yorkshire & Humber,2.5895
+01/04/2011,East Anglia,2.9033
+01/04/2011,East Midlands,2.6733
+01/04/2011,London,2.8403
+01/04/2011,North,2.4987
+01/04/2011,North West,2.2796
+01/04/2011,Northern Ireland,2.8409
+01/04/2011,Scotland,2.6826
+01/04/2011,South East,2.9427
+01/04/2011,South West,2.8398
+01/04/2011,Wales,2.4850
+01/04/2011,West Midlands,2.5745
+01/04/2011,Yorkshire & Humber,2.6435
+01/05/2011,East Anglia,2.8996
+01/05/2011,East Midlands,2.6862
+01/05/2011,London,2.8593
+01/05/2011,North,2.4918
+01/05/2011,North West,2.3102
+01/05/2011,Northern Ireland,2.8917
+01/05/2011,Scotland,2.6977
+01/05/2011,South East,2.9407
+01/05/2011,South West,2.8522
+01/05/2011,Wales,2.5017
+01/05/2011,West Midlands,2.5379
+01/05/2011,Yorkshire & Humber,2.6204
+01/06/2011,East Anglia,2.8956
+01/06/2011,East Midlands,2.6585
+01/06/2011,London,2.8682
+01/06/2011,North,2.4987
+01/06/2011,North West,2.3035
+01/06/2011,Northern Ireland,2.8917
+01/06/2011,Scotland,2.7000
+01/06/2011,South East,2.9472
+01/06/2011,South West,2.8715
+01/06/2011,Wales,2.4892
+01/06/2011,West Midlands,2.5749
+01/06/2011,Yorkshire & Humber,2.6181
+01/07/2011,East Anglia,2.8933
+01/07/2011,East Midlands,2.6532
+01/07/2011,London,2.8675
+01/07/2011,North,2.4987
+01/07/2011,North West,2.3207
+01/07/2011,Northern Ireland,2.8636
+01/07/2011,Scotland,2.7012
+01/07/2011,South East,2.9431
+01/07/2011,South West,2.8621
+01/07/2011,Wales,2.4933
+01/07/2011,West Midlands,2.6303
+01/07/2011,Yorkshire & Humber,2.6349
+01/08/2011,East Anglia,2.9110
+01/08/2011,East Midlands,2.6431
+01/08/2011,London,2.9003
+01/08/2011,North,2.4571
+01/08/2011,North West,2.3365
+01/08/2011,Northern Ireland,2.9500
+01/08/2011,Scotland,2.7274
+01/08/2011,South East,2.9466
+01/08/2011,South West,2.8162
+01/08/2011,Wales,2.5079
+01/08/2011,West Midlands,2.5933
+01/08/2011,Yorkshire & Humber,2.6466
+01/09/2011,East Anglia,2.9116
+01/09/2011,East Midlands,2.6471
+01/09/2011,London,2.8966
+01/09/2011,North,2.4574
+01/09/2011,North West,2.3423
+01/09/2011,Northern Ireland,2.9636
+01/09/2011,Scotland,2.6940
+01/09/2011,South East,2.9493
+01/09/2011,South West,2.8532
+01/09/2011,Wales,2.5079
+01/09/2011,West Midlands,2.6258
+01/09/2011,Yorkshire & Humber,2.6402
+01/10/2011,East Anglia,2.9037
+01/10/2011,East Midlands,2.6486
+01/10/2011,London,2.8920
+01/10/2011,North,2.4770
+01/10/2011,North West,2.3350
+01/10/2011,Northern Ireland,2.8636
+01/10/2011,Scotland,2.7145
+01/10/2011,South East,2.9616
+01/10/2011,South West,2.8523
+01/10/2011,Wales,2.5009
+01/10/2011,West Midlands,2.6397
+01/10/2011,Yorkshire & Humber,2.6517
+01/11/2011,East Anglia,2.9377
+01/11/2011,East Midlands,2.6695
+01/11/2011,London,2.8995
+01/11/2011,North,2.4750
+01/11/2011,North West,2.3258
+01/11/2011,Northern Ireland,2.8833
+01/11/2011,Scotland,2.7378
+01/11/2011,South East,2.9568
+01/11/2011,South West,2.8256
+01/11/2011,Wales,2.5175
+01/11/2011,West Midlands,2.6372
+01/11/2011,Yorkshire & Humber,2.6662
+01/12/2011,East Anglia,2.9276
+01/12/2011,East Midlands,2.6726
+01/12/2011,London,2.9148
+01/12/2011,North,2.4833
+01/12/2011,North West,2.3250
+01/12/2011,Northern Ireland,2.8500
+01/12/2011,Scotland,2.7713
+01/12/2011,South East,2.9630
+01/12/2011,South West,2.8667
+01/12/2011,Wales,2.5238
+01/12/2011,West Midlands,2.6202
+01/12/2011,Yorkshire & Humber,2.6857
+01/01/2012,East Anglia,2.9296
+01/01/2012,East Midlands,2.6884
+01/01/2012,London,2.9272
+01/01/2012,North,2.4875
+01/01/2012,North West,2.3267
+01/01/2012,Northern Ireland,2.8833
+01/01/2012,Scotland,2.7568
+01/01/2012,South East,2.9662
+01/01/2012,South West,2.8475
+01/01/2012,Wales,2.5092
+01/01/2012,West Midlands,2.6263
+01/01/2012,Yorkshire & Humber,2.6506
+01/02/2012,East Anglia,2.9390
+01/02/2012,East Midlands,2.7637
+01/02/2012,London,2.9123
+01/02/2012,North,2.5568
+01/02/2012,North West,2.3591
+01/02/2012,Northern Ireland,2.8409
+01/02/2012,Scotland,2.6797
+01/02/2012,South East,2.9769
+01/02/2012,South West,2.8955
+01/02/2012,Wales,2.6013
+01/02/2012,West Midlands,2.5834
+01/02/2012,Yorkshire & Humber,2.6522
+01/03/2012,East Anglia,2.9694
+01/03/2012,East Midlands,2.7669
+01/03/2012,London,2.9126
+01/03/2012,North,2.5859
+01/03/2012,North West,2.3828
+01/03/2012,Northern Ireland,2.8625
+01/03/2012,Scotland,2.7236
+01/03/2012,South East,2.9797
+01/03/2012,South West,2.9089
+01/03/2012,Wales,2.6242
+01/03/2012,West Midlands,2.6287
+01/03/2012,Yorkshire & Humber,2.7076
+01/04/2012,East Anglia,3.0046
+01/04/2012,East Midlands,2.7956
+01/04/2012,London,2.9319
+01/04/2012,North,2.6275
+01/04/2012,North West,2.3709
+01/04/2012,Northern Ireland,2.8692
+01/04/2012,Scotland,2.7340
+01/04/2012,South East,3.0104
+01/04/2012,South West,2.9484
+01/04/2012,Wales,2.6773
+01/04/2012,West Midlands,2.6582
+01/04/2012,Yorkshire & Humber,2.7215
+01/05/2012,East Anglia,3.0047
+01/05/2012,East Midlands,2.7989
+01/05/2012,London,2.9836
+01/05/2012,North,2.5950
+01/05/2012,North West,2.3735
+01/05/2012,Northern Ireland,2.9362
+01/05/2012,Scotland,2.7141
+01/05/2012,South East,3.0285
+01/05/2012,South West,2.9507
+01/05/2012,Wales,2.6577
+01/05/2012,West Midlands,2.6333
+01/05/2012,Yorkshire & Humber,2.7627
+01/06/2012,East Anglia,2.9884
+01/06/2012,East Midlands,2.8106
+01/06/2012,London,3.0116
+01/06/2012,North,2.6257
+01/06/2012,North West,2.3975
+01/06/2012,Northern Ireland,2.9246
+01/06/2012,Scotland,2.7167
+01/06/2012,South East,3.0228
+01/06/2012,South West,2.9929
+01/06/2012,Wales,2.6617
+01/06/2012,West Midlands,2.6344
+01/06/2012,Yorkshire & Humber,2.7307
+01/07/2012,East Anglia,2.9867
+01/07/2012,East Midlands,2.8260
+01/07/2012,London,2.9740
+01/07/2012,North,2.6245
+01/07/2012,North West,2.3939
+01/07/2012,Northern Ireland,2.9246
+01/07/2012,Scotland,2.7098
+01/07/2012,South East,3.0308
+01/07/2012,South West,3.0050
+01/07/2012,Wales,2.6821
+01/07/2012,West Midlands,2.6433
+01/07/2012,Yorkshire & Humber,2.7446
+01/08/2012,East Anglia,2.9925
+01/08/2012,East Midlands,2.8350
+01/08/2012,London,2.9680
+01/08/2012,North,2.6448
+01/08/2012,North West,2.4036
+01/08/2012,Northern Ireland,2.9246
+01/08/2012,Scotland,2.6957
+01/08/2012,South East,3.0326
+01/08/2012,South West,3.0093
+01/08/2012,Wales,2.6813
+01/08/2012,West Midlands,2.6472
+01/08/2012,Yorkshire & Humber,2.7543
+01/09/2012,East Anglia,3.0043
+01/09/2012,East Midlands,2.8385
+01/09/2012,London,2.9675
+01/09/2012,North,2.6359
+01/09/2012,North West,2.3823
+01/09/2012,Northern Ireland,2.9246
+01/09/2012,Scotland,2.7121
+01/09/2012,South East,3.0319
+01/09/2012,South West,3.0093
+01/09/2012,Wales,2.6883
+01/09/2012,West Midlands,2.6610
+01/09/2012,Yorkshire & Humber,2.7564
+01/10/2012,East Anglia,3.0310
+01/10/2012,East Midlands,2.8574
+01/10/2012,London,2.9802
+01/10/2012,North,2.6295
+01/10/2012,North West,2.3990
+01/10/2012,Northern Ireland,2.8385
+01/10/2012,Scotland,2.7112
+01/10/2012,South East,3.0403
+01/10/2012,South West,3.0115
+01/10/2012,Wales,2.6883
+01/10/2012,West Midlands,2.6635
+01/10/2012,Yorkshire & Humber,2.7458
+01/11/2012,East Anglia,2.9963
+01/11/2012,East Midlands,2.8389
+01/11/2012,London,3.0302
+01/11/2012,North,2.6357
+01/11/2012,North West,2.4204
+01/11/2012,Northern Ireland,2.8385
+01/11/2012,Scotland,2.7237
+01/11/2012,South East,3.0578
+01/11/2012,South West,3.0262
+01/11/2012,Wales,2.6988
+01/11/2012,West Midlands,2.7060
+01/11/2012,Yorkshire & Humber,2.7598
+01/12/2012,East Anglia,2.9984
+01/12/2012,East Midlands,2.8253
+01/12/2012,London,3.0338
+01/12/2012,North,2.6373
+01/12/2012,North West,2.4409
+01/12/2012,Northern Ireland,2.8462
+01/12/2012,Scotland,2.7280
+01/12/2012,South East,3.0787
+01/12/2012,South West,3.0318
+01/12/2012,Wales,2.6987
+01/12/2012,West Midlands,2.6956
+01/12/2012,Yorkshire & Humber,2.7596
+01/01/2013,East Anglia,3.0004
+01/01/2013,East Midlands,2.8194
+01/01/2013,London,3.0391
+01/01/2013,North,2.6373
+01/01/2013,North West,2.4251
+01/01/2013,Northern Ireland,2.8462
+01/01/2013,Scotland,2.7310
+01/01/2013,South East,3.0873
+01/01/2013,South West,3.0170
+01/01/2013,Wales,2.7008
+01/01/2013,West Midlands,2.6956
+01/01/2013,Yorkshire & Humber,2.7628
+01/02/2013,East Anglia,2.9879
+01/02/2013,East Midlands,2.8803
+01/02/2013,London,3.0030
+01/02/2013,North,2.6995
+01/02/2013,North West,2.4902
+01/02/2013,Northern Ireland,2.8462
+01/02/2013,Scotland,2.7220
+01/02/2013,South East,3.0773
+01/02/2013,South West,3.0643
+01/02/2013,Wales,2.7139
+01/02/2013,West Midlands,2.6723
+01/02/2013,Yorkshire & Humber,2.7598
+01/03/2013,East Anglia,3.0432
+01/03/2013,East Midlands,2.8903
+01/03/2013,London,3.0406
+01/03/2013,North,2.7043
+01/03/2013,North West,2.5359
+01/03/2013,Northern Ireland,2.8462
+01/03/2013,Scotland,2.7157
+01/03/2013,South East,3.0936
+01/03/2013,South West,3.0780
+01/03/2013,Wales,2.6965
+01/03/2013,West Midlands,2.6485
+01/03/2013,Yorkshire & Humber,2.7398
+01/04/2013,East Anglia,3.0408
+01/04/2013,East Midlands,2.8891
+01/04/2013,London,3.0684
+01/04/2013,North,2.6875
+01/04/2013,North West,2.5705
+01/04/2013,Northern Ireland,2.8354
+01/04/2013,Scotland,2.7316
+01/04/2013,South East,3.1094
+01/04/2013,South West,3.1271
+01/04/2013,Wales,2.7108
+01/04/2013,West Midlands,2.7247
+01/04/2013,Yorkshire & Humber,2.7689
+01/05/2013,East Anglia,3.0443
+01/05/2013,East Midlands,2.8975
+01/05/2013,London,3.0695
+01/05/2013,North,2.6762
+01/05/2013,North West,2.5445
+01/05/2013,Northern Ireland,2.7967
+01/05/2013,Scotland,2.7395
+01/05/2013,South East,3.1104
+01/05/2013,South West,3.1432
+01/05/2013,Wales,2.7304
+01/05/2013,West Midlands,2.6668
+01/05/2013,Yorkshire & Humber,2.7720
+01/06/2013,East Anglia,3.0231
+01/06/2013,East Midlands,2.9006
+01/06/2013,London,3.0682
+01/06/2013,North,2.6245
+01/06/2013,North West,2.5509
+01/06/2013,Northern Ireland,2.7967
+01/06/2013,Scotland,2.7555
+01/06/2013,South East,3.1566
+01/06/2013,South West,3.1186
+01/06/2013,Wales,2.7352
+01/06/2013,West Midlands,2.6874
+01/06/2013,Yorkshire & Humber,2.7750
+01/07/2013,East Anglia,3.0642
+01/07/2013,East Midlands,2.9065
+01/07/2013,London,3.1121
+01/07/2013,North,2.6291
+01/07/2013,North West,2.5674
+01/07/2013,Northern Ireland,2.7967
+01/07/2013,Scotland,2.7521
+01/07/2013,South East,3.1454
+01/07/2013,South West,3.1316
+01/07/2013,Wales,2.7454
+01/07/2013,West Midlands,2.6974
+01/07/2013,Yorkshire & Humber,2.7589
+01/08/2013,East Anglia,3.0245
+01/08/2013,East Midlands,2.9017
+01/08/2013,London,3.1051
+01/08/2013,North,2.6105
+01/08/2013,North West,2.5659
+01/08/2013,Northern Ireland,2.7967
+01/08/2013,Scotland,2.7455
+01/08/2013,South East,3.1224
+01/08/2013,South West,3.1342
+01/08/2013,Wales,2.7543
+01/08/2013,West Midlands,2.6730
+01/08/2013,Yorkshire & Humber,2.7546
+01/09/2013,East Anglia,3.0162
+01/09/2013,East Midlands,2.9165
+01/09/2013,London,3.1049
+01/09/2013,North,2.6057
+01/09/2013,North West,2.5768
+01/09/2013,Northern Ireland,2.7967
+01/09/2013,Scotland,2.7500
+01/09/2013,South East,3.1077
+01/09/2013,South West,3.1320
+01/09/2013,Wales,2.7739
+01/09/2013,West Midlands,2.6637
+01/09/2013,Yorkshire & Humber,2.7713
+01/10/2013,East Anglia,3.0206
+01/10/2013,East Midlands,2.9133
+01/10/2013,London,3.0967
+01/10/2013,North,2.6014
+01/10/2013,North West,2.5809
+01/10/2013,Northern Ireland,2.7967
+01/10/2013,Scotland,2.7732
+01/10/2013,South East,3.1113
+01/10/2013,South West,3.1118
+01/10/2013,Wales,2.7875
+01/10/2013,West Midlands,2.6749
+01/10/2013,Yorkshire & Humber,2.7620
+01/11/2013,East Anglia,3.0029
+01/11/2013,East Midlands,2.9069
+01/11/2013,London,3.1113
+01/11/2013,North,2.6895
+01/11/2013,North West,2.5919
+01/11/2013,Northern Ireland,2.7967
+01/11/2013,Scotland,2.7787
+01/11/2013,South East,3.1257
+01/11/2013,South West,3.1025
+01/11/2013,Wales,2.7946
+01/11/2013,West Midlands,2.6679
+01/11/2013,Yorkshire & Humber,2.7453
+01/12/2013,East Anglia,3.0121
+01/12/2013,East Midlands,2.9147
+01/12/2013,London,3.1203
+01/12/2013,North,2.6919
+01/12/2013,North West,2.5587
+01/12/2013,Northern Ireland,2.8383
+01/12/2013,Scotland,2.7892
+01/12/2013,South East,3.1332
+01/12/2013,South West,3.1133
+01/12/2013,Wales,2.7967
+01/12/2013,West Midlands,2.6730
+01/12/2013,Yorkshire & Humber,2.7416
+01/01/2014,East Anglia,3.0204
+01/01/2014,East Midlands,2.8994
+01/01/2014,London,3.1173
+01/01/2014,North,2.6757
+01/01/2014,North West,2.5300
+01/01/2014,Northern Ireland,2.8133
+01/01/2014,Scotland,2.7917
+01/01/2014,South East,3.1521
+01/01/2014,South West,3.1014
+01/01/2014,Wales,2.7922
+01/01/2014,West Midlands,2.6828
+01/01/2014,Yorkshire & Humber,2.7485
+01/02/2014,East Anglia,2.9851
+01/02/2014,East Midlands,2.8196
+01/02/2014,London,3.1337
+01/02/2014,North,2.6650
+01/02/2014,North West,2.5318
+01/02/2014,Northern Ireland,2.9867
+01/02/2014,Scotland,2.8183
+01/02/2014,South East,3.1933
+01/02/2014,South West,3.1027
+01/02/2014,Wales,2.7889
+01/02/2014,West Midlands,2.6869
+01/02/2014,Yorkshire & Humber,2.7425
+01/03/2014,East Anglia,3.0169
+01/03/2014,East Midlands,2.7887
+01/03/2014,London,3.1471
+01/03/2014,North,2.6681
+01/03/2014,North West,2.4970
+01/03/2014,Northern Ireland,3.0000
+01/03/2014,Scotland,2.7840
+01/03/2014,South East,3.2133
+01/03/2014,South West,3.1243
+01/03/2014,Wales,2.8059
+01/03/2014,West Midlands,2.6500
+01/03/2014,Yorkshire & Humber,2.7188
+01/04/2014,East Anglia,2.9914
+01/04/2014,East Midlands,2.8463
+01/04/2014,London,3.1600
+01/04/2014,North,2.5547
+01/04/2014,North West,2.5138
+01/04/2014,Northern Ireland,3.0278
+01/04/2014,Scotland,2.7990
+01/04/2014,South East,3.2089
+01/04/2014,South West,3.1174
+01/04/2014,Wales,2.8076
+01/04/2014,West Midlands,2.6312
+01/04/2014,Yorkshire & Humber,2.7612
+01/05/2014,East Anglia,3.0116
+01/05/2014,East Midlands,2.8404
+01/05/2014,London,3.1561
+01/05/2014,North,2.5541
+01/05/2014,North West,2.5391
+01/05/2014,Northern Ireland,3.0611
+01/05/2014,Scotland,2.8386
+01/05/2014,South East,3.2136
+01/05/2014,South West,3.1252
+01/05/2014,Wales,2.8112
+01/05/2014,West Midlands,2.6419
+01/05/2014,Yorkshire & Humber,2.7494
+01/06/2014,East Anglia,3.0211
+01/06/2014,East Midlands,2.8661
+01/06/2014,London,3.1608
+01/06/2014,North,2.5482
+01/06/2014,North West,2.5579
+01/06/2014,Northern Ireland,3.0389
+01/06/2014,Scotland,2.8707
+01/06/2014,South East,3.2321
+01/06/2014,South West,3.1197
+01/06/2014,Wales,2.8318
+01/06/2014,West Midlands,2.6497
+01/06/2014,Yorkshire & Humber,2.7538
+01/07/2014,East Anglia,3.0221
+01/07/2014,East Midlands,2.7963
+01/07/2014,London,3.1121
+01/07/2014,North,2.6119
+01/07/2014,North West,2.5550
+01/07/2014,Northern Ireland,3.0444
+01/07/2014,Scotland,2.8910
+01/07/2014,South East,3.2467
+01/07/2014,South West,3.1422
+01/07/2014,Wales,2.8318
+01/07/2014,West Midlands,2.6606
+01/07/2014,Yorkshire & Humber,2.7706
+01/08/2014,East Anglia,3.0372
+01/08/2014,East Midlands,2.8626
+01/08/2014,London,3.1206
+01/08/2014,North,2.6119
+01/08/2014,North West,2.5382
+01/08/2014,Northern Ireland,3.0444
+01/08/2014,Scotland,2.8922
+01/08/2014,South East,3.2334
+01/08/2014,South West,3.1456
+01/08/2014,Wales,2.8444
+01/08/2014,West Midlands,2.6591
+01/08/2014,Yorkshire & Humber,2.7783
+01/09/2014,East Anglia,3.0359
+01/09/2014,East Midlands,2.8504
+01/09/2014,London,3.1700
+01/09/2014,North,2.5465
+01/09/2014,North West,2.5493
+01/09/2014,Northern Ireland,3.0444
+01/09/2014,Scotland,2.8922
+01/09/2014,South East,3.2320
+01/09/2014,South West,3.1469
+01/09/2014,Wales,2.8347
+01/09/2014,West Midlands,2.6661
+01/09/2014,Yorkshire & Humber,2.7634
+01/10/2014,East Anglia,3.0359
+01/10/2014,East Midlands,2.8656
+01/10/2014,London,3.1900
+01/10/2014,North,2.5275
+01/10/2014,North West,2.5828
+01/10/2014,Northern Ireland,3.0100
+01/10/2014,Scotland,2.8909
+01/10/2014,South East,3.2581
+01/10/2014,South West,3.1581
+01/10/2014,Wales,2.8500
+01/10/2014,West Midlands,2.6997
+01/10/2014,Yorkshire & Humber,2.7727
+01/11/2014,East Anglia,3.0473
+01/11/2014,East Midlands,2.8671
+01/11/2014,London,3.1727
+01/11/2014,North,2.5324
+01/11/2014,North West,2.5689
+01/11/2014,Northern Ireland,3.0211
+01/11/2014,Scotland,2.8758
+01/11/2014,South East,3.2786
+01/11/2014,South West,3.1622
+01/11/2014,Wales,2.8506
+01/11/2014,West Midlands,2.7006
+01/11/2014,Yorkshire & Humber,2.7886
+01/12/2014,East Anglia,3.0446
+01/12/2014,East Midlands,2.8925
+01/12/2014,London,3.1721
+01/12/2014,North,2.5583
+01/12/2014,North West,2.5557
+01/12/2014,Northern Ireland,3.0322
+01/12/2014,Scotland,2.9191
+01/12/2014,South East,3.2696
+01/12/2014,South West,3.1686
+01/12/2014,Wales,2.7388
+01/12/2014,West Midlands,2.6953
+01/12/2014,Yorkshire & Humber,2.8312
+01/01/2015,East Anglia,3.0518
+01/01/2015,East Midlands,2.8515
+01/01/2015,London,3.1661
+01/01/2015,North,2.6000
+01/01/2015,North West,2.5502
+01/01/2015,Northern Ireland,2.9613
+01/01/2015,Scotland,2.9273
+01/01/2015,South East,3.2738
+01/01/2015,South West,3.1536
+01/01/2015,Wales,2.7069
+01/01/2015,West Midlands,2.6788
+01/01/2015,Yorkshire & Humber,2.8224
+01/02/2015,East Anglia,3.0831
+01/02/2015,East Midlands,2.8870
+01/02/2015,London,3.2348
+01/02/2015,North,2.5775
+01/02/2015,North West,2.5612
+01/02/2015,Northern Ireland,2.9425
+01/02/2015,Scotland,2.9094
+01/02/2015,South East,3.2858
+01/02/2015,South West,3.1552
+01/02/2015,Wales,2.8371
+01/02/2015,West Midlands,2.6800
+01/02/2015,Yorkshire & Humber,2.7929
+01/03/2015,East Anglia,3.1094
+01/03/2015,East Midlands,2.8630
+01/03/2015,London,3.2338
+01/03/2015,North,2.5906
+01/03/2015,North West,2.5327
+01/03/2015,Northern Ireland,2.9488
+01/03/2015,Scotland,2.9050
+01/03/2015,South East,3.2896
+01/03/2015,South West,3.1621
+01/03/2015,Wales,2.8429
+01/03/2015,West Midlands,2.7067
+01/03/2015,Yorkshire & Humber,2.8116
+01/04/2015,East Anglia,3.1030
+01/04/2015,East Midlands,2.8429
+01/04/2015,London,3.2279
+01/04/2015,North,2.5483
+01/04/2015,North West,2.5138
+01/04/2015,Northern Ireland,2.9675
+01/04/2015,Scotland,2.8352
+01/04/2015,South East,3.2587
+01/04/2015,South West,3.1809
+01/04/2015,Wales,2.8194
+01/04/2015,West Midlands,2.7103
+01/04/2015,Yorkshire & Humber,2.8065
+01/05/2015,East Anglia,3.0851
+01/05/2015,East Midlands,2.8448
+01/05/2015,London,3.2560
+01/05/2015,North,2.4953
+01/05/2015,North West,2.5207
+01/05/2015,Northern Ireland,3.0489
+01/05/2015,Scotland,2.8432
+01/05/2015,South East,3.2953
+01/05/2015,South West,3.1803
+01/05/2015,Wales,2.8672
+01/05/2015,West Midlands,2.7261
+01/05/2015,Yorkshire & Humber,2.8297
+01/06/2015,East Anglia,3.0922
+01/06/2015,East Midlands,2.8607
+01/06/2015,London,3.2783
+01/06/2015,North,2.5478
+01/06/2015,North West,2.5258
+01/06/2015,Northern Ireland,3.0711
+01/06/2015,Scotland,2.8500
+01/06/2015,South East,3.3041
+01/06/2015,South West,3.2053
+01/06/2015,Wales,2.8859
+01/06/2015,West Midlands,2.7416
+01/06/2015,Yorkshire & Humber,2.8318
+01/07/2015,East Anglia,3.0922
+01/07/2015,East Midlands,2.8468
+01/07/2015,London,3.2747
+01/07/2015,North,2.5506
+01/07/2015,North West,2.5316
+01/07/2015,Northern Ireland,3.0550
+01/07/2015,Scotland,2.8628
+01/07/2015,South East,3.3025
+01/07/2015,South West,3.2021
+01/07/2015,Wales,2.8844
+01/07/2015,West Midlands,2.7732
+01/07/2015,Yorkshire & Humber,2.8354
+01/08/2015,East Anglia,3.0773
+01/08/2015,East Midlands,2.8421
+01/08/2015,London,3.2598
+01/08/2015,North,2.5533
+01/08/2015,North West,2.5354
+01/08/2015,Northern Ireland,3.0822
+01/08/2015,Scotland,2.8625
+01/08/2015,South East,3.3228
+01/08/2015,South West,3.1932
+01/08/2015,Wales,2.8541
+01/08/2015,West Midlands,2.7291
+01/08/2015,Yorkshire & Humber,2.8539
+01/09/2015,East Anglia,3.0892
+01/09/2015,East Midlands,2.8559
+01/09/2015,London,3.2846
+01/09/2015,North,2.5561
+01/09/2015,North West,2.5466
+01/09/2015,Northern Ireland,3.0822
+01/09/2015,Scotland,2.8594
+01/09/2015,South East,3.2998
+01/09/2015,South West,3.2150
+01/09/2015,Wales,2.8541
+01/09/2015,West Midlands,2.7115
+01/09/2015,Yorkshire & Humber,2.8754
+01/10/2015,East Anglia,3.0903
+01/10/2015,East Midlands,2.8146
+01/10/2015,London,3.2742
+01/10/2015,North,2.5561
+01/10/2015,North West,2.5429
+01/10/2015,Northern Ireland,3.1700
+01/10/2015,Scotland,2.8258
+01/10/2015,South East,3.3271
+01/10/2015,South West,3.2239
+01/10/2015,Wales,2.8206
+01/10/2015,West Midlands,2.7548
+01/10/2015,Yorkshire & Humber,2.8368
+01/11/2015,East Anglia,3.1072
+01/11/2015,East Midlands,2.8307
+01/11/2015,London,3.3148
+01/11/2015,North,2.5561
+01/11/2015,North West,2.5587
+01/11/2015,Northern Ireland,3.1700
+01/11/2015,Scotland,2.8682
+01/11/2015,South East,3.2970
+01/11/2015,South West,3.2239
+01/11/2015,Wales,2.8206
+01/11/2015,West Midlands,2.7500
+01/11/2015,Yorkshire & Humber,2.8048
+01/12/2015,East Anglia,3.0865
+01/12/2015,East Midlands,2.8700
+01/12/2015,London,3.3133
+01/12/2015,North,2.5661
+01/12/2015,North West,2.5887
+01/12/2015,Northern Ireland,3.1878
+01/12/2015,Scotland,2.8709
+01/12/2015,South East,3.3033
+01/12/2015,South West,3.2583
+01/12/2015,Wales,2.8328
+01/12/2015,West Midlands,2.7697
+01/12/2015,Yorkshire & Humber,2.8320
+01/01/2016,East Anglia,3.1008
+01/01/2016,East Midlands,2.8439
+01/01/2016,London,3.2956
+01/01/2016,North,2.5193
+01/01/2016,North West,2.5524
+01/01/2016,Northern Ireland,3.1878
+01/01/2016,Scotland,2.8484
+01/01/2016,South East,3.3523
+01/01/2016,South West,3.2523
+01/01/2016,Wales,2.8406
+01/01/2016,West Midlands,2.7384
+01/01/2016,Yorkshire & Humber,2.8377
+01/02/2016,East Anglia,3.0731
+01/02/2016,East Midlands,2.8919
+01/02/2016,London,3.3574
+01/02/2016,North,2.4093
+01/02/2016,North West,2.6205
+01/02/2016,Northern Ireland,3.2390
+01/02/2016,Scotland,2.9220
+01/02/2016,South East,3.2943
+01/02/2016,South West,3.2368
+01/02/2016,Wales,3.1193
+01/02/2016,West Midlands,2.6906
+01/02/2016,Yorkshire & Humber,2.8067
+01/03/2016,East Anglia,3.0709
+01/03/2016,East Midlands,2.8896
+01/03/2016,London,3.3331
+01/03/2016,North,2.5553
+01/03/2016,North West,2.6532
+01/03/2016,Northern Ireland,3.2664
+01/03/2016,Scotland,2.9181
+01/03/2016,South East,3.2782
+01/03/2016,South West,3.2713
+01/03/2016,Wales,3.1724
+01/03/2016,West Midlands,2.6913
+01/03/2016,Yorkshire & Humber,2.7834
+01/04/2016,East Anglia,3.0869
+01/04/2016,East Midlands,2.9329
+01/04/2016,London,3.3294
+01/04/2016,North,2.4793
+01/04/2016,North West,2.6502
+01/04/2016,Northern Ireland,3.2755
+01/04/2016,Scotland,2.9216
+01/04/2016,South East,3.3148
+01/04/2016,South West,3.3161
+01/04/2016,Wales,3.1800
+01/04/2016,West Midlands,2.7231
+01/04/2016,Yorkshire & Humber,2.8127
+01/05/2016,East Anglia,3.1376
+01/05/2016,East Midlands,2.9329
+01/05/2016,London,3.4090
+01/05/2016,North,2.5141
+01/05/2016,North West,2.6258
+01/05/2016,Northern Ireland,3.2755
+01/05/2016,Scotland,2.9241
+01/05/2016,South East,3.2824
+01/05/2016,South West,3.3097
+01/05/2016,Wales,3.0335
+01/05/2016,West Midlands,2.7118
+01/05/2016,Yorkshire & Humber,2.8218
+01/06/2016,East Anglia,3.1354
+01/06/2016,East Midlands,2.9230
+01/06/2016,London,3.3788
+01/06/2016,North,2.5027
+01/06/2016,North West,2.6710
+01/06/2016,Northern Ireland,3.2755
+01/06/2016,Scotland,2.9229
+01/06/2016,South East,3.2796
+01/06/2016,South West,3.3161
+01/06/2016,Wales,3.0519
+01/06/2016,West Midlands,2.7173
+01/06/2016,Yorkshire & Humber,2.8168
+01/07/2016,East Anglia,3.1354
+01/07/2016,East Midlands,2.9293
+01/07/2016,London,3.3724
+01/07/2016,North,2.6588
+01/07/2016,North West,2.6720
+01/07/2016,Northern Ireland,3.2230
+01/07/2016,Scotland,2.9229
+01/07/2016,South East,3.3263
+01/07/2016,South West,3.3141
+01/07/2016,Wales,3.0753
+01/07/2016,West Midlands,2.7034
+01/07/2016,Yorkshire & Humber,2.8463
+01/08/2016,East Anglia,3.1511
+01/08/2016,East Midlands,2.8931
+01/08/2016,London,3.3661
+01/08/2016,North,2.5427
+01/08/2016,North West,2.6680
+01/08/2016,Northern Ireland,3.2430
+01/08/2016,Scotland,3.0155
+01/08/2016,South East,3.3079
+01/08/2016,South West,3.2921
+01/08/2016,Wales,3.0711
+01/08/2016,West Midlands,2.6913
+01/08/2016,Yorkshire & Humber,2.8130
+01/09/2016,East Anglia,3.1719
+01/09/2016,East Midlands,2.9111
+01/09/2016,London,3.3647
+01/09/2016,North,2.5644
+01/09/2016,North West,2.6442
+01/09/2016,Northern Ireland,3.2936
+01/09/2016,Scotland,3.0106
+01/09/2016,South East,3.3329
+01/09/2016,South West,3.3226
+01/09/2016,Wales,3.0711
+01/09/2016,West Midlands,2.6677
+01/09/2016,Yorkshire & Humber,2.8568
+01/10/2016,East Anglia,3.1711
+01/10/2016,East Midlands,2.9111
+01/10/2016,London,3.3908
+01/10/2016,North,2.5739
+01/10/2016,North West,2.6672
+01/10/2016,Northern Ireland,3.3482
+01/10/2016,Scotland,3.0144
+01/10/2016,South East,3.3040
+01/10/2016,South West,3.3159
+01/10/2016,Wales,3.1018
+01/10/2016,West Midlands,2.7303
+01/10/2016,Yorkshire & Humber,2.8603
+01/11/2016,East Anglia,3.1583
+01/11/2016,East Midlands,2.9522
+01/11/2016,London,3.4047
+01/11/2016,North,2.5818
+01/11/2016,North West,2.6881
+01/11/2016,Northern Ireland,3.3482
+01/11/2016,Scotland,3.0035
+01/11/2016,South East,3.2915
+01/11/2016,South West,3.3232
+01/11/2016,Wales,3.0761
+01/11/2016,West Midlands,2.7013
+01/11/2016,Yorkshire & Humber,2.8300
+01/12/2016,East Anglia,3.1497
+01/12/2016,East Midlands,2.8930
+01/12/2016,London,3.3714
+01/12/2016,North,2.5744
+01/12/2016,North West,2.6407
+01/12/2016,Northern Ireland,3.3573
+01/12/2016,Scotland,3.0019
+01/12/2016,South East,3.2767
+01/12/2016,South West,3.3211
+01/12/2016,Wales,3.0761
+01/12/2016,West Midlands,2.7028
+01/12/2016,Yorkshire & Humber,2.9097
+01/01/2017,East Anglia,3.1203
+01/01/2017,East Midlands,2.9196
+01/01/2017,London,3.3936
+01/01/2017,North,2.5744
+01/01/2017,North West,2.6837
+01/01/2017,Northern Ireland,3.3192
+01/01/2017,Scotland,2.9729
+01/01/2017,South East,3.2909
+01/01/2017,South West,3.3306
+01/01/2017,Wales,2.9918
+01/01/2017,West Midlands,2.7137
+01/01/2017,Yorkshire & Humber,2.9344
+01/02/2017,East Anglia,3.1394
+01/02/2017,East Midlands,2.9800
+01/02/2017,London,3.4616
+01/02/2017,North,2.4582
+01/02/2017,North West,2.6241
+01/02/2017,Northern Ireland,3.3192
+01/02/2017,Scotland,2.9521
+01/02/2017,South East,3.3798
+01/02/2017,South West,3.3869
+01/02/2017,Wales,2.9831
+01/02/2017,West Midlands,2.6859
+01/02/2017,Yorkshire & Humber,2.8510
+01/03/2017,East Anglia,3.1633
+01/03/2017,East Midlands,3.0024
+01/03/2017,London,3.4811
+01/03/2017,North,2.3525
+01/03/2017,North West,2.7068
+01/03/2017,Northern Ireland,3.3442
+01/03/2017,Scotland,2.9603
+01/03/2017,South East,3.3762
+01/03/2017,South West,3.3856
+01/03/2017,Wales,3.0987
+01/03/2017,West Midlands,2.7437
+01/03/2017,Yorkshire & Humber,2.8154
+01/04/2017,East Anglia,3.1969
+01/04/2017,East Midlands,3.0164
+01/04/2017,London,3.4741
+01/04/2017,North,2.4327
+01/04/2017,North West,2.6640
+01/04/2017,Northern Ireland,3.3442
+01/04/2017,Scotland,2.9840
+01/04/2017,South East,3.4261
+01/04/2017,South West,3.4059
+01/04/2017,Wales,3.0550
+01/04/2017,West Midlands,2.7028
+01/04/2017,Yorkshire & Humber,2.8643
+01/05/2017,East Anglia,3.1769
+01/05/2017,East Midlands,3.0446
+01/05/2017,London,3.4731
+01/05/2017,North,2.4827
+01/05/2017,North West,2.6854
+01/05/2017,Northern Ireland,3.3575
+01/05/2017,Scotland,3.0493
+01/05/2017,South East,3.4446
+01/05/2017,South West,3.4365
+01/05/2017,Wales,3.0581
+01/05/2017,West Midlands,2.7659
+01/05/2017,Yorkshire & Humber,2.8339
+01/06/2017,East Anglia,3.2218
+01/06/2017,East Midlands,3.0370
+01/06/2017,London,3.5133
+01/06/2017,North,2.5300
+01/06/2017,North West,2.6453
+01/06/2017,Northern Ireland,3.4275
+01/06/2017,Scotland,3.0868
+01/06/2017,South East,3.4481
+01/06/2017,South West,3.4421
+01/06/2017,Wales,3.0581
+01/06/2017,West Midlands,2.7097
+01/06/2017,Yorkshire & Humber,2.8323
+01/07/2017,East Anglia,3.1523
+01/07/2017,East Midlands,3.0629
+01/07/2017,London,3.4971
+01/07/2017,North,2.5156
+01/07/2017,North West,2.6763
+01/07/2017,Northern Ireland,3.4442
+01/07/2017,Scotland,3.1257
+01/07/2017,South East,3.4481
+01/07/2017,South West,3.4450
+01/07/2017,Wales,3.0581
+01/07/2017,West Midlands,2.6806
+01/07/2017,Yorkshire & Humber,2.8065
+01/08/2017,East Anglia,3.2530
+01/08/2017,East Midlands,3.0664
+01/08/2017,London,3.5143
+01/08/2017,North,2.4550
+01/08/2017,North West,2.6939
+01/08/2017,Northern Ireland,3.4485
+01/08/2017,Scotland,3.0697
+01/08/2017,South East,3.4350
+01/08/2017,South West,3.4568
+01/08/2017,Wales,3.0420
+01/08/2017,West Midlands,2.7234
+01/08/2017,Yorkshire & Humber,2.8172
+01/09/2017,East Anglia,3.2414
+01/09/2017,East Midlands,3.1100
+01/09/2017,London,3.5187
+01/09/2017,North,2.4550
+01/09/2017,North West,2.6498
+01/09/2017,Northern Ireland,3.5185
+01/09/2017,Scotland,2.9950
+01/09/2017,South East,3.4414
+01/09/2017,South West,3.4509
+01/09/2017,Wales,2.9512
+01/09/2017,West Midlands,2.6900
+01/09/2017,Yorkshire & Humber,2.8234
+01/10/2017,East Anglia,3.2650
+01/10/2017,East Midlands,3.0603
+01/10/2017,London,3.5144
+01/10/2017,North,2.4606
+01/10/2017,North West,2.6827
+01/10/2017,Northern Ireland,3.5185
+01/10/2017,Scotland,2.9652
+01/10/2017,South East,3.4582
+01/10/2017,South West,3.4432
+01/10/2017,Wales,2.9325
+01/10/2017,West Midlands,2.7077
+01/10/2017,Yorkshire & Humber,2.8391
+01/11/2017,East Anglia,3.2687
+01/11/2017,East Midlands,3.0500
+01/11/2017,London,3.4814
+01/11/2017,North,2.4612
+01/11/2017,North West,2.6816
+01/11/2017,Northern Ireland,3.5700
+01/11/2017,Scotland,2.9593
+01/11/2017,South East,3.4668
+01/11/2017,South West,3.4432
+01/11/2017,Wales,2.9131
+01/11/2017,West Midlands,2.7079
+01/11/2017,Yorkshire & Humber,2.8266
+01/12/2017,East Anglia,3.2154
+01/12/2017,East Midlands,3.0500
+01/12/2017,London,3.5258
+01/12/2017,North,2.4633
+01/12/2017,North West,2.6690
+01/12/2017,Northern Ireland,3.5646
+01/12/2017,Scotland,2.9908
+01/12/2017,South East,3.4921
+01/12/2017,South West,3.4359
+01/12/2017,Wales,2.9394
+01/12/2017,West Midlands,2.6652
+01/12/2017,Yorkshire & Humber,2.8234
+01/01/2018,East Anglia,3.2400
+01/01/2018,East Midlands,3.0462
+01/01/2018,London,3.5352
+01/01/2018,North,2.4689
+01/01/2018,North West,2.6400
+01/01/2018,Northern Ireland,3.5440
+01/01/2018,Scotland,2.9963
+01/01/2018,South East,3.5116
+01/01/2018,South West,3.4052
+01/01/2018,Wales,2.9424
+01/01/2018,West Midlands,2.7255
+01/01/2018,Yorkshire & Humber,2.8515
+01/02/2018,East Anglia,3.2554
+01/02/2018,East Midlands,3.0160
+01/02/2018,London,3.5359
+01/02/2018,North,2.5994
+01/02/2018,North West,2.6228
+01/02/2018,Northern Ireland,3.5440
+01/02/2018,Scotland,3.0513
+01/02/2018,South East,3.4671
+01/02/2018,South West,3.3494
+01/02/2018,Wales,2.9041
+01/02/2018,West Midlands,2.7613
+01/02/2018,Yorkshire & Humber,2.7380
+01/03/2018,East Anglia,3.2537
+01/03/2018,East Midlands,3.0456
+01/03/2018,London,3.5525
+01/03/2018,North,2.6294
+01/03/2018,North West,2.6534
+01/03/2018,Northern Ireland,3.5309
+01/03/2018,Scotland,2.8976
+01/03/2018,South East,3.4742
+01/03/2018,South West,3.4344
+01/03/2018,Wales,2.9218
+01/03/2018,West Midlands,2.7610
+01/03/2018,Yorkshire & Humber,2.7363
+01/04/2018,East Anglia,3.3166
+01/04/2018,East Midlands,3.0546
+01/04/2018,London,3.5487
+01/04/2018,North,2.6081
+01/04/2018,North West,2.6246
+01/04/2018,Northern Ireland,3.5900
+01/04/2018,Scotland,3.1000
+01/04/2018,South East,3.4796
+01/04/2018,South West,3.4932
+01/04/2018,Wales,2.9453
+01/04/2018,West Midlands,2.7557
+01/04/2018,Yorkshire & Humber,2.8118
+01/05/2018,East Anglia,3.3184
+01/05/2018,East Midlands,3.0493
+01/05/2018,London,3.5659
+01/05/2018,North,2.5487
+01/05/2018,North West,2.6640
+01/05/2018,Northern Ireland,3.6158
+01/05/2018,Scotland,3.1437
+01/05/2018,South East,3.4815
+01/05/2018,South West,3.4400
+01/05/2018,Wales,2.9512
+01/05/2018,West Midlands,2.7570
+01/05/2018,Yorkshire & Humber,2.8467
+01/06/2018,East Anglia,3.3211
+01/06/2018,East Midlands,3.0361
+01/06/2018,London,3.5798
+01/06/2018,North,2.6076
+01/06/2018,North West,2.6881
+01/06/2018,Northern Ireland,3.6158
+01/06/2018,Scotland,3.0704
+01/06/2018,South East,3.4420
+01/06/2018,South West,3.4774
+01/06/2018,Wales,2.9847
+01/06/2018,West Midlands,2.7325
+01/06/2018,Yorkshire & Humber,2.8216
+01/07/2018,East Anglia,3.3292
+01/07/2018,East Midlands,3.0152
+01/07/2018,London,3.5985
+01/07/2018,North,2.6831
+01/07/2018,North West,2.7373
+01/07/2018,Northern Ireland,3.5718
+01/07/2018,Scotland,3.0735
+01/07/2018,South East,3.4507
+01/07/2018,South West,3.4788
+01/07/2018,Wales,2.9718
+01/07/2018,West Midlands,2.7417
+01/07/2018,Yorkshire & Humber,2.8126
+01/08/2018,East Anglia,3.3103
+01/08/2018,East Midlands,2.9781
+01/08/2018,London,3.6147
+01/08/2018,North,2.6267
+01/08/2018,North West,2.7350
+01/08/2018,Northern Ireland,3.5809
+01/08/2018,Scotland,3.0367
+01/08/2018,South East,3.4393
+01/08/2018,South West,3.4450
+01/08/2018,Wales,2.9541
+01/08/2018,West Midlands,2.7183
+01/08/2018,Yorkshire & Humber,2.9012
+01/09/2018,East Anglia,3.3265
+01/09/2018,East Midlands,2.9715
+01/09/2018,London,3.6271
+01/09/2018,North,2.6300
+01/09/2018,North West,2.7523
+01/09/2018,Northern Ireland,3.5809
+01/09/2018,Scotland,3.0429
+01/09/2018,South East,3.4189
+01/09/2018,South West,3.4384
+01/09/2018,Wales,2.9571
+01/09/2018,West Midlands,2.7100
+01/09/2018,Yorkshire & Humber,2.8841
+01/10/2018,East Anglia,3.3311
+01/10/2018,East Midlands,3.0108
+01/10/2018,London,3.6112
+01/10/2018,North,2.5812
+01/10/2018,North West,2.7077
+01/10/2018,Northern Ireland,3.5755
+01/10/2018,Scotland,2.9675
+01/10/2018,South East,3.3916
+01/10/2018,South West,3.4615
+01/10/2018,Wales,2.9231
+01/10/2018,West Midlands,2.7259
+01/10/2018,Yorkshire & Humber,2.8561
+01/11/2018,East Anglia,3.2882
+01/11/2018,East Midlands,3.0200
+01/11/2018,London,3.6151
+01/11/2018,North,2.6429
+01/11/2018,North West,2.6781
+01/11/2018,Northern Ireland,3.5711
+01/11/2018,Scotland,2.9908
+01/11/2018,South East,3.4028
+01/11/2018,South West,3.5169
+01/11/2018,Wales,2.9188
+01/11/2018,West Midlands,2.8648
+01/11/2018,Yorkshire & Humber,2.9032
+01/12/2018,East Anglia,3.2950
+01/12/2018,East Midlands,3.0262
+01/12/2018,London,3.6067
+01/12/2018,North,2.6487
+01/12/2018,North West,2.6457
+01/12/2018,Northern Ireland,3.4630
+01/12/2018,Scotland,2.9148
+01/12/2018,South East,3.4205
+01/12/2018,South West,3.4736
+01/12/2018,Wales,2.9113
+01/12/2018,West Midlands,2.7839
+01/12/2018,Yorkshire & Humber,2.8637
+01/01/2019,East Anglia,3.2825
+01/01/2019,East Midlands,3.0228
+01/01/2019,London,3.5730
+01/01/2019,North,2.5587
+01/01/2019,North West,2.6188
+01/01/2019,Northern Ireland,3.5755
+01/01/2019,Scotland,2.9273
+01/01/2019,South East,3.4205
+01/01/2019,South West,3.4884
+01/01/2019,Wales,2.9075
+01/01/2019,West Midlands,2.8438
+01/01/2019,Yorkshire & Humber,2.8997
+01/02/2019,East Anglia,3.3688
+01/02/2019,East Midlands,3.1152
+01/02/2019,London,3.7070
+01/02/2019,North,2.6057
+01/02/2019,North West,2.6311
+01/02/2019,Northern Ireland,3.5711
+01/02/2019,Scotland,2.9908
+01/02/2019,South East,3.3436
+01/02/2019,South West,3.4400
+01/02/2019,Wales,2.8819
+01/02/2019,West Midlands,2.9428
+01/02/2019,Yorkshire & Humber,2.8397
+01/03/2019,East Anglia,3.3315
+01/03/2019,East Midlands,3.1104
+01/03/2019,London,3.6957
+01/03/2019,North,2.6737
+01/03/2019,North West,2.6307
+01/03/2019,Northern Ireland,3.7850
+01/03/2019,Scotland,3.0078
+01/03/2019,South East,3.3681
+01/03/2019,South West,3.4682
+01/03/2019,Wales,3.0182
+01/03/2019,West Midlands,2.9587
+01/03/2019,Yorkshire & Humber,2.8626
+01/04/2019,East Anglia,3.2944
+01/04/2019,East Midlands,3.1157
+01/04/2019,London,3.7587
+01/04/2019,North,2.6925
+01/04/2019,North West,2.6561
+01/04/2019,Northern Ireland,3.7944
+01/04/2019,Scotland,2.9861
+01/04/2019,South East,3.3782
+01/04/2019,South West,3.4767
+01/04/2019,Wales,3.0647
+01/04/2019,West Midlands,2.9855
+01/04/2019,Yorkshire & Humber,2.8482
+01/05/2019,East Anglia,3.3344
+01/05/2019,East Midlands,3.0959
+01/05/2019,London,3.7800
+01/05/2019,North,2.6988
+01/05/2019,North West,2.6664
+01/05/2019,Northern Ireland,3.8500
+01/05/2019,Scotland,2.9861
+01/05/2019,South East,3.3946
+01/05/2019,South West,3.4767
+01/05/2019,Wales,2.8981
+01/05/2019,West Midlands,3.0229
+01/05/2019,Yorkshire & Humber,2.8091
+01/06/2019,East Anglia,3.3344
+01/06/2019,East Midlands,3.0793
+01/06/2019,London,3.7939
+01/06/2019,North,2.7081
+01/06/2019,North West,2.6771
+01/06/2019,Northern Ireland,3.8833
+01/06/2019,Scotland,2.9718
+01/06/2019,South East,3.3841
+01/06/2019,South West,3.4979
+01/06/2019,Wales,3.0365
+01/06/2019,West Midlands,2.9977
+01/06/2019,Yorkshire & Humber,2.8194
+01/07/2019,East Anglia,3.3400
+01/07/2019,East Midlands,3.1157
+01/07/2019,London,3.7691
+01/07/2019,North,2.6989
+01/07/2019,North West,2.6704
+01/07/2019,Northern Ireland,3.8944
+01/07/2019,Scotland,3.0426
+01/07/2019,South East,3.3983
+01/07/2019,South West,3.5039
+01/07/2019,Wales,3.0394
+01/07/2019,West Midlands,2.9897
+01/07/2019,Yorkshire & Humber,2.8468
+01/08/2019,East Anglia,3.2635
+01/08/2019,East Midlands,3.0904
+01/08/2019,London,3.8130
+01/08/2019,North,2.7547
+01/08/2019,North West,2.6771
+01/08/2019,Northern Ireland,3.8944
+01/08/2019,Scotland,3.0783
+01/08/2019,South East,3.4200
+01/08/2019,South West,3.5123
+01/08/2019,Wales,3.0575
+01/08/2019,West Midlands,2.9655
+01/08/2019,Yorkshire & Humber,2.8512
+01/09/2019,East Anglia,3.3053
+01/09/2019,East Midlands,3.0636
+01/09/2019,London,3.7891
+01/09/2019,North,2.7694
+01/09/2019,North West,2.6519
+01/09/2019,Northern Ireland,3.8944
+01/09/2019,Scotland,3.0752
+01/09/2019,South East,3.4004
+01/09/2019,South West,3.5068
+01/09/2019,Wales,3.0731
+01/09/2019,West Midlands,3.0042
+01/09/2019,Yorkshire & Humber,2.8968
+01/10/2019,East Anglia,3.3033
+01/10/2019,East Midlands,3.0937
+01/10/2019,London,3.8135
+01/10/2019,North,2.7753
+01/10/2019,North West,2.6745
+01/10/2019,Northern Ireland,3.9562
+01/10/2019,Scotland,3.0991
+01/10/2019,South East,3.3442
+01/10/2019,South West,3.4509
+01/10/2019,Wales,3.0700
+01/10/2019,West Midlands,3.0259
+01/10/2019,Yorkshire & Humber,2.8689
+01/11/2019,East Anglia,3.4085
+01/11/2019,East Midlands,3.0381
+01/11/2019,London,3.7937
+01/11/2019,North,2.6843
+01/11/2019,North West,2.7263
+01/11/2019,Northern Ireland,3.8611
+01/11/2019,Scotland,3.1018
+01/11/2019,South East,3.3583
+01/11/2019,South West,3.4666
+01/11/2019,Wales,3.0513
+01/11/2019,West Midlands,3.0127
+01/11/2019,Yorkshire & Humber,2.9113
+01/12/2019,East Anglia,3.3839
+01/12/2019,East Midlands,3.0689
+01/12/2019,London,3.8191
+01/12/2019,North,2.7769
+01/12/2019,North West,2.6733
+01/12/2019,Northern Ireland,3.8944
+01/12/2019,Scotland,3.0877
+01/12/2019,South East,3.4110
+01/12/2019,South West,3.3781
+01/12/2019,Wales,3.0700
+01/12/2019,West Midlands,3.0210
+01/12/2019,Yorkshire & Humber,2.9145
+01/01/2020,East Anglia,3.3944
+01/01/2020,East Midlands,3.0600
+01/01/2020,London,3.8671
+01/01/2020,North,2.7769
+01/01/2020,North West,2.7144
+01/01/2020,Northern Ireland,3.8944
+01/01/2020,Scotland,3.1133
+01/01/2020,South East,3.4381
+01/01/2020,South West,3.5112
+01/01/2020,Wales,3.0950
+01/01/2020,West Midlands,2.9668
+01/01/2020,Yorkshire & Humber,2.8448
+01/02/2020,East Anglia,3.3709
+01/02/2020,East Midlands,3.1336
+01/02/2020,London,4.0486
+01/02/2020,North,2.8020
+01/02/2020,North West,2.7040
+01/02/2020,Northern Ireland,3.9437
+01/02/2020,Scotland,2.9847
+01/02/2020,South East,3.4415
+01/02/2020,South West,3.4036
+01/02/2020,Wales,2.9273
+01/02/2020,West Midlands,2.8671
+01/02/2020,Yorkshire & Humber,2.8510
+01/03/2020,East Anglia,3.3407
+01/03/2020,East Midlands,3.1037
+01/03/2020,London,4.1977
+01/03/2020,North,2.7987
+01/03/2020,North West,2.7745
+01/03/2020,Northern Ireland,3.8688
+01/03/2020,Scotland,2.8847
+01/03/2020,South East,3.3394
+01/03/2020,South West,3.4474
+01/03/2020,Wales,2.8707
+01/03/2020,West Midlands,2.8916
+01/03/2020,Yorkshire & Humber,2.8362
+01/07/2020,East Anglia,3.0818
+01/07/2020,East Midlands,3.1958
+01/07/2020,London,3.6254
+01/07/2020,North,2.9150
+01/07/2020,North West,2.4894
+01/07/2020,Northern Ireland,4.3250
+01/07/2020,Scotland,2.3786
+01/07/2020,South East,2.9776
+01/07/2020,South West,3.2464
+01/07/2020,Wales,2.5950
+01/07/2020,West Midlands,2.4100
+01/07/2020,Yorkshire & Humber,2.8624
+01/08/2020,East Anglia,3.2546
+01/08/2020,East Midlands,3.0692
+01/08/2020,London,4.0997
+01/08/2020,North,2.9330
+01/08/2020,North West,2.5778
+01/08/2020,Northern Ireland,4.1800
+01/08/2020,Scotland,2.9092
+01/08/2020,South East,3.1749
+01/08/2020,South West,3.4688
+01/08/2020,Wales,2.7020
+01/08/2020,West Midlands,2.9463
+01/08/2020,Yorkshire & Humber,2.6979
+01/09/2020,East Anglia,3.2886
+01/09/2020,East Midlands,3.0546
+01/09/2020,London,4.0182
+01/09/2020,North,3.0450
+01/09/2020,North West,2.6776
+01/09/2020,Northern Ireland,4.2167
+01/09/2020,Scotland,3.1381
+01/09/2020,South East,3.3186
+01/09/2020,South West,3.3993
+01/09/2020,Wales,2.7854
+01/09/2020,West Midlands,2.8538
+01/09/2020,Yorkshire & Humber,2.7830
+01/10/2020,East Anglia,3.3110
+01/10/2020,East Midlands,3.0629
+01/10/2020,London,4.0812
+01/10/2020,North,2.9330
+01/10/2020,North West,2.5724
+01/10/2020,Northern Ireland,4.2500
+01/10/2020,Scotland,2.8300
+01/10/2020,South East,3.3463
+01/10/2020,South West,3.3715
+01/10/2020,Wales,2.5829
+01/10/2020,West Midlands,2.8945
+01/10/2020,Yorkshire & Humber,2.8176
+01/12/2020,East Anglia,3.2633
+01/12/2020,East Midlands,3.2000
+01/12/2020,London,3.6495
+01/12/2020,North West,2.3089
+01/12/2020,Northern Ireland,4.2800
+01/12/2020,Scotland,2.5450
+01/12/2020,South East,3.1200
+01/12/2020,South West,2.9160
+01/12/2020,West Midlands,3.3875
+01/12/2020,Yorkshire & Humber,3.3967
+01/05/2021,East Anglia,3.1060
+01/05/2021,East Midlands,3.0717
+01/05/2021,London,3.9686
+01/05/2021,North,1.9900
+01/05/2021,North West,2.3425
+01/05/2021,South East,3.6300
+01/05/2021,South West,3.4875
+01/05/2021,West Midlands,2.7482
+01/05/2021,Yorkshire & Humber,2.3020
+01/06/2021,East Anglia,3.2840
+01/06/2021,East Midlands,3.3718
+01/06/2021,London,4.2920
+01/06/2021,North,2.8380
+01/06/2021,North West,2.4461
+01/06/2021,Scotland,2.4889
+01/06/2021,South East,3.5115
+01/06/2021,South West,3.3186
+01/06/2021,Wales,2.6371
+01/06/2021,West Midlands,2.7167
+01/06/2021,Yorkshire & Humber,2.4140
+01/07/2021,East Anglia,3.4504
+01/07/2021,East Midlands,3.0613
+01/07/2021,London,4.2019
+01/07/2021,North,2.9754
+01/07/2021,North West,2.6448
+01/07/2021,Northern Ireland,4.5000
+01/07/2021,Scotland,2.4000
+01/07/2021,South East,3.4784
+01/07/2021,South West,3.4013
+01/07/2021,Wales,2.8546
+01/07/2021,West Midlands,2.9067
+01/07/2021,Yorkshire & Humber,2.8563
+01/08/2021,East Anglia,3.3867
+01/08/2021,East Midlands,3.0854
+01/08/2021,London,4.3329
+01/08/2021,North,2.7715
+01/08/2021,North West,2.7242
+01/08/2021,Northern Ireland,4.3500
+01/08/2021,Scotland,2.9167
+01/08/2021,South East,3.5515
+01/08/2021,South West,3.3713
+01/08/2021,Wales,2.8864
+01/08/2021,West Midlands,2.9326
+01/08/2021,Yorkshire & Humber,2.9169
+01/09/2021,East Anglia,3.4150
+01/09/2021,East Midlands,3.2427
+01/09/2021,London,4.3862
+01/09/2021,North,2.6513
+01/09/2021,North West,2.7142
+01/09/2021,Northern Ireland,4.3667
+01/09/2021,Scotland,2.7908
+01/09/2021,South East,3.5690
+01/09/2021,South West,3.2632
+01/09/2021,Wales,2.8864
+01/09/2021,West Midlands,3.0127
+01/09/2021,Yorkshire & Humber,2.9887
+01/10/2021,East Anglia,3.4256
+01/10/2021,East Midlands,3.1604
+01/10/2021,London,4.3497
+01/10/2021,North,2.8067
+01/10/2021,North West,2.8376
+01/10/2021,Northern Ireland,4.4000
+01/10/2021,Scotland,2.9457
+01/10/2021,South East,3.5296
+01/10/2021,South West,3.4238
+01/10/2021,Wales,2.9236
+01/10/2021,West Midlands,3.0455
+01/10/2021,Yorkshire & Humber,3.0266
+01/11/2021,East Anglia,3.4342
+01/11/2021,East Midlands,3.2337
+01/11/2021,London,4.3610
+01/11/2021,North,2.8625
+01/11/2021,North West,2.8002
+01/11/2021,Northern Ireland,4.2200
+01/11/2021,Scotland,2.9421
+01/11/2021,South East,3.5160
+01/11/2021,South West,3.3588
+01/11/2021,Wales,2.9062
+01/11/2021,West Midlands,3.0334
+01/11/2021,Yorkshire & Humber,3.0670
+01/12/2021,East Anglia,3.3570
+01/12/2021,East Midlands,3.1684
+01/12/2021,London,4.3572
+01/12/2021,North,2.7393
+01/12/2021,North West,2.8295
+01/12/2021,Northern Ireland,4.2800
+01/12/2021,Scotland,3.1025
+01/12/2021,South East,3.4871
+01/12/2021,South West,3.3483
+01/12/2021,Wales,2.9450
+01/12/2021,West Midlands,3.0564
+01/12/2021,Yorkshire & Humber,3.0867
+01/01/2022,East Anglia,3.4029
+01/01/2022,East Midlands,3.3244
+01/01/2022,London,4.4219
+01/01/2022,North,2.8813
+01/01/2022,North West,2.8767
+01/01/2022,Northern Ireland,4.1417
+01/01/2022,Scotland,3.3640
+01/01/2022,South East,3.5257
+01/01/2022,South West,3.5755
+01/01/2022,Wales,2.9200
+01/01/2022,West Midlands,3.1446
+01/01/2022,Yorkshire & Humber,3.1245
+01/02/2022,East Anglia,3.4341
+01/02/2022,East Midlands,3.3092
+01/02/2022,London,4.3451
+01/02/2022,North,2.9323
+01/02/2022,North West,2.9665
+01/02/2022,Northern Ireland,4.0343
+01/02/2022,Scotland,3.3664
+01/02/2022,South East,3.5260
+01/02/2022,South West,3.5223
+01/02/2022,Wales,2.8356
+01/02/2022,West Midlands,3.1764
+01/02/2022,Yorkshire & Humber,3.1347
+01/03/2022,East Anglia,3.5294
+01/03/2022,East Midlands,3.2404
+01/03/2022,London,4.4241
+01/03/2022,North,2.8657
+01/03/2022,North West,2.9428
+01/03/2022,Northern Ireland,4.1425
+01/03/2022,Scotland,3.4192
+01/03/2022,South East,3.6412
+01/03/2022,South West,3.5992
+01/03/2022,Wales,2.9507
+01/03/2022,West Midlands,3.1700
+01/03/2022,Yorkshire & Humber,3.0958
+01/04/2022,East Anglia,3.5163
+01/04/2022,East Midlands,3.2922
+01/04/2022,London,4.5603
+01/04/2022,North,2.9147
+01/04/2022,North West,2.9580
+01/04/2022,Northern Ireland,4.4738
+01/04/2022,Scotland,3.4400
+01/04/2022,South East,3.6834
+01/04/2022,South West,3.6296
+01/04/2022,Wales,2.9969
+01/04/2022,West Midlands,3.2235
+01/04/2022,Yorkshire & Humber,3.1276
+01/05/2022,East Anglia,3.5690
+01/05/2022,East Midlands,3.2540
+01/05/2022,London,4.5741
+01/05/2022,North,3.0014
+01/05/2022,North West,2.9519
+01/05/2022,Northern Ireland,4.3738
+01/05/2022,Scotland,3.3693
+01/05/2022,South East,3.7639
+01/05/2022,South West,3.6056
+01/05/2022,Wales,2.9767
+01/05/2022,West Midlands,3.2004
+01/05/2022,Yorkshire & Humber,3.1306
+01/06/2022,East Anglia,3.5077
+01/06/2022,East Midlands,3.2346
+01/06/2022,London,4.4533
+01/06/2022,North,3.0943
+01/06/2022,North West,3.0446
+01/06/2022,Northern Ireland,4.3738
+01/06/2022,Scotland,3.3554
+01/06/2022,South East,3.7746
+01/06/2022,South West,3.7718
+01/06/2022,Wales,2.9767
+01/06/2022,West Midlands,3.2763
+01/06/2022,Yorkshire & Humber,3.1215
+01/07/2022,East Anglia,3.4780
+01/07/2022,East Midlands,3.2080
+01/07/2022,London,4.6498
+01/07/2022,North,3.1621
+01/07/2022,North West,2.9326
+01/07/2022,Northern Ireland,4.3557
+01/07/2022,Scotland,3.3764
+01/07/2022,South East,3.7163
+01/07/2022,South West,3.6583
+01/07/2022,Wales,2.9800
+01/07/2022,West Midlands,3.2484
+01/07/2022,Yorkshire & Humber,3.1306
+01/08/2022,East Anglia,3.5019
+01/08/2022,East Midlands,3.4362
+01/08/2022,London,4.6182
+01/08/2022,North,3.0138
+01/08/2022,North West,2.9922
+01/08/2022,Northern Ireland,4.3738
+01/08/2022,Scotland,3.4014
+01/08/2022,South East,3.8479
+01/08/2022,South West,3.6814
+01/08/2022,Wales,2.9529
+01/08/2022,West Midlands,3.2619
+01/08/2022,Yorkshire & Humber,3.1347
+01/09/2022,East Anglia,3.4545
+01/09/2022,East Midlands,3.4389
+01/09/2022,London,4.6350
+01/09/2022,North,2.9347
+01/09/2022,North West,2.9808
+01/09/2022,Northern Ireland,4.4237
+01/09/2022,Scotland,3.3073
+01/09/2022,South East,3.8488
+01/09/2022,South West,3.6336
+01/09/2022,Wales,2.8723
+01/09/2022,West Midlands,3.2135
+01/09/2022,Yorkshire & Humber,3.0939
+01/10/2022,East Anglia,3.4268
+01/10/2022,East Midlands,3.3867
+01/10/2022,London,4.6524
+01/10/2022,North,2.9413
+01/10/2022,North West,3.0910
+01/10/2022,Northern Ireland,4.5813
+01/10/2022,Scotland,3.3207
+01/10/2022,South East,3.8782
+01/10/2022,South West,3.7518
+01/10/2022,Wales,3.0093
+01/10/2022,West Midlands,3.1800
+01/10/2022,Yorkshire & Humber,3.1253
