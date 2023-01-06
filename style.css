@@ -1,0 +1,197 @@
+body {
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+    background-color: #1c2f51;
+    }
+    
+    h1{
+    font-family: 'Arial', monospace;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    }
+    
+    h2{
+    font-family: 'Roboto', monospace;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    }
+    
+    h3{
+    font-family: 'Arial', monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    }
+    
+    h4{
+    font-family: 'Arial', monospace;
+    color: white;
+    font-size: 20px;
+    }
+    
+    p{
+    font-family: 'Arial', monospace;
+    color: white;
+    font-size: 15px;
+    }
+    
+    /* Makes containers for different things in my website*/
+    .containerHomeScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    background-color: #1c2f51;
+    }
+    
+    .containerbutton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #1c2f51;
+    }
+    
+    .title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+    background-color: #1c2f51;
+    }
+    .containertext{
+    align-items: center;
+    padding: 0px 5px 0px 5px;
+    background-color: #1c2f51;
+    }
+    .container {
+    flex-flow: row wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 0px 0px 0px 0px;
+    background-color: #1c2f51;
+    }
+    
+    .header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    background-color: #1c2f51;
+    }
+    
+    /* Chart formatting */
+    .chart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    font-size: 10px;
+    padding: 10px 0px 10px 10px;
+    border-radius: 10px;
+    background-color: white;
+    }
+    
+    /* Button formatting */
+    .button1{
+    width:150px;
+    height:35px;
+    border:none;
+    color: white;
+    background-color: #4d7bca;
+    border-radius: 10px;
+transition: ease-out 0.2s;
+box-shadow: inset 0 0 0 0 #4d7bca;
+outline: none;
+font-size: 15px;
+}
+
+.button1:hover{
+box-shadow: inset 150px 0 0 0 #5f95f3;
+cursor: pointer;
+}
+.button2{
+width:150px;
+height:35px;
+border:none;
+color: white;
+background-color: #4d7bca;
+border-radius: 10px;
+transition: ease-out 0.2s;
+box-shadow: inset 0 0 0 0 #4d7bca;
+outline: none;
+font-size: 15px;
+}
+
+.button2:hover{
+box-shadow: inset 150px 0 0 0 #5f95f3;
+cursor: pointer;
+}
+
+.button3{
+width:150px;
+height:35px;
+border:none;
+color: white;
+background-color: #4d7bca;
+border-radius: 10px;
+transition: ease-out 0.2s;
+box-shadow: inset 0 0 0 0 #4d7bca;
+outline: none;
+font-size: 15px;
+}
+
+.button3:hover{
+box-shadow: inset 150px 0 0 0 #5f95f3;
+cursor: pointer;
+}
+
+.button4{
+width:150px;
+height:35px;
+border:none;
+color: white;
+background-color: #4d7bca;
+border-radius: 10px;
+transition: ease-out 0.2s;
+box-shadow: inset 0 0 0 0 #4d7bca;
+outline: none;
+font-size: 15px;
+}
+
+.button4:hover{
+box-shadow: inset 150px 0 0 0 #5f95f3;
+cursor: pointer;
+}
+
+.button5{
+width:150px;
+height:35px;
+border:none;
+color: white;
+background-color: #4d7bca;
+border-radius: 10px;
+transition: ease-out 0.2s;
+box-shadow: inset 0 0 0 0 #4d7bca;
+outline: none;
+font-size: 15px;
+}
+
+.button5:hover{
+box-shadow: inset 150px 0 0 0 #5f95f3;
+cursor: pointer;
+}
+
+
+

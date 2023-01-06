@@ -6,9 +6,9 @@
   "height": 550,
 
   "title": {
-    "text": "Access to Electricity (% of population)",
+    "text": "Human Development Index (2017)",
     "fontSize": 12,
-    "subtitle":["Source: World Bank"],
+    "subtitle":["White = N/A", "Source: Our World in Data"],
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10, "anchor": "middle"
     },
@@ -21,8 +21,8 @@
  "transform": [{
   "lookup": "properties.name_en",
   "from": {
-    "key": "Country Name",
-    "fields": ["Access to Electricity (% of population)"],
+    "key": "Country",
+    "fields": ["Value"],
     "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/AccessElectricity.csv"}}}],
 
 
@@ -31,7 +31,7 @@
 
   "encoding":{
     "color":{
-      "field":"Access to Electricity (% of population)",
+      "field":"Value",
       "legend":{
         "title": null,
         "orient": "right",
@@ -41,6 +41,6 @@
           "range": ["red", "orange", "rgb(203,229,242)"]}},
     "tooltip":[
       {"field":"properties.name_en", "title": "Country"},
-      {"field":"Access to Electricity (% of population)", "title": "Access Percentage"}
-    ]
-  }}
+      {"field":"Value", "title": "Access Percentage"}
+    ]},
+  "config": {"mark": {"invalid": null}}}

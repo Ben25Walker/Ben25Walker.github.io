@@ -1,0 +1,38 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/Regression.csv"
+  },
+  "hconcat": [
+    {"mark": {"type": "circle","filled": true,"size":50},
+    "encoding": {
+      "x": {"field": "GDP per capita, PPP (constant 2017 international $)_x",
+        "type": "quantitative","title": "GDP per Capita (USD)"},
+      "y": {"field": "Primary energy consumption per capita (kWh/person)_x","type": "quantitative","title": "Energy Consumption per capita (kWh)"},
+      "color": {"field": "Region_x","type": "ordinal",
+  "scale": {"scheme": "tableau10"},
+  "legend": {"orient":"bottom"},
+  "title":null},
+      "tooltip": [
+        {"field": "Country","type": "nominal", "title": "Country"},
+      {"field": "GDP per capita, PPP (constant 2017 international $)_x","type": "quantitative","title": "GDP per Capita (USD)"},
+      {"field": "Primary energy consumption per capita (kWh/person)_x","type": "quantitative","title": "Energy Consumption per capita (kWh)"} 
+    ]
+    }
+    
+  },
+
+    {
+      "mark": {"type": "circle","filled": true,"size":50},
+    "encoding": {
+        "x": {"field": "GDP per capita, PPP (constant 2017 international $)_y","type": "quantitative","title":null},
+        "y": {"field": "Primary energy consumption per capita (kWh/person)_y","type": "quantitative","title":null},
+        "color": {"field": "Region_x","type": "ordinal"},
+         "tooltip": [
+        {"field": "Country","type": "nominal", "title": "Country"},
+      {"field": "GDP per capita, PPP (constant 2017 international $)_x","type": "quantitative","title": "GDP per Capita (USD)"},
+      {"field": "Primary energy consumption per capita (kWh/person)_x","type": "quantitative","title": "Energy Consumption per capita (kWh)"} 
+    ]
+      }
+  }
+  ]
+}

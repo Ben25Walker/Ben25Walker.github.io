@@ -1,14 +1,14 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-      "text": "Economically inactive: total by country of birth (16-64): EU (EU27) born: %",
-      "subtitle":["Source ONS"],
+      "text": "LFS: Unemployment rate",
+      "subtitle":["UK: Female: Aged 25-49: %: SA, Source ONS"],
       "subtitleFontStyle":"italic",
       "subtitleFontSize":10,
       "anchor": "start",
       "color": "black"},
     "data": {
-      "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/ONS_data_DYWD.json",
+      "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/ONS_data_MGXD.json",
       "format": {"type": "json", "property": "years"}
     },
     "mark": {"type": "line", "color": "darkblue"},

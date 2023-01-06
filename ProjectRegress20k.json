@@ -22,8 +22,7 @@
           "type": "quantitative"},
         "y": {"field": "Primary energy consumption per capita (kWh/person)","type": "quantitative"},
         "color": {"field": "Region","type": "ordinal",
-    "scale": {"scheme": "tableau10"},
-    "legend": {"orient":"bottom"},
+        "scale": {"range": ["#4c78a8", "orange", "#e45756","teal","green", "#b279a2","#ff9da6"]},    "legend": {"orient":"right"},
     "title":null},
         "tooltip": [
           {"field": "Country","type": "nominal", "title": "Country"},
@@ -41,7 +40,7 @@
       "transform": [
         {
           "regression": "Primary energy consumption per capita (kWh/person)",
-          "on": "GDP per capita, PPP (constant 2017 international $)", "extent": [4000,25000]
+          "on": "GDP per capita, PPP (constant 2017 international $)", "extent": [4000,24000]
         }
       ],
       "encoding": {
@@ -57,6 +56,11 @@
     },
     {
     "transform": [
+        {
+          "regression": "Primary energy consumption per capita (kWh/person)",
+          "on": "GDP per capita, PPP (constant 2017 international $)", "extent": [-4.5,-0.5],
+          "params": true
+        },
         {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
       ],
       "mark": {

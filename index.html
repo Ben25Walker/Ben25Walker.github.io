@@ -1,33 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
 
+<!-- Richard Davies, Data Science 2021 -->
+
+
+<!-- ///////////////////  HEAD //////////////////////////////////// -->
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+<!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 
-    <!--Main Stylesheet-->
-    <link rel="stylesheet" href="Website.css">
+<!-- This line will change the appearance of the page-->
+<link href="style.css" rel="stylesheet">
 
+<!-- This line will change the font of the page -->
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+</style>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+</style>
+<!-- Meta stuff-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
 </head>
 
+<!-- ///////////////////  HEAD //////////////////////////////////// -->
+
+
+
+<!-- ///////////////////  START BODY //////////////////////////////////// -->
+
 <body>
+    <div class="header">
+        <h2><span style="color:#4d7bca">Data</span><span style="color:white">Science</span></h2>
+    </div>
 
-<div class="wrap">    
-
-    <h1>This is my Data Science web site:</h1>    
-
-    <p>All about charts, numbers and data stories. </p>
-
-    <a href="project.html" id="link1">Project</a>
-    <a href="portfolio.html" id="link2">Portfolio</a>
-
-</div>
-
-
+    <div class="containerHomeScreen">
+        <button class="button1" onclick="window.location.href = 'portfolio.html'">Portfolio</button>
+    </div>   
+    <div class="containerHomeScreen">    
+        <button class="button2" onclick="window.location.href = 'project.html'">Project</button>
+    </div>       
+    <div class="containerHomeScreen">  
+        <button class="button3" onclick="location.href = 'https://github.com/jamesjeffery77/jamesjeffery77.github.io'">GitHub</button>
+    </div>
 </body>
-
+<!-- ///////////////////  END BODY //////////////////////////////////// -->
 
 </html>

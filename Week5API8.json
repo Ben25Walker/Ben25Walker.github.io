@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-      "text": "Economically inactive: total by country of birth (16-64): EU (EU27) born: %",
-      "subtitle":["Not in full-time education: UK: All: SA: Source ONS"],
+      "text": "Unemployment rate",
+      "subtitle":["(aged 16 and over, seasonally adjusted): %, Source ONS"],
       "subtitleFontStyle":"italic",
       "subtitleFontSize":10,
       "anchor": "start",

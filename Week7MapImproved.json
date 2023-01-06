@@ -43,4 +43,6 @@
         {"field":"properties.name_en", "title": "Country"},
         {"field":"External_Debt", "title": "Unit consumption"}
       ]
-    }}
+    },
+  
+  "config": {"mark": {"invalid": null}}}

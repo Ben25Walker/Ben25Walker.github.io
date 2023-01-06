@@ -14,6 +14,8 @@
         },
   
     "transform": [
+              {"filter": {"timeUnit": "year", "field": "Year", "gte": "2006"}},
+
         {"calculate": "datum.GeoBiomass/3.770404816*100", "as": "Geo Biomass"},
         {"calculate": "datum.Solar/0.107861668*100", "as": "Solar"},
         {"calculate": "datum.Wind/2.425894022*100", "as": "Wind"},
@@ -22,11 +24,9 @@
         {"calculate": "datum.Gas/843.4420776*100", "as": "Gas"},
         {"calculate": "datum.Coal/1054.097046*100", "as": "Coal"},
         {"calculate": "datum.Oil/1673.716797*100", "as": "Oil"}],
-        
+
     "XYZrepeat": {"layer": ["GeoBiomass", "Solar", "Wind", "Hydro", "Nuclear", "Gas", "Coal", "Oil"]},
     "repeat": {"layer": ["Geo Biomass", "Solar", "Wind", "Hydro", "Nuclear", "Gas", "Coal", "Oil"]},
-  
-  "filter": {"timeUnit": "year", "field": "Year", "gte": "2006"},
   
   
    "height": 300,
@@ -53,12 +53,14 @@
     
             "color": {
                 "datum": {"repeat": "layer"},
-                "scale": {"range": ["black", "green", "orange", "pink"]},
+                "scale": {"scheme":"set1"},
+                "tooltip": {"field": {"repeat": "layer"}},
                 "legend": {
                   "orient":"top-left",
                   "fillColor":"white"}}
+      
                   } 
-            }
-            }
+            }}
+            
   
   

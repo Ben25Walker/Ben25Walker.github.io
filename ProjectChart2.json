@@ -6,14 +6,15 @@
   },
   "title": {
     "text": "GDP per Capita in different regions",
-    "subtitle": "Source:World Bank",
+    "subtitle": "Source: World Bank",
+    "fontSize": 15,
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
     "anchor": "start",
     "color": "black"
   },
 
-   "transform": [  
+     "transform": [  
     {"calculate":"year(datum.date)", "as": "year"},
   
     {"filter": "datum.year>=minYear"},
@@ -23,42 +24,68 @@
     ],
 
   "params": [    
-    {"name":"minYear", "value":2002,
+    {"name":"minYear", "value":2003,
        "bind":{
          "input": "range",
          "min": 1990, 
-         "max": 2022, 
+         "max": 2021, 
          "step": 1,
          "name": "Start year:"}
     },
 
-    {"name":"maxYear", "value":2022,
+    {"name":"maxYear", "value":2021,
        "bind":{
          "input": "range",
-         "min": 1979, 
-         "max": 2022, 
+         "min": 1990, 
+         "max": 2021, 
          "step": 1,
          "name": "End year:"}}],
-  "width": 400,
-  "height": 300,
-  "mark": "line",
-
-
-  "encoding": {
-    "x": {"field": "date", "type": "temporal","title":null},
-    "y": {
-      "field": "value",
-      "type": "quantitative","title":null
-    },
   
 
-    "color": {"field": "Country", "type": "nominal",
-    "scale": {"scheme": "rainbow"},
-      "legend": {"orient":"right"},
-      "title":"Region"},
-      "tooltip":[{"field":"Country", "title": "Region"},
-        {"field":"value", "title": "GDP per Capita"}
+  "width": 400,
+  "height": 300,
+  "encoding": {"x": {"field": "date", "type": "temporal", "title": null}}, 
+  "layer": [
+    {
+      "encoding": {
+        "color": {"field": "Country", "type": "nominal"},
+        "y": {"field": "value", "type": "quantitative", "title": null}
+      },
+       "layer": [
+        {"mark": "line"},
+        {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
       ]
-        
+    },
+    {
+      "transform": [{"pivot": "Country", "value": "value", "groupby": ["date"]}],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "param": "hover", "empty": false},
+          "value": 0
+        }, 
 
-  }}
+
+        "tooltip": [
+          {"field": "East Asia & Pacific", "type": "quantitative"},
+          {"field": "Europe & Central Asia", "type": "quantitative"},
+          {"field": "Latin America & Caribbean", "type": "quantitative"},
+          {"field": "Middle East & North Africa", "type": "quantitative"},
+          {"field": "Sub-Saharan Africa", "type": "quantitative"},
+          {"field": "South Asia", "type": "quantitative"}
+        ]
+      },   
+    
+      "params": [{
+        "name": "hover",
+        "select": {
+          "type": "point",
+          "fields": ["date"],
+          "nearest": true,
+          "on": "mouseover",
+          "clear": "mouseout"
+        }
+      }]
+    }
+  ]
+}

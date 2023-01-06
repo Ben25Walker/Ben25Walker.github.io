@@ -1,46 +1,46 @@
 
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width": 700,
+  "height": 550,
+
+  "title": {
+    "text": "Human Development Index (2017)",
+    "fontSize": 12,
+    "subtitle":["White = N/A", "Source: Our World in Data"],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10, "anchor": "middle"
+    },
   
-    "width": 700,
-    "height": 550,
-  
-    "title": {
-      "text": "Human Development Index (2017)",
-      "fontSize": 12,
-      "subtitle":["Source: Our World in Data"],
-      "subtitleFontStyle":"italic",
-      "subtitleFontSize":10, "anchor": "middle"
-      },
-    
-    "data" : {
-      "url" : "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/custom.geo%20(1).json",
-      "format": {
-        "property": "features"}},
-  
-   "transform": [{
-    "lookup": "properties.name_en",
-    "from": {
-      "key": "Country",
-      "fields": ["Value"],
-      "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/human-development-index.csv"}}}],
-  
-  
-    "projection": {"type": "mercator"}, 
-    "mark": {"type": "geoshape", "stroke": "slategrey"}, 
-  
-    "encoding":{
-      "color":{
-        "field":"Value",
-        "legend":{
-          "title": null,
-          "orient": "right",
-          "direction": "vertical"},
-          "type": "quantitative",
-          "scale":{
-            "range": ["red", "orange","lightgreen"]}},
-      "tooltip":[
-        {"field":"properties.name_en", "title": "Country"},
-        {"field":"Value", "title": "Access Percentage"}
-      ]
-    }}
+  "data" : {
+    "url" : "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/custom.geo%20(1).json",
+    "format": {
+      "property": "features"}},
+
+ "transform": [{
+  "lookup": "properties.name_en",
+  "from": {
+    "key": "Country",
+    "fields": ["Value"],
+    "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/human-development-index.csv"}}}],
+
+
+  "projection": {"type": "mercator"}, 
+  "mark": {"type": "geoshape", "stroke": "slategrey"}, 
+
+  "encoding":{
+    "color":{
+      "field":"Value",
+      "legend":{
+        "title": null,
+        "orient": "right",
+        "direction": "vertical"},
+        "type": "quantitative",
+        "scale":{
+          "range": ["red", "orange","lightgreen"]}},
+    "tooltip":[
+      {"field":"properties.name_en", "title": "Country"},
+      {"field":"Value", "title": "HDI"}
+    ]},
+  "config": {"mark": {"invalid": null}}}
