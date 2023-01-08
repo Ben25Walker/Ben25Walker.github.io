@@ -5,26 +5,26 @@
 <!-- ///////////////////  HEAD //////////////////////////////////// -->
 
 <head>
-<!--The next three lines allow the Vega embed-->
-<script src="https://cdn.jsdelivr.net/npm/vega"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
-<script src="https://cdn.jsdelivr.net/npm/vega-embed"></script>
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed"></script>
 
-<!-- This line will change the appearance of the page-->
-<link href="style.css" rel="stylesheet">
+    <!-- This line will change the appearance of the page-->
+    <link href="style.css" rel="stylesheet">
 
-<!-- This line will change the font of the page -->
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
-</style>
+    <!-- This line will change the font of the page -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+    </style>
 
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
-</style>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+    </style>
 
-<!-- Meta stuff-->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Meta stuff-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 </head>
 
 <!-- ///////////////////  HEAD //////////////////////////////////// -->
@@ -44,180 +44,188 @@
     <div class="containerHomeScreen">
         <button class="button4" onclick="window.location.href = 'index.html'">Home</button>
         <button class="button4" onclick="window.location.href = 'project.html'">Project</button>
-        <button class="button5" onclick="location.href = 'https://github.com/ben25walker/ben25walker.github.io'">GitHub</button>
+        <button class="button5"
+            onclick="location.href = 'https://github.com/ben25walker/ben25walker.github.io'">GitHub</button>
     </div>
 
     <div class="myWeek1">
 
         <h1>Week 1</h1>
-            
-            <h3>Premiership Football: Home Advantage?</h3>
-            <p>The first chart tracks goals scored by home and away teams across a season.</p>
-            <div class="chart" id="Chart1"> </div>
-    
-            <h3>Approval Ratings</h3>
-            <p>My second chart looks at approval ratings of the UK government</p>
-            <div class="chart" id="Chart2"> </div>
-        </div> 
-    
-        <div class="myWeek1">
-    
+
+        <h3>Premiership Football: Home Advantage?</h3>
+        <p>The first chart tracks goals scored by home and away teams across a season.</p>
+        <div class="chart" id="Chart1"> </div>
+
+        <h3>Approval Ratings</h3>
+        <p>My second chart looks at approval ratings of the UK government</p>
+        <div class="chart" id="Chart2"> </div>
+    </div>
+
+    <div class="myWeek1">
+
         <h1>Week 2</h1>
-        
+
         <h3>IMF Lending</h3>
         <p>This chart shows IMF lending outstanding for all members in nominal terms.</p>
         <div class="chart" id="Chart3"></div>
-    
+
         <h3>IMF Lending Relative to GDP</h3>
-        <p>This chart shows IMF lending outstanding relative to World GDP. It 
+        <p>This chart shows IMF lending outstanding relative to World GDP. It
             indictates that 1984 is then most 'risky' year in the time period studied.</p>
         <div class="chart" id="Chart4"> </div>
     </div>
-    
+
     <div class="myWeek1">
         <h1>Week 3</h1>
-    
-    <h3>Access to Electricity across East Africa</h3>
-    <p>This bar chart shows how access to electricty largely increased across 7 East African countries from 2000-2020 .</p>
-    <div class="chart" id="Chart5"></div>
-    
-    <h3>The Difference in Access to Electricity across East Africa</h3>
-    <p>This line chart is an improvement on the above bar chart because it allows us to see the differences between countries more clearly.</p>
-    <div class="chart" id="Chart6"> </div>
+
+        <h3>Access to Electricity across East Africa</h3>
+        <p>This bar chart shows how access to electricty largely increased across 7 East African countries from
+            2000-2020 .</p>
+        <div class="chart" id="Chart5"></div>
+
+        <h3>The Difference in Access to Electricity across East Africa</h3>
+        <p>This line chart is an improvement on the above bar chart because it allows us to see the differences between
+            countries more clearly.</p>
+        <div class="chart" id="Chart6"> </div>
     </div>
-    
+
     <div class="myWeek1">
         <h1>Week 4</h1>
-        
+
         <h3>Tennis Ranking Points vs Age</h3>
-        <p>This chart shows the relationship between the age of male tennis players and their ranking points. I scraped the 
-            data from <a href="https://www.espn.co.uk/tennis/rankings">ESPN</a> because this is a reputable source, 
+        <p>This chart shows the relationship between the age of male tennis players and their ranking points. I scraped
+            the
+            data from <a href="https://www.espn.co.uk/tennis/rankings">ESPN</a> because this is a reputable source,
             which has well-formatted data for a multitude of sports.</p>
-        <p>This is the <a href="https://colab.research.google.com/drive/11NYYqd_6o1ru1m_ocqc-bnXF9Nn2eptR">Colab Notebook</a> 
-            used to scrape the data.    </p>
-        <div class="chart" id="#Chart7"></div>
+        <p>This is the <a href="https://colab.research.google.com/drive/11NYYqd_6o1ru1m_ocqc-bnXF9Nn2eptR">Colab
+                Notebook</a>
+            used to scrape the data. </p>
+        <div class="chart" id="Chart7"></div>
     </div>
-    
+
     <div class="myWeek1">
         <h1>Week 5</h1>
-    <div class="chart" id="Chart8"></div>
-    <div class="chart" id="Chart9"></div>
-    <div class="chart" id="Chart10"></div>
-    <div class="chart" id="Chart11"></div>
-    <div class="chart" id="Chart12"></div>
-    <div class="chart" id="Chart13"></div>
-    <div class="chart" id="Chart14"></div>
-    <div class="chart" id="Chart15"></div>
-    <div class="chart" id="Chart16"></div>
+        <div class="chart" id="Chart8"></div>
+        <div class="chart" id="Chart9"></div>
+        <div class="chart" id="Chart10"></div>
+        <div class="chart" id="Chart11"></div>
+        <div class="chart" id="Chart12"></div>
+        <div class="chart" id="Chart13"></div>
+        <div class="chart" id="Chart14"></div>
+        <div class="chart" id="Chart15"></div>
+        <div class="chart" id="Chart16"></div>
     </div>
-    
+
     <div class="myWeek1">
         <h1>Week 7</h1>
-    
-    <h3>Map of Africa</h3>
-    <div class="chart" id="Chart17"></div>
-    
-    <h3>Map showing External Debt in Africa</h3>
-    <p>This chart looks at how external debt varies across the African continent.</p>
-    <div class="chart" id="Chart18"> </div>
+
+        <h3>Map of Africa</h3>
+        <div class="chart" id="Chart17"></div>
+
+        <h3>Map showing External Debt in Africa</h3>
+        <p>This chart looks at how external debt varies across the African continent.</p>
+        <div class="chart" id="Chart18"> </div>
     </div>
-    
+
     <div class="myWeek1">
-    
+
         <h1>Week 8</h1>
-    
-        <p>It was argued that it is increasingly hard for young people to accumulate wealth. One reason cited was current high inflation.</p>
-    
-    <h3>Inflation</h3>
-    <p>This chart shows CPI inflation from 1988-2022.</p>
-    <div class="chart" id="Chart19"></div>
-    
-    <h3>Interest Rates</h3>
-    <p>This chart shows the Bank of England's Bank Rate over the same time period.</p>
-    <div class="chart" id="Chart20"> </div>
-    
-    <p>We see that the bank rate is significantly lower than the inflation rate, indicating a negative real return on savings.</p>
+
+        <p>It was argued that it is increasingly hard for young people to accumulate wealth. One reason cited was
+            current high inflation.</p>
+
+        <h3>Inflation</h3>
+        <p>This chart shows CPI inflation from 1988-2022.</p>
+        <div class="chart" id="Chart19"></div>
+
+        <h3>Interest Rates</h3>
+        <p>This chart shows the Bank of England's Bank Rate over the same time period.</p>
+        <div class="chart" id="Chart20"> </div>
+
+        <p>We see that the bank rate is significantly lower than the inflation rate, indicating a negative real return
+            on savings.</p>
     </div>
 
     <div class="myWeek1">
         <h1>Week 9</h1>
-    
-    <h3>Regression</h3>
-    <p>This regression looks at the relationship between GDP per Capita and Energy Consumption per Capita.</p>
-    <div class="chart" id="Chart21"></div>
-    
-    <h3>Indexed chart</h3>
-    <p>This indexed chart shows the vast growth in renewable energy sources in Africa.</p>
-    <div class="chart" id="Chart22"> </div>
+
+        <h3>Regression</h3>
+        <p>This regression looks at the relationship between GDP per Capita and Energy Consumption per Capita.</p>
+        <div class="chart" id="Chart21"></div>
+
+        <h3>Indexed chart</h3>
+        <p>This indexed chart shows the vast growth in renewable energy sources in Africa.</p>
+        <div class="chart" id="Chart22"> </div>
     </div>
-    
+
     <div class="myWeek1">
         <h1>Week 10</h1>
-    
-    <h3>Regression</h3>
-    <p>I performed 2 regressions in this <a href="https://colab.research.google.com/drive/1LtRTW7PrdEL4PUL7JEtqBdOOlWW0akNu">Colab Notebook</a>.</p>
 
-    <script>
-        //Define charts:
-        var myChart1 = "chartFootball1.json";
-        var myChart2 = "chart_approvalRatingsUK.json";
-        var myChart3 = "Week_2_Task.json";
-        var myChart4 = "Week_2_TaskImproved2.json";
-        var myChart5 = "Week3Taskbasic.json";
-        var myChart6 = "Week3Task.json";
-        var myChart7 = "Week4Tennis.json";
-        var myChart8 = "Week5API1.json";
-        var myChart9 = "Week5API2.json";
-        var myChart10 = "Week5API3.json";
-        var myChart11 = "Week5API4.json";
-        var myChart12 = "Week5API5.json";
-        var myChart13 = "Week5API6.json";
-        var myChart14 = "Week5API7.json";
-        var myChart15 = "Week5API8.json";
-        var myChart16 = "Week5API9.json";
-        var myChart17 = "Week7MapBasic.json";
-        var myChart18 = "Week7MapImproved.json";
-        var mychart19 = "Week8Baserate.json";
-        var mychart20 = "Week8Inflation.json";
-        var mychart21 = "ProjectRegress20k.json";
-        var mychart22 = "ProjectIndex.json";
+        <h3>Regression</h3>
+        <p>I performed 2 regressions in this <a
+                href="https://colab.research.google.com/drive/1LtRTW7PrdEL4PUL7JEtqBdOOlWW0akNu">Colab Notebook</a>.</p>
 
-
-    
-    
-    
-    
-    
-        // Embed charts:
-        vegaEmbed('#Chart1', myChart1);
-        vegaEmbed('#Chart2', myChart2);
-        vegaEmbed('#Chart3', myChart3);
-        vegaEmbed('#Chart4', myChart4);
-        vegaEmbed('#Chart5', myChart5);
-        vegaEmbed('#Chart6', myChart6);
-        vegaEmbed('#Chart7', myChart7);
-        vegaEmbed('#Chart8', myChart8);
-        vegaEmbed('#Chart9', myChart9);
-        vegaEmbed('#Chart10', myChart10);
-        vegaEmbed('#Chart11', myChart11);
-        vegaEmbed('#Chart12', myChart12);
-        vegaEmbed('#Chart13', myChart13);
-        vegaEmbed('#Chart14', myChart14);
-        vegaEmbed('#Chart15', myChart15);
-        vegaEmbed('#Chart16', myChart16);
-        vegaEmbed('#Chart17', myChart17);
-        vegaEmbed('#Chart18', myChart18);
-        vegaEmbed('#Chart19', myChart19);
-        vegaEmbed('#Chart20', myChart20);
-        vegaEmbed('#Chart21', myChart21);
-        vegaEmbed('#Chart22', myChart22)
+        <script>
+            //Define charts:
+            var myChart1 = "chartFootball1.json";
+            var myChart2 = "chart_approvalRatingsUK.json";
+            var myChart3 = "Week_2_Task.json";
+            var myChart4 = "Week_2_TaskImproved2.json";
+            var myChart5 = "Week3Taskbasic.json";
+            var myChart6 = "Week3Task.json";
+            var myChart7 = "Week4Tennis.json";
+            var myChart8 = "Week5API1.json";
+            var myChart9 = "Week5API2.json";
+            var myChart10 = "Week5API3.json";
+            var myChart11 = "Week5API4.json";
+            var myChart12 = "Week5API5.json";
+            var myChart13 = "Week5API6.json";
+            var myChart14 = "Week5API7.json";
+            var myChart15 = "Week5API8.json";
+            var myChart16 = "Week5API9.json";
+            var myChart17 = "Week7MapBasic.json";
+            var myChart18 = "Week7MapImproved.json";
+            var myChart19 = "Week8Baserate.json";
+            var myChart20 = "Week8Inflation.json";
+            var myChart21 = "ProjectRegress20k.json";
+            var myChart22 = "ProjectIndex.json";
 
 
-    
-    
-    
-    
-    
-    </script>
-    
-    </html>
+
+
+
+
+
+            // Embed charts:
+            vegaEmbed('#Chart1', myChart1);
+            vegaEmbed('#Chart2', myChart2);
+            vegaEmbed('#Chart3', myChart3);
+            vegaEmbed('#Chart4', myChart4);
+            vegaEmbed('#Chart5', myChart5);
+            vegaEmbed('#Chart6', myChart6);
+            vegaEmbed('#Chart7', myChart7);
+            vegaEmbed('#Chart8', myChart8);
+            vegaEmbed('#Chart9', myChart9);
+            vegaEmbed('#Chart10', myChart10);
+            vegaEmbed('#Chart11', myChart11);
+            vegaEmbed('#Chart12', myChart12);
+            vegaEmbed('#Chart13', myChart13);
+            vegaEmbed('#Chart14', myChart14);
+            vegaEmbed('#Chart15', myChart15);
+            vegaEmbed('#Chart16', myChart16);
+            vegaEmbed('#Chart17', myChart17);
+            vegaEmbed('#Chart18', myChart18);
+            vegaEmbed('#Chart19', myChart19);
+            vegaEmbed('#Chart20', myChart20);
+            vegaEmbed('#Chart21', myChart21);
+            vegaEmbed('#Chart22', myChart22)
+
+
+
+
+
+
+
+        </script>
+
+        </html>
