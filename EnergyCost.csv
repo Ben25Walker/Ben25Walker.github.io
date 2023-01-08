@@ -1,124 +1,124 @@
 ,Year,Energy Source,Cost
-0,1983,Onshore wind ,0.32785082
-1,1984,Onshore wind ,0.32007387
-2,1985,Onshore wind ,0.2972214
-3,1986,Onshore wind ,0.2641942
-4,1987,Onshore wind ,0.2564197
-5,1988,Onshore wind ,0.21215738
-6,1989,Onshore wind ,0.19643468
-7,1990,Onshore wind ,0.2086876
-8,1991,Onshore wind ,0.20031708
-9,1992,Onshore wind ,0.20065267
-10,1993,Onshore wind ,0.21116926
-11,1994,Onshore wind ,0.1982574
-12,1995,Onshore wind ,0.20773248
-13,1996,Onshore wind ,0.18573205
-14,1997,Onshore wind ,0.16313075
-15,1998,Onshore wind ,0.15288077
-16,1999,Onshore wind ,0.15087588
-17,2000,Offshore wind ,0.1707826
-18,2000,Onshore wind ,0.16236141
-19,2001,Offshore wind ,0.16112547
-20,2001,Onshore wind ,0.14201893
-21,2002,Offshore wind ,0.13536467
-22,2002,Onshore wind ,0.13127674
-23,2003,Offshore wind ,0.12575519
-24,2003,Onshore wind ,0.11504814
-25,2004,Offshore wind ,0.17802335
-26,2004,Onshore wind ,0.116608016
-27,2005,Offshore wind ,0.15135488
-28,2005,Onshore wind ,0.10943693
-29,2006,Offshore wind ,0.14865257
-30,2006,Onshore wind ,0.11239332
-31,2007,Geothermal ,0.05007819
-32,2007,Offshore wind ,0.21350704
-33,2007,Onshore wind ,0.10228007
-34,2008,Geothermal ,0.055424795
-35,2008,Offshore wind ,0.21072298
-36,2008,Onshore wind ,0.10760544
-37,2009,Geothermal ,0.09531676
-38,2009,Offshore wind ,0.19494483
-39,2009,Onshore wind ,0.1053068
-40,2010,Bioenergy ,0.07818927
-41,2010,Geothermal ,0.05044529
-42,2010,Offshore wind ,0.18785676
-43,2010,Solar photovoltaic ,0.41714868
-44,2010,Concentrated solar power ,0.3580038
-45,2010,Hydropower ,0.038882706
-46,2010,Onshore wind ,0.102061465
-47,2011,Bioenergy ,0.056684334
-48,2011,Offshore wind ,0.19754878
-49,2011,Solar photovoltaic ,0.31129825
-50,2011,Concentrated solar power ,0.34665465
-51,2011,Hydropower ,0.03656066
-52,2011,Onshore wind ,0.09648669
-53,2012,Bioenergy ,0.06187914
-54,2012,Geothermal ,0.08569454
-55,2012,Offshore wind ,0.16660058
-56,2012,Solar photovoltaic ,0.23263325
-57,2012,Concentrated solar power ,0.3375742
-58,2012,Hydropower ,0.038037654
-59,2012,Onshore wind ,0.08839028
-60,2013,Bioenergy ,0.08219819
-61,2013,Geothermal ,0.06411118
-62,2013,Offshore wind ,0.16666164
-63,2013,Solar photovoltaic ,0.1794014
-64,2013,Concentrated solar power ,0.24888833
-65,2013,Hydropower ,0.042512473
-66,2013,Onshore wind ,0.08920628
-67,2014,Bioenergy ,0.08237512
-68,2014,Geothermal ,0.06533503
-69,2014,Offshore wind ,0.17219925
-70,2014,Solar photovoltaic ,0.16125813
-71,2014,Concentrated solar power ,0.21637706
-72,2014,Hydropower ,0.042456634
-73,2014,Onshore wind ,0.080203146
-74,2015,Bioenergy ,0.07277113
-75,2015,Geothermal ,0.05884901
-76,2015,Offshore wind ,0.14052741
-77,2015,Solar photovoltaic ,0.12107989
-78,2015,Concentrated solar power ,0.223889
-79,2015,Hydropower ,0.036572017
-80,2015,Onshore wind ,0.068961546
-81,2016,Bioenergy ,0.071178205
-82,2016,Geothermal ,0.06780182
-83,2016,Offshore wind ,0.11632308
-84,2016,Solar photovoltaic ,0.106340416
-85,2016,Concentrated solar power ,0.24726917
-86,2016,Hydropower ,0.04838911
-87,2016,Onshore wind ,0.06385536
-88,2017,Bioenergy ,0.07107003
-89,2017,Geothermal ,0.07091718
-90,2017,Offshore wind ,0.10615218
-91,2017,Solar photovoltaic ,0.083659746
-92,2017,Concentrated solar power ,0.20621318
-93,2017,Hydropower ,0.05072171
-94,2017,Onshore wind ,0.05995916
-95,2018,Bioenergy ,0.055360332
-96,2018,Geothermal ,0.06758344
-97,2018,Offshore wind ,0.10004871
-98,2018,Solar photovoltaic ,0.07113868
-99,2018,Concentrated solar power ,0.14910279
-100,2018,Hydropower ,0.039836742
-101,2018,Onshore wind ,0.05087996
-102,2019,Bioenergy ,0.06393309
-103,2019,Geothermal ,0.067305215
-104,2019,Offshore wind ,0.08638764
-105,2019,Solar photovoltaic ,0.062119152
-106,2019,Concentrated solar power ,0.21183106
-107,2019,Hydropower ,0.041408572
-108,2019,Onshore wind ,0.044592004
-109,2020,Bioenergy ,0.07247308
-110,2020,Geothermal ,0.054264043
-111,2020,Offshore wind ,0.08626575
-112,2020,Solar photovoltaic ,0.055443965
-113,2020,Concentrated solar power ,0.10665299
-114,2020,Hydropower ,0.045965873
-115,2020,Onshore wind ,0.03713682
-116,2021,Bioenergy ,0.067342535
-117,2021,Geothermal ,0.06761599
-118,2021,Offshore wind ,0.07516697
-119,2021,Solar photovoltaic ,0.04834554
-120,2021,Concentrated solar power ,0.11424175
-121,2021,Hydropower ,0.04829987
-122,2021,Onshore wind ,0.033123367
+0,1983,Onshore wind levelized cost of energy,0.32785082
+1,1984,Onshore wind levelized cost of energy,0.32007387
+2,1985,Onshore wind levelized cost of energy,0.2972214
+3,1986,Onshore wind levelized cost of energy,0.2641942
+4,1987,Onshore wind levelized cost of energy,0.2564197
+5,1988,Onshore wind levelized cost of energy,0.21215738
+6,1989,Onshore wind levelized cost of energy,0.19643468
+7,1990,Onshore wind levelized cost of energy,0.2086876
+8,1991,Onshore wind levelized cost of energy,0.20031708
+9,1992,Onshore wind levelized cost of energy,0.20065267
+10,1993,Onshore wind levelized cost of energy,0.21116926
+11,1994,Onshore wind levelized cost of energy,0.1982574
+12,1995,Onshore wind levelized cost of energy,0.20773248
+13,1996,Onshore wind levelized cost of energy,0.18573205
+14,1997,Onshore wind levelized cost of energy,0.16313075
+15,1998,Onshore wind levelized cost of energy,0.15288077
+16,1999,Onshore wind levelized cost of energy,0.15087588
+17,2000,Offshore wind levelized cost of energy,0.1707826
+18,2000,Onshore wind levelized cost of energy,0.16236141
+19,2001,Offshore wind levelized cost of energy,0.16112547
+20,2001,Onshore wind levelized cost of energy,0.14201893
+21,2002,Offshore wind levelized cost of energy,0.13536467
+22,2002,Onshore wind levelized cost of energy,0.13127674
+23,2003,Offshore wind levelized cost of energy,0.12575519
+24,2003,Onshore wind levelized cost of energy,0.11504814
+25,2004,Offshore wind levelized cost of energy,0.17802335
+26,2004,Onshore wind levelized cost of energy,0.116608016
+27,2005,Offshore wind levelized cost of energy,0.15135488
+28,2005,Onshore wind levelized cost of energy,0.10943693
+29,2006,Offshore wind levelized cost of energy,0.14865257
+30,2006,Onshore wind levelized cost of energy,0.11239332
+31,2007,Geothermal levelized cost of energy,0.05007819
+32,2007,Offshore wind levelized cost of energy,0.21350704
+33,2007,Onshore wind levelized cost of energy,0.10228007
+34,2008,Geothermal levelized cost of energy,0.055424795
+35,2008,Offshore wind levelized cost of energy,0.21072298
+36,2008,Onshore wind levelized cost of energy,0.10760544
+37,2009,Geothermal levelized cost of energy,0.09531676
+38,2009,Offshore wind levelized cost of energy,0.19494483
+39,2009,Onshore wind levelized cost of energy,0.1053068
+40,2010,Bioenergy levelized cost of energy,0.07818927
+41,2010,Geothermal levelized cost of energy,0.05044529
+42,2010,Offshore wind levelized cost of energy,0.18785676
+43,2010,Solar photovoltaic levelized cost of energy,0.41714868
+44,2010,Concentrated solar power levelized cost of energy,0.3580038
+45,2010,Hydropower levelized cost of energy,0.038882706
+46,2010,Onshore wind levelized cost of energy,0.102061465
+47,2011,Bioenergy levelized cost of energy,0.056684334
+48,2011,Offshore wind levelized cost of energy,0.19754878
+49,2011,Solar photovoltaic levelized cost of energy,0.31129825
+50,2011,Concentrated solar power levelized cost of energy,0.34665465
+51,2011,Hydropower levelized cost of energy,0.03656066
+52,2011,Onshore wind levelized cost of energy,0.09648669
+53,2012,Bioenergy levelized cost of energy,0.06187914
+54,2012,Geothermal levelized cost of energy,0.08569454
+55,2012,Offshore wind levelized cost of energy,0.16660058
+56,2012,Solar photovoltaic levelized cost of energy,0.23263325
+57,2012,Concentrated solar power levelized cost of energy,0.3375742
+58,2012,Hydropower levelized cost of energy,0.038037654
+59,2012,Onshore wind levelized cost of energy,0.08839028
+60,2013,Bioenergy levelized cost of energy,0.08219819
+61,2013,Geothermal levelized cost of energy,0.06411118
+62,2013,Offshore wind levelized cost of energy,0.16666164
+63,2013,Solar photovoltaic levelized cost of energy,0.1794014
+64,2013,Concentrated solar power levelized cost of energy,0.24888833
+65,2013,Hydropower levelized cost of energy,0.042512473
+66,2013,Onshore wind levelized cost of energy,0.08920628
+67,2014,Bioenergy levelized cost of energy,0.08237512
+68,2014,Geothermal levelized cost of energy,0.06533503
+69,2014,Offshore wind levelized cost of energy,0.17219925
+70,2014,Solar photovoltaic levelized cost of energy,0.16125813
+71,2014,Concentrated solar power levelized cost of energy,0.21637706
+72,2014,Hydropower levelized cost of energy,0.042456634
+73,2014,Onshore wind levelized cost of energy,0.080203146
+74,2015,Bioenergy levelized cost of energy,0.07277113
+75,2015,Geothermal levelized cost of energy,0.05884901
+76,2015,Offshore wind levelized cost of energy,0.14052741
+77,2015,Solar photovoltaic levelized cost of energy,0.12107989
+78,2015,Concentrated solar power levelized cost of energy,0.223889
+79,2015,Hydropower levelized cost of energy,0.036572017
+80,2015,Onshore wind levelized cost of energy,0.068961546
+81,2016,Bioenergy levelized cost of energy,0.071178205
+82,2016,Geothermal levelized cost of energy,0.06780182
+83,2016,Offshore wind levelized cost of energy,0.11632308
+84,2016,Solar photovoltaic levelized cost of energy,0.106340416
+85,2016,Concentrated solar power levelized cost of energy,0.24726917
+86,2016,Hydropower levelized cost of energy,0.04838911
+87,2016,Onshore wind levelized cost of energy,0.06385536
+88,2017,Bioenergy levelized cost of energy,0.07107003
+89,2017,Geothermal levelized cost of energy,0.07091718
+90,2017,Offshore wind levelized cost of energy,0.10615218
+91,2017,Solar photovoltaic levelized cost of energy,0.083659746
+92,2017,Concentrated solar power levelized cost of energy,0.20621318
+93,2017,Hydropower levelized cost of energy,0.05072171
+94,2017,Onshore wind levelized cost of energy,0.05995916
+95,2018,Bioenergy levelized cost of energy,0.055360332
+96,2018,Geothermal levelized cost of energy,0.06758344
+97,2018,Offshore wind levelized cost of energy,0.10004871
+98,2018,Solar photovoltaic levelized cost of energy,0.07113868
+99,2018,Concentrated solar power levelized cost of energy,0.14910279
+100,2018,Hydropower levelized cost of energy,0.039836742
+101,2018,Onshore wind levelized cost of energy,0.05087996
+102,2019,Bioenergy levelized cost of energy,0.06393309
+103,2019,Geothermal levelized cost of energy,0.067305215
+104,2019,Offshore wind levelized cost of energy,0.08638764
+105,2019,Solar photovoltaic levelized cost of energy,0.062119152
+106,2019,Concentrated solar power levelized cost of energy,0.21183106
+107,2019,Hydropower levelized cost of energy,0.041408572
+108,2019,Onshore wind levelized cost of energy,0.044592004
+109,2020,Bioenergy levelized cost of energy,0.07247308
+110,2020,Geothermal levelized cost of energy,0.054264043
+111,2020,Offshore wind levelized cost of energy,0.08626575
+112,2020,Solar photovoltaic levelized cost of energy,0.055443965
+113,2020,Concentrated solar power levelized cost of energy,0.10665299
+114,2020,Hydropower levelized cost of energy,0.045965873
+115,2020,Onshore wind levelized cost of energy,0.03713682
+116,2021,Bioenergy levelized cost of energy,0.067342535
+117,2021,Geothermal levelized cost of energy,0.06761599
+118,2021,Offshore wind levelized cost of energy,0.07516697
+119,2021,Solar photovoltaic levelized cost of energy,0.04834554
+120,2021,Concentrated solar power levelized cost of energy,0.11424175
+121,2021,Hydropower levelized cost of energy,0.04829987
+122,2021,Onshore wind levelized cost of energy,0.033123367

@@ -1,206 +1,206 @@
-,countryiso3code,date,value,unit,obs_status,decimal,indicator.id,indicator.value,country.id,country.value
-2,SSF,2019,12.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-3,SSF,2018,12.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-4,SSF,2017,13.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-5,SSF,2016,13.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-6,SSF,2015,13.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-7,SSF,2014,13.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-8,SSF,2013,14.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-9,SSF,2012,14.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-10,SSF,2011,15.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-11,SSF,2010,15.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-12,SSF,2009,17.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-13,SSF,2008,17.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-14,SSF,2007,18.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-15,SSF,2006,19.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-16,SSF,2005,20.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-17,SSF,2004,21.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-18,SSF,2003,22.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-19,SSF,2002,23.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-20,SSF,2001,24.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-21,SSF,2000,25.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-22,SSF,1999,25.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-23,SSF,1998,25.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-24,SSF,1997,25.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-25,SSF,1996,26.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-26,SSF,1995,26.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-27,SSF,1994,27.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-28,SSF,1993,26.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-29,SSF,1992,25.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-30,SSF,1991,24.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-31,SSF,1990,23.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZG,Sub-Saharan Africa
-52,LCN,2019,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-53,LCN,2018,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-54,LCN,2017,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-55,LCN,2016,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-56,LCN,2015,1.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-57,LCN,2014,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-58,LCN,2013,1.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-59,LCN,2012,1.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-60,LCN,2011,2.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-61,LCN,2010,2.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-62,LCN,2009,2.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-63,LCN,2008,3.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-64,LCN,2007,3.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-65,LCN,2006,3.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-66,LCN,2005,4.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-67,LCN,2004,4.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-68,LCN,2003,4.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-69,LCN,2002,5.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-70,LCN,2001,5.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-71,LCN,2000,5.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-72,LCN,1999,6.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-73,LCN,1998,6.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-74,LCN,1997,6.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-75,LCN,1996,7.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-76,LCN,1995,6.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-77,LCN,1994,6.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-78,LCN,1993,6.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-79,LCN,1992,6.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-80,LCN,1991,6.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-81,LCN,1990,7.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-82,LCN,1989,6.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-83,LCN,1988,7.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-84,LCN,1987,6.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-85,LCN,1986,5.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-86,LCN,1985,6.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-87,LCN,1984,7.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-88,LCN,1983,7.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-89,LCN,1982,6.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-90,LCN,1981,6.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZJ,Latin America & Caribbean
-102,SAS,2019,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-103,SAS,2018,1.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-104,SAS,2017,2.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-105,SAS,2016,3.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-106,SAS,2015,3.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-107,SAS,2014,3.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-108,SAS,2013,3.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-109,SAS,2012,3.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-110,SAS,2011,4.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-111,SAS,2010,5.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-112,SAS,2009,6.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-113,SAS,2008,6.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-114,SAS,2007,7.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-115,SAS,2006,7.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-116,SAS,2005,8.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-117,SAS,2004,8.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-118,SAS,2003,9.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-119,SAS,2002,9.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-125,SAS,1996,10.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-126,SAS,1995,11.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-127,SAS,1994,12.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-128,SAS,1993,12.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-129,SAS,1992,12.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-130,SAS,1991,13.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-131,SAS,1990,14.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-132,SAS,1989,14.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-133,SAS,1988,14.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-134,SAS,1987,15.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-135,SAS,1986,15.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-136,SAS,1985,16.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-137,SAS,1984,17.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-138,SAS,1983,18.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-139,SAS,1982,19.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-140,SAS,1981,19.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),8S,South Asia
-153,MEA,2018,2.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-154,MEA,2017,1.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-155,MEA,2016,1.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-156,MEA,2015,1.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-157,MEA,2014,0.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-158,MEA,2013,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-159,MEA,2012,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-160,MEA,2011,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-161,MEA,2010,0.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-162,MEA,2009,0.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-163,MEA,2008,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-164,MEA,2007,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-165,MEA,2006,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-166,MEA,2005,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-167,MEA,2004,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-168,MEA,2003,0.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-170,MEA,2001,0.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-171,MEA,2000,0.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-172,MEA,1999,0.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-173,MEA,1998,0.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-174,MEA,1997,0.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-175,MEA,1996,0.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-176,MEA,1995,1.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-177,MEA,1994,0.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-178,MEA,1993,1.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-179,MEA,1992,1.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-180,MEA,1991,1.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-181,MEA,1990,1.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-182,MEA,1989,1.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-183,MEA,1988,1.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-184,MEA,1987,1.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-185,MEA,1986,1.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-186,MEA,1985,1.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),ZQ,Middle East & North Africa
-202,ECS,2019,0.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-203,ECS,2018,0.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-204,ECS,2017,0.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-205,ECS,2016,0.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-206,ECS,2015,0.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-207,ECS,2014,1.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-208,ECS,2013,1.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-209,ECS,2012,1.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-210,ECS,2011,1.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-211,ECS,2010,1.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-212,ECS,2009,1.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-213,ECS,2008,1.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-214,ECS,2007,1.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-215,ECS,2006,2.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-216,ECS,2005,2.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-217,ECS,2004,2.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-218,ECS,2003,2.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-219,ECS,2002,2.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-220,ECS,2001,3.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-221,ECS,2000,3.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-222,ECS,1999,3.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-223,ECS,1998,2.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-224,ECS,1997,2.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-225,ECS,1996,2.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-226,ECS,1995,2.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-227,ECS,1994,2.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-228,ECS,1993,2.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-229,ECS,1992,1.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-230,ECS,1991,1.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-231,ECS,1990,1.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z7,Europe & Central Asia
-252,EAS,2019,0.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-253,EAS,2018,0.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-254,EAS,2017,0.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-255,EAS,2016,0.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-256,EAS,2015,0.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-257,EAS,2014,0.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-258,EAS,2013,0.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-259,EAS,2012,1.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-260,EAS,2011,2.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-261,EAS,2010,3.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-262,EAS,2009,4.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-263,EAS,2008,4.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-264,EAS,2007,5.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-265,EAS,2006,5.8,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-266,EAS,2005,5.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-267,EAS,2004,7.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-268,EAS,2003,9.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-269,EAS,2002,10.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-270,EAS,2001,12.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-271,EAS,2000,13.0,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-272,EAS,1999,14.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-273,EAS,1998,16.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-274,EAS,1997,15.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-275,EAS,1996,15.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-276,EAS,1995,17.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-277,EAS,1994,19.3,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-278,EAS,1993,22.1,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-279,EAS,1992,23.5,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-280,EAS,1991,24.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-281,EAS,1990,25.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-282,EAS,1989,27.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-283,EAS,1988,21.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-284,EAS,1987,24.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-285,EAS,1986,26.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-286,EAS,1985,28.2,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-287,EAS,1984,30.7,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-288,EAS,1983,35.4,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-289,EAS,1982,38.9,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
-290,EAS,1981,41.6,,,1,SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),Z4,East Asia & Pacific
+,date,Poverty gap at $2.15 a day (2017 PPP) (%),Region
+2,2019,12.6,Sub-Saharan Africa
+3,2018,12.8,Sub-Saharan Africa
+4,2017,13.2,Sub-Saharan Africa
+5,2016,13.5,Sub-Saharan Africa
+6,2015,13.7,Sub-Saharan Africa
+7,2014,13.7,Sub-Saharan Africa
+8,2013,14.3,Sub-Saharan Africa
+9,2012,14.8,Sub-Saharan Africa
+10,2011,15.1,Sub-Saharan Africa
+11,2010,15.9,Sub-Saharan Africa
+12,2009,17.0,Sub-Saharan Africa
+13,2008,17.2,Sub-Saharan Africa
+14,2007,18.3,Sub-Saharan Africa
+15,2006,19.2,Sub-Saharan Africa
+16,2005,20.1,Sub-Saharan Africa
+17,2004,21.2,Sub-Saharan Africa
+18,2003,22.7,Sub-Saharan Africa
+19,2002,23.6,Sub-Saharan Africa
+20,2001,24.6,Sub-Saharan Africa
+21,2000,25.2,Sub-Saharan Africa
+22,1999,25.3,Sub-Saharan Africa
+23,1998,25.5,Sub-Saharan Africa
+24,1997,25.8,Sub-Saharan Africa
+25,1996,26.0,Sub-Saharan Africa
+26,1995,26.8,Sub-Saharan Africa
+27,1994,27.2,Sub-Saharan Africa
+28,1993,26.6,Sub-Saharan Africa
+29,1992,25.9,Sub-Saharan Africa
+30,1991,24.9,Sub-Saharan Africa
+31,1990,23.7,Sub-Saharan Africa
+52,2019,1.5,Latin America & Caribbean
+53,2018,1.5,Latin America & Caribbean
+54,2017,1.5,Latin America & Caribbean
+55,2016,1.5,Latin America & Caribbean
+56,2015,1.4,Latin America & Caribbean
+57,2014,1.5,Latin America & Caribbean
+58,2013,1.6,Latin America & Caribbean
+59,2012,1.9,Latin America & Caribbean
+60,2011,2.4,Latin America & Caribbean
+61,2010,2.6,Latin America & Caribbean
+62,2009,2.8,Latin America & Caribbean
+63,2008,3.0,Latin America & Caribbean
+64,2007,3.3,Latin America & Caribbean
+65,2006,3.4,Latin America & Caribbean
+66,2005,4.2,Latin America & Caribbean
+67,2004,4.3,Latin America & Caribbean
+68,2003,4.9,Latin America & Caribbean
+69,2002,5.0,Latin America & Caribbean
+70,2001,5.6,Latin America & Caribbean
+71,2000,5.9,Latin America & Caribbean
+72,1999,6.4,Latin America & Caribbean
+73,1998,6.4,Latin America & Caribbean
+74,1997,6.8,Latin America & Caribbean
+75,1996,7.2,Latin America & Caribbean
+76,1995,6.2,Latin America & Caribbean
+77,1994,6.3,Latin America & Caribbean
+78,1993,6.8,Latin America & Caribbean
+79,1992,6.9,Latin America & Caribbean
+80,1991,6.8,Latin America & Caribbean
+81,1990,7.2,Latin America & Caribbean
+82,1989,6.8,Latin America & Caribbean
+83,1988,7.0,Latin America & Caribbean
+84,1987,6.2,Latin America & Caribbean
+85,1986,5.0,Latin America & Caribbean
+86,1985,6.9,Latin America & Caribbean
+87,1984,7.4,Latin America & Caribbean
+88,1983,7.6,Latin America & Caribbean
+89,1982,6.4,Latin America & Caribbean
+90,1981,6.1,Latin America & Caribbean
+102,2019,1.5,South Asia
+103,2018,1.9,South Asia
+104,2017,2.4,South Asia
+105,2016,3.1,South Asia
+106,2015,3.3,South Asia
+107,2014,3.5,South Asia
+108,2013,3.7,South Asia
+109,2012,3.9,South Asia
+110,2011,4.4,South Asia
+111,2010,5.7,South Asia
+112,2009,6.5,South Asia
+113,2008,6.9,South Asia
+114,2007,7.3,South Asia
+115,2006,7.8,South Asia
+116,2005,8.3,South Asia
+117,2004,8.9,South Asia
+118,2003,9.4,South Asia
+119,2002,9.8,South Asia
+125,1996,10.8,South Asia
+126,1995,11.3,South Asia
+127,1994,12.0,South Asia
+128,1993,12.4,South Asia
+129,1992,12.9,South Asia
+130,1991,13.8,South Asia
+131,1990,14.3,South Asia
+132,1989,14.4,South Asia
+133,1988,14.7,South Asia
+134,1987,15.4,South Asia
+135,1986,15.9,South Asia
+136,1985,16.4,South Asia
+137,1984,17.2,South Asia
+138,1983,18.1,South Asia
+139,1982,19.0,South Asia
+140,1981,19.4,South Asia
+153,2018,2.3,Middle East & North Africa
+154,2017,1.8,Middle East & North Africa
+155,2016,1.6,Middle East & North Africa
+156,2015,1.3,Middle East & North Africa
+157,2014,0.6,Middle East & North Africa
+158,2013,0.5,Middle East & North Africa
+159,2012,0.5,Middle East & North Africa
+160,2011,0.5,Middle East & North Africa
+161,2010,0.4,Middle East & North Africa
+162,2009,0.4,Middle East & North Africa
+163,2008,0.5,Middle East & North Africa
+164,2007,0.5,Middle East & North Africa
+165,2006,0.5,Middle East & North Africa
+166,2005,0.5,Middle East & North Africa
+167,2004,0.5,Middle East & North Africa
+168,2003,0.6,Middle East & North Africa
+170,2001,0.7,Middle East & North Africa
+171,2000,0.7,Middle East & North Africa
+172,1999,0.8,Middle East & North Africa
+173,1998,0.8,Middle East & North Africa
+174,1997,0.9,Middle East & North Africa
+175,1996,0.9,Middle East & North Africa
+176,1995,1.0,Middle East & North Africa
+177,1994,0.9,Middle East & North Africa
+178,1993,1.0,Middle East & North Africa
+179,1992,1.0,Middle East & North Africa
+180,1991,1.3,Middle East & North Africa
+181,1990,1.2,Middle East & North Africa
+182,1989,1.5,Middle East & North Africa
+183,1988,1.6,Middle East & North Africa
+184,1987,1.6,Middle East & North Africa
+185,1986,1.4,Middle East & North Africa
+186,1985,1.4,Middle East & North Africa
+202,2019,0.7,Europe & Central Asia
+203,2018,0.7,Europe & Central Asia
+204,2017,0.8,Europe & Central Asia
+205,2016,0.9,Europe & Central Asia
+206,2015,0.9,Europe & Central Asia
+207,2014,1.1,Europe & Central Asia
+208,2013,1.0,Europe & Central Asia
+209,2012,1.2,Europe & Central Asia
+210,2011,1.3,Europe & Central Asia
+211,2010,1.4,Europe & Central Asia
+212,2009,1.4,Europe & Central Asia
+213,2008,1.6,Europe & Central Asia
+214,2007,1.8,Europe & Central Asia
+215,2006,2.1,Europe & Central Asia
+216,2005,2.3,Europe & Central Asia
+217,2004,2.4,Europe & Central Asia
+218,2003,2.8,Europe & Central Asia
+219,2002,2.6,Europe & Central Asia
+220,2001,3.0,Europe & Central Asia
+221,2000,3.3,Europe & Central Asia
+222,1999,3.4,Europe & Central Asia
+223,1998,2.8,Europe & Central Asia
+224,1997,2.9,Europe & Central Asia
+225,1996,2.9,Europe & Central Asia
+226,1995,2.8,Europe & Central Asia
+227,1994,2.7,Europe & Central Asia
+228,1993,2.1,Europe & Central Asia
+229,1992,1.8,Europe & Central Asia
+230,1991,1.3,Europe & Central Asia
+231,1990,1.2,Europe & Central Asia
+252,2019,0.2,East Asia & Pacific
+253,2018,0.3,East Asia & Pacific
+254,2017,0.4,East Asia & Pacific
+255,2016,0.4,East Asia & Pacific
+256,2015,0.5,East Asia & Pacific
+257,2014,0.7,East Asia & Pacific
+258,2013,0.8,East Asia & Pacific
+259,2012,1.9,East Asia & Pacific
+260,2011,2.4,East Asia & Pacific
+261,2010,3.3,East Asia & Pacific
+262,2009,4.0,East Asia & Pacific
+263,2008,4.7,East Asia & Pacific
+264,2007,5.0,East Asia & Pacific
+265,2006,5.8,East Asia & Pacific
+266,2005,5.9,East Asia & Pacific
+267,2004,7.7,East Asia & Pacific
+268,2003,9.2,East Asia & Pacific
+269,2002,10.7,East Asia & Pacific
+270,2001,12.1,East Asia & Pacific
+271,2000,13.0,East Asia & Pacific
+272,1999,14.4,East Asia & Pacific
+273,1998,16.1,East Asia & Pacific
+274,1997,15.3,East Asia & Pacific
+275,1996,15.1,East Asia & Pacific
+276,1995,17.1,East Asia & Pacific
+277,1994,19.3,East Asia & Pacific
+278,1993,22.1,East Asia & Pacific
+279,1992,23.5,East Asia & Pacific
+280,1991,24.7,East Asia & Pacific
+281,1990,25.6,East Asia & Pacific
+282,1989,27.2,East Asia & Pacific
+283,1988,21.7,East Asia & Pacific
+284,1987,24.7,East Asia & Pacific
+285,1986,26.7,East Asia & Pacific
+286,1985,28.2,East Asia & Pacific
+287,1984,30.7,East Asia & Pacific
+288,1983,35.4,East Asia & Pacific
+289,1982,38.9,East Asia & Pacific
+290,1981,41.6,East Asia & Pacific

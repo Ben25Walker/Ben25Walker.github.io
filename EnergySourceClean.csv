@@ -1,457 +1,514 @@
-,Date,Year,EnergySource,EnergyConsumption
-0,1965,,1 Geo Biomass,0.0
-1,1965,,3 Solar,0.0
-2,1965,,4 Wind,0.0
-3,1965,,5 Hydro,41.11881256
-4,1965,,2 Nuclear,0.0
-5,1965,,7 Gas,9.543754578
-6,1965,,6 Coal,323.4961243
-7,1965,,8 Oil,341.2627563
-8,1966,,1 Geo Biomass,0.0
-9,1966,,3 Solar,0.0
-10,1966,,4 Wind,0.0
-11,1966,,5 Hydro,45.86291504
-12,1966,,2 Nuclear,0.0
-13,1966,,7 Gas,10.66991615
-14,1966,,6 Coal,323.1221924
-15,1966,,8 Oil,369.4865723
-16,1967,,1 Geo Biomass,0.0
-17,1967,,3 Solar,0.0
-18,1967,,4 Wind,0.0
-19,1967,,5 Hydro,47.87553787
-20,1967,,2 Nuclear,0.0
-21,1967,,7 Gas,10.54566956
-22,1967,,6 Coal,330.2915649
-23,1967,,8 Oil,368.1252441
-24,1968,,1 Geo Biomass,0.0
-25,1968,,3 Solar,0.0
-26,1968,,4 Wind,0.0
-27,1968,,5 Hydro,56.00046921
-28,1968,,2 Nuclear,0.0
-29,1968,,7 Gas,10.68896961
-30,1968,,6 Coal,343.5129089
-31,1968,,8 Oil,389.1998596
-32,1969,,1 Geo Biomass,0.0
-33,1969,,3 Solar,0.0
-34,1969,,4 Wind,0.0
-35,1969,,5 Hydro,65.35208893
-36,1969,,2 Nuclear,0.0
-37,1969,,7 Gas,12.49199963
-38,1969,,6 Coal,346.6429443
-39,1969,,8 Oil,396.9228516
-40,1970,,1 Geo Biomass,0.0
-41,1970,,3 Solar,0.0
-42,1970,,4 Wind,0.0
-43,1970,,5 Hydro,81.70288086
-44,1970,,2 Nuclear,0.0
-45,1970,,7 Gas,15.52032471
-46,1970,,6 Coal,360.756897
-47,1970,,8 Oil,433.7723083
-48,1971,,1 Geo Biomass,0.164000005
-49,1971,,3 Solar,0.0
-50,1971,,4 Wind,0.0
-51,1971,,5 Hydro,76.92131805
-52,1971,,2 Nuclear,0.0
-53,1971,,7 Gas,18.4052639
-54,1971,,6 Coal,383.0123291
-55,1971,,8 Oil,473.5654297
-56,1972,,1 Geo Biomass,0.165000007
-57,1972,,3 Solar,0.0
-58,1972,,4 Wind,0.0
-59,1972,,5 Hydro,87.62504578
-60,1972,,2 Nuclear,0.0
-61,1972,,7 Gas,24.6706562
-62,1972,,6 Coal,384.2108154
-63,1972,,8 Oil,510.6726379
-64,1973,,1 Geo Biomass,0.170000002
-65,1973,,3 Solar,0.0
-66,1973,,4 Wind,0.0
-67,1973,,5 Hydro,92.68891907
-68,1973,,2 Nuclear,0.0
-69,1973,,7 Gas,39.55179214
-70,1973,,6 Coal,408.9103394
-71,1973,,8 Oil,549.7197876
-72,1974,,1 Geo Biomass,0.174999997
-73,1974,,3 Solar,0.0
-74,1974,,4 Wind,0.0
-75,1974,,5 Hydro,105.4671555
-76,1974,,2 Nuclear,0.0
-77,1974,,7 Gas,44.51848602
-78,1974,,6 Coal,425.6462097
-79,1974,,8 Oil,567.7996826
-80,1975,,1 Geo Biomass,0.172000006
-81,1975,,3 Solar,0.0
-82,1975,,4 Wind,0.0
-83,1975,,5 Hydro,111.5316315
-84,1975,,2 Nuclear,0.0
-85,1975,,7 Gas,53.63837814
-86,1975,,6 Coal,451.0805054
-87,1975,,8 Oil,596.4046631
-88,1976,,1 Geo Biomass,0.185000002
-89,1976,,3 Solar,0.0
-90,1976,,4 Wind,0.0
-91,1976,,5 Hydro,123.5951538
-92,1976,,2 Nuclear,0.0
-93,1976,,7 Gas,60.98139191
-94,1976,,6 Coal,481.0741577
-95,1976,,8 Oil,652.5804443
-96,1977,,1 Geo Biomass,0.188999996
-97,1977,,3 Solar,0.0
-98,1977,,4 Wind,0.0
-99,1977,,5 Hydro,135.8108673
-100,1977,,2 Nuclear,0.0
-101,1977,,7 Gas,68.23419189
-102,1977,,6 Coal,491.6984558
-103,1977,,8 Oil,695.1663208
-104,1978,,1 Geo Biomass,0.194999993
-105,1978,,3 Solar,0.0
-106,1978,,4 Wind,0.0
-107,1978,,5 Hydro,136.9291229
-108,1978,,2 Nuclear,0.0
-109,1978,,7 Gas,97.36990356
-110,1978,,6 Coal,477.8155823
-111,1978,,8 Oil,732.1810303
-112,1979,,1 Geo Biomass,0.201000005
-113,1979,,3 Solar,0.0
-114,1979,,4 Wind,0.0
-115,1979,,5 Hydro,146.563858
-116,1979,,2 Nuclear,0.0
-117,1979,,7 Gas,148.8428192
-118,1979,,6 Coal,507.2469788
-119,1979,,8 Oil,770.9386597
-120,1980,,1 Geo Biomass,0.207000002
-121,1980,,3 Solar,0.0
-122,1980,,4 Wind,0.0
-123,1980,,5 Hydro,142.8574219
-124,1980,,2 Nuclear,0.0
-125,1980,,7 Gas,186.9139709
-126,1980,,6 Coal,543.5570679
-127,1980,,8 Oil,817.2388916
-128,1981,,1 Geo Biomass,0.217999995
-129,1981,,3 Solar,0.0
-130,1981,,4 Wind,0.0
-131,1981,,5 Hydro,148.4198914
-132,1981,,2 Nuclear,0.0
-133,1981,,7 Gas,228.4911652
-134,1981,,6 Coal,635.7987671
-135,1981,,8 Oil,883.8618774
-136,1982,,1 Geo Biomass,0.236000001
-137,1982,,3 Solar,0.0
-138,1982,,4 Wind,0.0
-139,1982,,5 Hydro,148.4593048
-140,1982,,2 Nuclear,0.0
-141,1982,,7 Gas,246.733551
-142,1982,,6 Coal,701.1759033
-143,1982,,8 Oil,925.2272339
-144,1983,,1 Geo Biomass,0.230000004
-145,1983,,3 Solar,0.0
-146,1983,,4 Wind,0.0
-147,1983,,5 Hydro,133.7953644
-148,1983,,2 Nuclear,0.0
-149,1983,,7 Gas,271.2753296
-150,1983,,6 Coal,713.2460327
-151,1983,,8 Oil,964.5521851
-152,1984,,1 Geo Biomass,0.233999997
-153,1984,,3 Solar,0.0
-154,1984,,4 Wind,0.0
-155,1984,,5 Hydro,131.556366
-156,1984,,2 Nuclear,11.13724613
-157,1984,,7 Gas,259.902771
-158,1984,,6 Coal,762.8978271
-159,1984,,8 Oil,981.7520752
-160,1985,,1 Geo Biomass,0.268999994
-161,1985,,3 Solar,0.0
-162,1985,,4 Wind,0.0
-163,1985,,5 Hydro,146.2221832
-164,1985,,2 Nuclear,15.08139229
-165,1985,,7 Gas,278.8427429
-166,1985,,6 Coal,787.1658936
-167,1985,,8 Oil,1007.091858
-168,1986,,1 Geo Biomass,0.658999979
-169,1986,,3 Solar,0.0
-170,1986,,4 Wind,0.0
-171,1986,,5 Hydro,151.2363129
-172,1986,,2 Nuclear,24.97864342
-173,1986,,7 Gas,313.2712097
-174,1986,,6 Coal,805.3560791
-175,1986,,8 Oil,988.5931396
-176,1987,,1 Geo Biomass,0.657999992
-177,1987,,3 Solar,0.0
-178,1987,,4 Wind,0.0
-179,1987,,5 Hydro,145.0594177
-180,1987,,2 Nuclear,17.49895477
-181,1987,,7 Gas,323.3843689
-182,1987,,6 Coal,828.3197021
-183,1987,,8 Oil,1042.068604
-184,1988,,1 Geo Biomass,0.625999987
-185,1988,,3 Solar,0.0
-186,1988,,4 Wind,0.0
-187,1988,,5 Hydro,158.4752808
-188,1988,,2 Nuclear,29.77404404
-189,1988,,7 Gas,358.4445496
-190,1988,,6 Coal,890.1607666
-191,1988,,8 Oil,1086.268188
-192,1989,,1 Geo Biomass,0.616999984
-193,1989,,3 Solar,0.0
-194,1989,,4 Wind,0.0
-195,1989,,5 Hydro,166.4081573
-196,1989,,2 Nuclear,31.49357796
-197,1989,,7 Gas,371.4710388
-198,1989,,6 Coal,835.6208496
-199,1989,,8 Oil,1123.926514
-200,1990,,1 Geo Biomass,0.796000004
-201,1990,,3 Solar,0.0
-202,1990,,4 Wind,0.0
-203,1990,,5 Hydro,169.3014069
-204,1990,,2 Nuclear,23.97416306
-205,1990,,7 Gas,398.6453857
-206,1990,,6 Coal,877.6782837
-207,1990,,8 Oil,1142.402832
-208,1991,,1 Geo Biomass,0.811999977
-209,1991,,3 Solar,0.0
-210,1991,,4 Wind,0.0
-211,1991,,5 Hydro,179.3458099
-212,1991,,2 Nuclear,25.94623756
-213,1991,,7 Gas,401.6355896
-214,1991,,6 Coal,853.762146
-215,1991,,8 Oil,1148.7052
-216,1992,,1 Geo Biomass,0.84224999
-217,1992,,3 Solar,0.0
-218,1992,,4 Wind,0.0
-219,1992,,5 Hydro,171.0922546
-220,1992,,2 Nuclear,26.35483932
-221,1992,,7 Gas,421.2702637
-222,1992,,6 Coal,858.8311768
-223,1992,,8 Oil,1170.524658
-224,1993,,1 Geo Biomass,0.937699974
-225,1993,,3 Solar,0.0
-226,1993,,4 Wind,0.005916667
-227,1993,,5 Hydro,167.6095581
-228,1993,,2 Nuclear,20.5861702
-229,1993,,7 Gas,412.6439819
-230,1993,,6 Coal,871.7139282
-231,1993,,8 Oil,1180.07666
-232,1994,,1 Geo Biomass,0.834999979
-233,1994,,3 Solar,0.0
-234,1994,,4 Wind,0.015972223
-235,1994,,5 Hydro,170.3108978
-236,1994,,2 Nuclear,27.51538277
-237,1994,,7 Gas,431.8279419
-238,1994,,6 Coal,894.4478149
-239,1994,,8 Oil,1221.884644
-240,1995,,1 Geo Biomass,1.018700004
-241,1995,,3 Solar,0.0
-242,1995,,4 Wind,0.018638888
-243,1995,,5 Hydro,176.7359161
-244,1995,,2 Nuclear,32.06675339
-245,1995,,7 Gas,461.2434998
-246,1995,,6 Coal,922.4712524
-247,1995,,8 Oil,1266.781738
-248,1996,,1 Geo Biomass,1.258092999
-249,1996,,3 Solar,0.0
-250,1996,,4 Wind,0.021
-251,1996,,5 Hydro,184.269104
-252,1996,,2 Nuclear,33.41173935
-253,1996,,7 Gas,484.1917725
-254,1996,,6 Coal,935.2282104
-255,1996,,8 Oil,1293.971191
-256,1997,,1 Geo Biomass,1.386640429
-257,1997,,3 Solar,0.0
-258,1997,,4 Wind,0.021277778
-259,1997,,5 Hydro,188.8111572
-260,1997,,2 Nuclear,35.88605118
-261,1997,,7 Gas,474.4755249
-262,1997,,6 Coal,959.019104
-263,1997,,8 Oil,1332.273071
-264,1998,,1 Geo Biomass,1.71254921
-265,1998,,3 Solar,0.0
-266,1998,,4 Wind,0.022472221
-267,1998,,5 Hydro,197.0977936
-268,1998,,2 Nuclear,38.59304047
-269,1998,,7 Gas,499.3369751
-270,1998,,6 Coal,937.0389404
-271,1998,,8 Oil,1363.508667
-272,1999,,1 Geo Biomass,1.696124792
-273,1999,,3 Solar,0.0
-274,1999,,4 Wind,0.058539443
-275,1999,,5 Hydro,209.0126038
-276,1999,,2 Nuclear,36.42517853
-277,1999,,7 Gas,504.0196228
-278,1999,,6 Coal,966.0106812
-279,1999,,8 Oil,1414.560181
-280,2000,,1 Geo Biomass,2.269063234
-281,2000,,3 Solar,0.035313889
-282,2000,,4 Wind,0.518951416
-283,2000,,5 Hydro,222.5306396
-284,2000,,2 Nuclear,36.91606903
-285,2000,,7 Gas,556.8223877
-286,2000,,6 Coal,963.7305908
-287,2000,,8 Oil,1420.386475
-288,2001,,1 Geo Biomass,2.335352659
-289,2001,,3 Solar,0.043955833
-290,2001,,4 Wind,1.220885873
-291,2001,,5 Hydro,237.5763092
-292,2001,,2 Nuclear,30.21781921
-293,2001,,7 Gas,634.6361694
-294,2001,,6 Coal,975.9262695
-295,2001,,8 Oil,1432.664307
-296,2002,,1 Geo Biomass,2.28640008
-297,2002,,3 Solar,0.049043614
-298,2002,,4 Wind,1.294748068
-299,2002,,5 Hydro,248.1781921
-300,2002,,2 Nuclear,33.58561325
-301,2002,,7 Gas,670.6054077
-302,2002,,6 Coal,934.4215698
-303,2002,,8 Oil,1479.166504
-304,2003,,1 Geo Biomass,2.622400045
-305,2003,,3 Solar,0.058158889
-306,2003,,4 Wind,1.553291917
-307,2003,,5 Hydro,239.476593
-308,2003,,2 Nuclear,35.24045944
-309,2003,,7 Gas,711.5067139
-310,2003,,6 Coal,1017.048401
-311,2003,,8 Oil,1524.815063
-312,2004,,1 Geo Biomass,2.978849649
-313,2004,,3 Solar,0.070790559
-314,2004,,4 Wind,2.213917017
-315,2004,,5 Hydro,251.3361664
-316,2004,,2 Nuclear,36.95752716
-317,2004,,7 Gas,783.0681763
-318,2004,,6 Coal,1119.161865
-319,2004,,8 Oil,1586.510742
-320,2005,,1 Geo Biomass,3.009669304
-321,2005,,3 Solar,0.084134445
-322,2005,,4 Wind,2.234556675
-323,2005,,5 Hydro,254.3791809
-324,2005,,2 Nuclear,31.02905273
-325,2005,,7 Gas,807.7815552
-326,2005,,6 Coal,1039.072632
-327,2005,,8 Oil,1654.919189
-328,2006,,1 Geo Biomass,3.770404816
-329,2006,,3 Solar,0.107861668
-330,2006,,4 Wind,2.425894022
-331,2006,,5 Hydro,261.9176636
-332,2006,,2 Nuclear,27.37537956
-333,2006,,7 Gas,843.4420776
-334,2006,,6 Coal,1054.097046
-335,2006,,8 Oil,1673.716797
-336,2007,,1 Geo Biomass,3.142048359
-337,2007,,3 Solar,0.142732784
-338,2007,,4 Wind,2.873494387
-339,2007,,5 Hydro,269.1854553
-340,2007,,2 Nuclear,30.70724869
-341,2007,,7 Gas,900.0696411
-342,2007,,6 Coal,1071.633301
-343,2007,,8 Oil,1734.740723
-344,2008,,1 Geo Biomass,3.267395735
-345,2008,,3 Solar,0.204168335
-346,2008,,4 Wind,3.686172962
-347,2008,,5 Hydro,272.48349
-348,2008,,2 Nuclear,35.06555176
-349,2008,,7 Gas,935.1621094
-350,2008,,6 Coal,1180.725098
-351,2008,,8 Oil,1824.850952
-352,2009,,1 Geo Biomass,3.562722206
-353,2009,,3 Solar,0.267598331
-354,2009,,4 Wind,4.438264847
-355,2009,,5 Hydro,278.0455933
-356,2009,,2 Nuclear,34.31848145
-357,2009,,7 Gas,940.8606567
-358,2009,,6 Coal,1176.002075
-359,2009,,8 Oil,1885.976318
-360,2010,,1 Geo Biomass,3.76455307
-361,2010,,3 Solar,0.59966141
-362,2010,,4 Wind,6.341038704
-363,2010,,5 Hydro,298.9256287
-364,2010,,2 Nuclear,36.02827454
-365,2010,,7 Gas,980.7318115
-366,2010,,6 Coal,1164.840088
-367,2010,,8 Oil,1966.2146
-368,2011,,1 Geo Biomass,3.858768463
-369,2011,,3 Solar,1.660955548
-370,2011,,4 Wind,6.58354044
-371,2011,,5 Hydro,305.5223999
-372,2011,,2 Nuclear,34.1540947
-373,2011,,7 Gas,1060.526978
-374,2011,,6 Coal,1147.299316
-375,2011,,8 Oil,1934.170898
-376,2012,,1 Geo Biomass,4.042406559
-377,2012,,3 Solar,2.721807241
-378,2012,,4 Wind,6.897696018
-379,2012,,5 Hydro,304.9770508
-380,2012,,2 Nuclear,34.11926651
-381,2012,,7 Gas,1146.770386
-382,2012,,6 Coal,1118.487061
-383,2012,,8 Oil,2046.829956
-384,2013,,1 Geo Biomass,4.433248997
-385,2013,,3 Solar,2.146321058
-386,2013,,4 Wind,9.793644905
-387,2013,,5 Hydro,320.6520691
-388,2013,,2 Nuclear,36.89141464
-389,2013,,7 Gas,1169.745483
-390,2013,,6 Coal,1130.160645
-391,2013,,8 Oil,2121.441406
-392,2014,,1 Geo Biomass,5.4620471
-393,2014,,3 Solar,5.158529282
-394,2014,,4 Wind,13.70823193
-395,2014,,5 Hydro,336.1504211
-396,2014,,2 Nuclear,35.85942459
-397,2014,,7 Gas,1202.319946
-398,2014,,6 Coal,1183.80603
-399,2014,,8 Oil,2143.333496
-400,2015,,1 Geo Biomass,7.169681549
-401,2015,,3 Solar,8.775348663
-402,2015,,4 Wind,23.99623108
-403,2015,,5 Hydro,324.2737122
-404,2015,,2 Nuclear,31.62243271
-405,2015,,7 Gas,1325.359863
-406,2015,,6 Coal,1119.038574
-407,2015,,8 Oil,2199.14502
-408,2016,,1 Geo Biomass,7.231852055
-409,2016,,3 Solar,14.41341496
-410,2016,,4 Wind,29.9195652
-411,2016,,5 Hydro,314.3547668
-412,2016,,2 Nuclear,38.59990692
-413,2016,,7 Gas,1370.495117
-414,2016,,6 Coal,1186.287964
-415,2016,,8 Oil,2210.926025
-416,2017,,1 Geo Biomass,7.62603569
-417,2017,,3 Solar,20.68731308
-418,2017,,4 Wind,33.1529007
-419,2017,,5 Hydro,336.2319031
-420,2017,,2 Nuclear,36.24556351
-421,2017,,7 Gas,1448.744873
-422,2017,,6 Coal,1185.067139
-423,2017,,8 Oil,2233.089844
-424,2018,,1 Geo Biomass,8.172670364
-425,2018,,3 Solar,26.59893036
-426,2018,,4 Wind,39.07558823
-427,2018,,5 Hydro,356.1150818
-428,2018,,2 Nuclear,29.39964104
-429,2018,,7 Gas,1543.550781
-430,2018,,6 Coal,1163.599854
-431,2018,,8 Oil,2257.501953
-432,2019,,1 Geo Biomass,8.262966156
-433,2019,,3 Solar,33.98899078
-434,2019,,4 Wind,50.95765305
-435,2019,,5 Hydro,367.500946
-436,2019,,2 Nuclear,34.3906517
-437,2019,,7 Gas,1549.72998
-438,2019,,6 Coal,1231.316772
-439,2019,,8 Oil,2262.036133
-440,2020,,1 Geo Biomass,8.066415787
-441,2020,,3 Solar,42.1750679
-442,2020,,4 Wind,55.9475708
-443,2020,,5 Hydro,384.4180298
-444,2020,,2 Nuclear,35.15513611
-445,2020,,7 Gas,1535.972412
-446,2020,,6 Coal,1157.901123
-447,2020,,8 Oil,2011.052612
-448,2021,,1 Geo Biomass,8.026316643
-449,2021,,3 Solar,43.2150383
-450,2021,,4 Wind,63.88870239
-451,2021,,5 Hydro,401.4471436
-452,2021,,2 Nuclear,26.17469978
-453,2021,,7 Gas,1643.815063
-454,2021,,6 Coal,1168.740601
-455,2021,,8 Oil,2183.541992
+,Date,Year,Energy Source,Energy Consumption
+0,1965,,Geo Biomass Other,0.0
+1,1965,,Biofuels Consumption - TWh -,0.0
+2,1965,,Solar Consumption,0.0
+3,1965,,Wind Consumption,0.0
+4,1965,,Hydro Consumption,41.11881256
+5,1965,,Nuclear Consumption,0.0
+6,1965,,Gas Consumption,9.543754578
+7,1965,,Coal Consumption,323.4961243
+8,1965,,Oil Consumption,341.2627563
+9,1966,,Geo Biomass Other,0.0
+10,1966,,Biofuels Consumption - TWh -,0.0
+11,1966,,Solar Consumption,0.0
+12,1966,,Wind Consumption,0.0
+13,1966,,Hydro Consumption,45.86291504
+14,1966,,Nuclear Consumption,0.0
+15,1966,,Gas Consumption,10.66991615
+16,1966,,Coal Consumption,323.1221924
+17,1966,,Oil Consumption,369.4865723
+18,1967,,Geo Biomass Other,0.0
+19,1967,,Biofuels Consumption - TWh -,0.0
+20,1967,,Solar Consumption,0.0
+21,1967,,Wind Consumption,0.0
+22,1967,,Hydro Consumption,47.87553787
+23,1967,,Nuclear Consumption,0.0
+24,1967,,Gas Consumption,10.54566956
+25,1967,,Coal Consumption,330.2915649
+26,1967,,Oil Consumption,368.1252441
+27,1968,,Geo Biomass Other,0.0
+28,1968,,Biofuels Consumption - TWh -,0.0
+29,1968,,Solar Consumption,0.0
+30,1968,,Wind Consumption,0.0
+31,1968,,Hydro Consumption,56.00046921
+32,1968,,Nuclear Consumption,0.0
+33,1968,,Gas Consumption,10.68896961
+34,1968,,Coal Consumption,343.5129089
+35,1968,,Oil Consumption,389.1998596
+36,1969,,Geo Biomass Other,0.0
+37,1969,,Biofuels Consumption - TWh -,0.0
+38,1969,,Solar Consumption,0.0
+39,1969,,Wind Consumption,0.0
+40,1969,,Hydro Consumption,65.35208893
+41,1969,,Nuclear Consumption,0.0
+42,1969,,Gas Consumption,12.49199963
+43,1969,,Coal Consumption,346.6429443
+44,1969,,Oil Consumption,396.9228516
+45,1970,,Geo Biomass Other,0.0
+46,1970,,Biofuels Consumption - TWh -,0.0
+47,1970,,Solar Consumption,0.0
+48,1970,,Wind Consumption,0.0
+49,1970,,Hydro Consumption,81.70288086
+50,1970,,Nuclear Consumption,0.0
+51,1970,,Gas Consumption,15.52032471
+52,1970,,Coal Consumption,360.756897
+53,1970,,Oil Consumption,433.7723083
+54,1971,,Geo Biomass Other,0.164000005
+55,1971,,Biofuels Consumption - TWh -,0.0
+56,1971,,Solar Consumption,0.0
+57,1971,,Wind Consumption,0.0
+58,1971,,Hydro Consumption,76.92131805
+59,1971,,Nuclear Consumption,0.0
+60,1971,,Gas Consumption,18.4052639
+61,1971,,Coal Consumption,383.0123291
+62,1971,,Oil Consumption,473.5654297
+63,1972,,Geo Biomass Other,0.165000007
+64,1972,,Biofuels Consumption - TWh -,0.0
+65,1972,,Solar Consumption,0.0
+66,1972,,Wind Consumption,0.0
+67,1972,,Hydro Consumption,87.62504578
+68,1972,,Nuclear Consumption,0.0
+69,1972,,Gas Consumption,24.6706562
+70,1972,,Coal Consumption,384.2108154
+71,1972,,Oil Consumption,510.6726379
+72,1973,,Geo Biomass Other,0.170000002
+73,1973,,Biofuels Consumption - TWh -,0.0
+74,1973,,Solar Consumption,0.0
+75,1973,,Wind Consumption,0.0
+76,1973,,Hydro Consumption,92.68891907
+77,1973,,Nuclear Consumption,0.0
+78,1973,,Gas Consumption,39.55179214
+79,1973,,Coal Consumption,408.9103394
+80,1973,,Oil Consumption,549.7197876
+81,1974,,Geo Biomass Other,0.174999997
+82,1974,,Biofuels Consumption - TWh -,0.0
+83,1974,,Solar Consumption,0.0
+84,1974,,Wind Consumption,0.0
+85,1974,,Hydro Consumption,105.4671555
+86,1974,,Nuclear Consumption,0.0
+87,1974,,Gas Consumption,44.51848602
+88,1974,,Coal Consumption,425.6462097
+89,1974,,Oil Consumption,567.7996826
+90,1975,,Geo Biomass Other,0.172000006
+91,1975,,Biofuels Consumption - TWh -,0.0
+92,1975,,Solar Consumption,0.0
+93,1975,,Wind Consumption,0.0
+94,1975,,Hydro Consumption,111.5316315
+95,1975,,Nuclear Consumption,0.0
+96,1975,,Gas Consumption,53.63837814
+97,1975,,Coal Consumption,451.0805054
+98,1975,,Oil Consumption,596.4046631
+99,1976,,Geo Biomass Other,0.185000002
+100,1976,,Biofuels Consumption - TWh -,0.0
+101,1976,,Solar Consumption,0.0
+102,1976,,Wind Consumption,0.0
+103,1976,,Hydro Consumption,123.5951538
+104,1976,,Nuclear Consumption,0.0
+105,1976,,Gas Consumption,60.98139191
+106,1976,,Coal Consumption,481.0741577
+107,1976,,Oil Consumption,652.5804443
+108,1977,,Geo Biomass Other,0.188999996
+109,1977,,Biofuels Consumption - TWh -,0.0
+110,1977,,Solar Consumption,0.0
+111,1977,,Wind Consumption,0.0
+112,1977,,Hydro Consumption,135.8108673
+113,1977,,Nuclear Consumption,0.0
+114,1977,,Gas Consumption,68.23419189
+115,1977,,Coal Consumption,491.6984558
+116,1977,,Oil Consumption,695.1663208
+117,1978,,Geo Biomass Other,0.194999993
+118,1978,,Biofuels Consumption - TWh -,0.0
+119,1978,,Solar Consumption,0.0
+120,1978,,Wind Consumption,0.0
+121,1978,,Hydro Consumption,136.9291229
+122,1978,,Nuclear Consumption,0.0
+123,1978,,Gas Consumption,97.36990356
+124,1978,,Coal Consumption,477.8155823
+125,1978,,Oil Consumption,732.1810303
+126,1979,,Geo Biomass Other,0.201000005
+127,1979,,Biofuels Consumption - TWh -,0.0
+128,1979,,Solar Consumption,0.0
+129,1979,,Wind Consumption,0.0
+130,1979,,Hydro Consumption,146.563858
+131,1979,,Nuclear Consumption,0.0
+132,1979,,Gas Consumption,148.8428192
+133,1979,,Coal Consumption,507.2469788
+134,1979,,Oil Consumption,770.9386597
+135,1980,,Geo Biomass Other,0.207000002
+136,1980,,Biofuels Consumption - TWh -,0.0
+137,1980,,Solar Consumption,0.0
+138,1980,,Wind Consumption,0.0
+139,1980,,Hydro Consumption,142.8574219
+140,1980,,Nuclear Consumption,0.0
+141,1980,,Gas Consumption,186.9139709
+142,1980,,Coal Consumption,543.5570679
+143,1980,,Oil Consumption,817.2388916
+144,1981,,Geo Biomass Other,0.217999995
+145,1981,,Biofuels Consumption - TWh -,0.0
+146,1981,,Solar Consumption,0.0
+147,1981,,Wind Consumption,0.0
+148,1981,,Hydro Consumption,148.4198914
+149,1981,,Nuclear Consumption,0.0
+150,1981,,Gas Consumption,228.4911652
+151,1981,,Coal Consumption,635.7987671
+152,1981,,Oil Consumption,883.8618774
+153,1982,,Geo Biomass Other,0.236000001
+154,1982,,Biofuels Consumption - TWh -,0.0
+155,1982,,Solar Consumption,0.0
+156,1982,,Wind Consumption,0.0
+157,1982,,Hydro Consumption,148.4593048
+158,1982,,Nuclear Consumption,0.0
+159,1982,,Gas Consumption,246.733551
+160,1982,,Coal Consumption,701.1759033
+161,1982,,Oil Consumption,925.2272339
+162,1983,,Geo Biomass Other,0.230000004
+163,1983,,Biofuels Consumption - TWh -,0.0
+164,1983,,Solar Consumption,0.0
+165,1983,,Wind Consumption,0.0
+166,1983,,Hydro Consumption,133.7953644
+167,1983,,Nuclear Consumption,0.0
+168,1983,,Gas Consumption,271.2753296
+169,1983,,Coal Consumption,713.2460327
+170,1983,,Oil Consumption,964.5521851
+171,1984,,Geo Biomass Other,0.233999997
+172,1984,,Biofuels Consumption - TWh -,0.0
+173,1984,,Solar Consumption,0.0
+174,1984,,Wind Consumption,0.0
+175,1984,,Hydro Consumption,131.556366
+176,1984,,Nuclear Consumption,11.13724613
+177,1984,,Gas Consumption,259.902771
+178,1984,,Coal Consumption,762.8978271
+179,1984,,Oil Consumption,981.7520752
+180,1985,,Geo Biomass Other,0.268999994
+181,1985,,Biofuels Consumption - TWh -,0.0
+182,1985,,Solar Consumption,0.0
+183,1985,,Wind Consumption,0.0
+184,1985,,Hydro Consumption,146.2221832
+185,1985,,Nuclear Consumption,15.08139229
+186,1985,,Gas Consumption,278.8427429
+187,1985,,Coal Consumption,787.1658936
+188,1985,,Oil Consumption,1007.091858
+189,1986,,Geo Biomass Other,0.658999979
+190,1986,,Biofuels Consumption - TWh -,0.0
+191,1986,,Solar Consumption,0.0
+192,1986,,Wind Consumption,0.0
+193,1986,,Hydro Consumption,151.2363129
+194,1986,,Nuclear Consumption,24.97864342
+195,1986,,Gas Consumption,313.2712097
+196,1986,,Coal Consumption,805.3560791
+197,1986,,Oil Consumption,988.5931396
+198,1987,,Geo Biomass Other,0.657999992
+199,1987,,Biofuels Consumption - TWh -,0.0
+200,1987,,Solar Consumption,0.0
+201,1987,,Wind Consumption,0.0
+202,1987,,Hydro Consumption,145.0594177
+203,1987,,Nuclear Consumption,17.49895477
+204,1987,,Gas Consumption,323.3843689
+205,1987,,Coal Consumption,828.3197021
+206,1987,,Oil Consumption,1042.068604
+207,1988,,Geo Biomass Other,0.625999987
+208,1988,,Biofuels Consumption - TWh -,0.0
+209,1988,,Solar Consumption,0.0
+210,1988,,Wind Consumption,0.0
+211,1988,,Hydro Consumption,158.4752808
+212,1988,,Nuclear Consumption,29.77404404
+213,1988,,Gas Consumption,358.4445496
+214,1988,,Coal Consumption,890.1607666
+215,1988,,Oil Consumption,1086.268188
+216,1989,,Geo Biomass Other,0.616999984
+217,1989,,Biofuels Consumption - TWh -,0.0
+218,1989,,Solar Consumption,0.0
+219,1989,,Wind Consumption,0.0
+220,1989,,Hydro Consumption,166.4081573
+221,1989,,Nuclear Consumption,31.49357796
+222,1989,,Gas Consumption,371.4710388
+223,1989,,Coal Consumption,835.6208496
+224,1989,,Oil Consumption,1123.926514
+225,1990,,Geo Biomass Other,0.796000004
+226,1990,,Biofuels Consumption - TWh -,0.0
+227,1990,,Solar Consumption,0.0
+228,1990,,Wind Consumption,0.0
+229,1990,,Hydro Consumption,169.3014069
+230,1990,,Nuclear Consumption,23.97416306
+231,1990,,Gas Consumption,398.6453857
+232,1990,,Coal Consumption,877.6782837
+233,1990,,Oil Consumption,1142.402832
+234,1991,,Geo Biomass Other,0.811999977
+235,1991,,Biofuels Consumption - TWh -,0.0
+236,1991,,Solar Consumption,0.0
+237,1991,,Wind Consumption,0.0
+238,1991,,Hydro Consumption,179.3458099
+239,1991,,Nuclear Consumption,25.94623756
+240,1991,,Gas Consumption,401.6355896
+241,1991,,Coal Consumption,853.762146
+242,1991,,Oil Consumption,1148.7052
+243,1992,,Geo Biomass Other,0.84224999
+244,1992,,Biofuels Consumption - TWh -,0.0
+245,1992,,Solar Consumption,0.0
+246,1992,,Wind Consumption,0.0
+247,1992,,Hydro Consumption,171.0922546
+248,1992,,Nuclear Consumption,26.35483932
+249,1992,,Gas Consumption,421.2702637
+250,1992,,Coal Consumption,858.8311768
+251,1992,,Oil Consumption,1170.524658
+252,1993,,Geo Biomass Other,0.937699974
+253,1993,,Biofuels Consumption - TWh -,0.0
+254,1993,,Solar Consumption,0.0
+255,1993,,Wind Consumption,0.005916667
+256,1993,,Hydro Consumption,167.6095581
+257,1993,,Nuclear Consumption,20.5861702
+258,1993,,Gas Consumption,412.6439819
+259,1993,,Coal Consumption,871.7139282
+260,1993,,Oil Consumption,1180.07666
+261,1994,,Geo Biomass Other,0.834999979
+262,1994,,Biofuels Consumption - TWh -,0.0
+263,1994,,Solar Consumption,0.0
+264,1994,,Wind Consumption,0.015972223
+265,1994,,Hydro Consumption,170.3108978
+266,1994,,Nuclear Consumption,27.51538277
+267,1994,,Gas Consumption,431.8279419
+268,1994,,Coal Consumption,894.4478149
+269,1994,,Oil Consumption,1221.884644
+270,1995,,Geo Biomass Other,1.018700004
+271,1995,,Biofuels Consumption - TWh -,0.0
+272,1995,,Solar Consumption,0.0
+273,1995,,Wind Consumption,0.018638888
+274,1995,,Hydro Consumption,176.7359161
+275,1995,,Nuclear Consumption,32.06675339
+276,1995,,Gas Consumption,461.2434998
+277,1995,,Coal Consumption,922.4712524
+278,1995,,Oil Consumption,1266.781738
+279,1996,,Geo Biomass Other,1.258092999
+280,1996,,Biofuels Consumption - TWh -,0.0
+281,1996,,Solar Consumption,0.0
+282,1996,,Wind Consumption,0.021
+283,1996,,Hydro Consumption,184.269104
+284,1996,,Nuclear Consumption,33.41173935
+285,1996,,Gas Consumption,484.1917725
+286,1996,,Coal Consumption,935.2282104
+287,1996,,Oil Consumption,1293.971191
+288,1997,,Geo Biomass Other,1.386640429
+289,1997,,Biofuels Consumption - TWh -,0.0
+290,1997,,Solar Consumption,0.0
+291,1997,,Wind Consumption,0.021277778
+292,1997,,Hydro Consumption,188.8111572
+293,1997,,Nuclear Consumption,35.88605118
+294,1997,,Gas Consumption,474.4755249
+295,1997,,Coal Consumption,959.019104
+296,1997,,Oil Consumption,1332.273071
+297,1998,,Geo Biomass Other,1.71254921
+298,1998,,Biofuels Consumption - TWh -,0.0
+299,1998,,Solar Consumption,0.0
+300,1998,,Wind Consumption,0.022472221
+301,1998,,Hydro Consumption,197.0977936
+302,1998,,Nuclear Consumption,38.59304047
+303,1998,,Gas Consumption,499.3369751
+304,1998,,Coal Consumption,937.0389404
+305,1998,,Oil Consumption,1363.508667
+306,1999,,Geo Biomass Other,1.696124792
+307,1999,,Biofuels Consumption - TWh -,0.0
+308,1999,,Solar Consumption,0.0
+309,1999,,Wind Consumption,0.058539443
+310,1999,,Hydro Consumption,209.0126038
+311,1999,,Nuclear Consumption,36.42517853
+312,1999,,Gas Consumption,504.0196228
+313,1999,,Coal Consumption,966.0106812
+314,1999,,Oil Consumption,1414.560181
+315,2000,,Geo Biomass Other,2.269063234
+316,2000,,Biofuels Consumption - TWh -,0.0
+317,2000,,Solar Consumption,0.035313889
+318,2000,,Wind Consumption,0.518951416
+319,2000,,Hydro Consumption,222.5306396
+320,2000,,Nuclear Consumption,36.91606903
+321,2000,,Gas Consumption,556.8223877
+322,2000,,Coal Consumption,963.7305908
+323,2000,,Oil Consumption,1420.386475
+324,2001,,Geo Biomass Other,2.335352659
+325,2001,,Biofuels Consumption - TWh -,0.0
+326,2001,,Solar Consumption,0.043955833
+327,2001,,Wind Consumption,1.220885873
+328,2001,,Hydro Consumption,237.5763092
+329,2001,,Nuclear Consumption,30.21781921
+330,2001,,Gas Consumption,634.6361694
+331,2001,,Coal Consumption,975.9262695
+332,2001,,Oil Consumption,1432.664307
+333,2002,,Geo Biomass Other,2.28640008
+334,2002,,Biofuels Consumption - TWh -,0.0
+335,2002,,Solar Consumption,0.049043614
+336,2002,,Wind Consumption,1.294748068
+337,2002,,Hydro Consumption,248.1781921
+338,2002,,Nuclear Consumption,33.58561325
+339,2002,,Gas Consumption,670.6054077
+340,2002,,Coal Consumption,934.4215698
+341,2002,,Oil Consumption,1479.166504
+342,2003,,Geo Biomass Other,2.622400045
+343,2003,,Biofuels Consumption - TWh -,0.0
+344,2003,,Solar Consumption,0.058158889
+345,2003,,Wind Consumption,1.553291917
+346,2003,,Hydro Consumption,239.476593
+347,2003,,Nuclear Consumption,35.24045944
+348,2003,,Gas Consumption,711.5067139
+349,2003,,Coal Consumption,1017.048401
+350,2003,,Oil Consumption,1524.815063
+351,2004,,Geo Biomass Other,2.978849649
+352,2004,,Biofuels Consumption - TWh -,0.0
+353,2004,,Solar Consumption,0.070790559
+354,2004,,Wind Consumption,2.213917017
+355,2004,,Hydro Consumption,251.3361664
+356,2004,,Nuclear Consumption,36.95752716
+357,2004,,Gas Consumption,783.0681763
+358,2004,,Coal Consumption,1119.161865
+359,2004,,Oil Consumption,1586.510742
+360,2005,,Geo Biomass Other,3.009669304
+361,2005,,Biofuels Consumption - TWh -,0.0
+362,2005,,Solar Consumption,0.084134445
+363,2005,,Wind Consumption,2.234556675
+364,2005,,Hydro Consumption,254.3791809
+365,2005,,Nuclear Consumption,31.02905273
+366,2005,,Gas Consumption,807.7815552
+367,2005,,Coal Consumption,1039.072632
+368,2005,,Oil Consumption,1654.919189
+369,2006,,Geo Biomass Other,3.770404816
+370,2006,,Biofuels Consumption - TWh -,0.0
+371,2006,,Solar Consumption,0.107861668
+372,2006,,Wind Consumption,2.425894022
+373,2006,,Hydro Consumption,261.9176636
+374,2006,,Nuclear Consumption,27.37537956
+375,2006,,Gas Consumption,843.4420776
+376,2006,,Coal Consumption,1054.097046
+377,2006,,Oil Consumption,1673.716797
+378,2007,,Geo Biomass Other,3.142048359
+379,2007,,Biofuels Consumption - TWh -,0.0
+380,2007,,Solar Consumption,0.142732784
+381,2007,,Wind Consumption,2.873494387
+382,2007,,Hydro Consumption,269.1854553
+383,2007,,Nuclear Consumption,30.70724869
+384,2007,,Gas Consumption,900.0696411
+385,2007,,Coal Consumption,1071.633301
+386,2007,,Oil Consumption,1734.740723
+387,2008,,Geo Biomass Other,3.267395735
+388,2008,,Biofuels Consumption - TWh -,0.0
+389,2008,,Solar Consumption,0.204168335
+390,2008,,Wind Consumption,3.686172962
+391,2008,,Hydro Consumption,272.48349
+392,2008,,Nuclear Consumption,35.06555176
+393,2008,,Gas Consumption,935.1621094
+394,2008,,Coal Consumption,1180.725098
+395,2008,,Oil Consumption,1824.850952
+396,2009,,Geo Biomass Other,3.562722206
+397,2009,,Biofuels Consumption - TWh -,0.0
+398,2009,,Solar Consumption,0.267598331
+399,2009,,Wind Consumption,4.438264847
+400,2009,,Hydro Consumption,278.0455933
+401,2009,,Nuclear Consumption,34.31848145
+402,2009,,Gas Consumption,940.8606567
+403,2009,,Coal Consumption,1176.002075
+404,2009,,Oil Consumption,1885.976318
+405,2010,,Geo Biomass Other,3.76455307
+406,2010,,Biofuels Consumption - TWh -,0.0
+407,2010,,Solar Consumption,0.59966141
+408,2010,,Wind Consumption,6.341038704
+409,2010,,Hydro Consumption,298.9256287
+410,2010,,Nuclear Consumption,36.02827454
+411,2010,,Gas Consumption,980.7318115
+412,2010,,Coal Consumption,1164.840088
+413,2010,,Oil Consumption,1966.2146
+414,2011,,Geo Biomass Other,3.858768463
+415,2011,,Biofuels Consumption - TWh -,0.0
+416,2011,,Solar Consumption,1.660955548
+417,2011,,Wind Consumption,6.58354044
+418,2011,,Hydro Consumption,305.5223999
+419,2011,,Nuclear Consumption,34.1540947
+420,2011,,Gas Consumption,1060.526978
+421,2011,,Coal Consumption,1147.299316
+422,2011,,Oil Consumption,1934.170898
+423,2012,,Geo Biomass Other,4.042406559
+424,2012,,Biofuels Consumption - TWh -,0.0
+425,2012,,Solar Consumption,2.721807241
+426,2012,,Wind Consumption,6.897696018
+427,2012,,Hydro Consumption,304.9770508
+428,2012,,Nuclear Consumption,34.11926651
+429,2012,,Gas Consumption,1146.770386
+430,2012,,Coal Consumption,1118.487061
+431,2012,,Oil Consumption,2046.829956
+432,2013,,Geo Biomass Other,4.433248997
+433,2013,,Biofuels Consumption - TWh -,0.0
+434,2013,,Solar Consumption,2.146321058
+435,2013,,Wind Consumption,9.793644905
+436,2013,,Hydro Consumption,320.6520691
+437,2013,,Nuclear Consumption,36.89141464
+438,2013,,Gas Consumption,1169.745483
+439,2013,,Coal Consumption,1130.160645
+440,2013,,Oil Consumption,2121.441406
+441,2014,,Geo Biomass Other,5.4620471
+442,2014,,Biofuels Consumption - TWh -,0.0
+443,2014,,Solar Consumption,5.158529282
+444,2014,,Wind Consumption,13.70823193
+445,2014,,Hydro Consumption,336.1504211
+446,2014,,Nuclear Consumption,35.85942459
+447,2014,,Gas Consumption,1202.319946
+448,2014,,Coal Consumption,1183.80603
+449,2014,,Oil Consumption,2143.333496
+450,2015,,Geo Biomass Other,7.169681549
+451,2015,,Biofuels Consumption - TWh -,0.0
+452,2015,,Solar Consumption,8.775348663
+453,2015,,Wind Consumption,23.99623108
+454,2015,,Hydro Consumption,324.2737122
+455,2015,,Nuclear Consumption,31.62243271
+456,2015,,Gas Consumption,1325.359863
+457,2015,,Coal Consumption,1119.038574
+458,2015,,Oil Consumption,2199.14502
+459,2016,,Geo Biomass Other,7.231852055
+460,2016,,Biofuels Consumption - TWh -,0.0
+461,2016,,Solar Consumption,14.41341496
+462,2016,,Wind Consumption,29.9195652
+463,2016,,Hydro Consumption,314.3547668
+464,2016,,Nuclear Consumption,38.59990692
+465,2016,,Gas Consumption,1370.495117
+466,2016,,Coal Consumption,1186.287964
+467,2016,,Oil Consumption,2210.926025
+468,2017,,Geo Biomass Other,7.62603569
+469,2017,,Biofuels Consumption - TWh -,0.0
+470,2017,,Solar Consumption,20.68731308
+471,2017,,Wind Consumption,33.1529007
+472,2017,,Hydro Consumption,336.2319031
+473,2017,,Nuclear Consumption,36.24556351
+474,2017,,Gas Consumption,1448.744873
+475,2017,,Coal Consumption,1185.067139
+476,2017,,Oil Consumption,2233.089844
+477,2018,,Geo Biomass Other,8.172670364
+478,2018,,Biofuels Consumption - TWh -,0.0
+479,2018,,Solar Consumption,26.59893036
+480,2018,,Wind Consumption,39.07558823
+481,2018,,Hydro Consumption,356.1150818
+482,2018,,Nuclear Consumption,29.39964104
+483,2018,,Gas Consumption,1543.550781
+484,2018,,Coal Consumption,1163.599854
+485,2018,,Oil Consumption,2257.501953
+486,2019,,Geo Biomass Other,8.262966156
+487,2019,,Biofuels Consumption - TWh -,0.0
+488,2019,,Solar Consumption,33.98899078
+489,2019,,Wind Consumption,50.95765305
+490,2019,,Hydro Consumption,367.500946
+491,2019,,Nuclear Consumption,34.3906517
+492,2019,,Gas Consumption,1549.72998
+493,2019,,Coal Consumption,1231.316772
+494,2019,,Oil Consumption,2262.036133
+495,2020,,Geo Biomass Other,8.066415787
+496,2020,,Biofuels Consumption - TWh -,0.0
+497,2020,,Solar Consumption,42.1750679
+498,2020,,Wind Consumption,55.9475708
+499,2020,,Hydro Consumption,384.4180298
+500,2020,,Nuclear Consumption,35.15513611
+501,2020,,Gas Consumption,1535.972412
+502,2020,,Coal Consumption,1157.901123
+503,2020,,Oil Consumption,2011.052612
+504,2021,,Geo Biomass Other,8.026316643
+505,2021,,Biofuels Consumption - TWh -,0.0
+506,2021,,Solar Consumption,43.2150383
+507,2021,,Wind Consumption,63.88870239
+508,2021,,Hydro Consumption,401.4471436
+509,2021,,Nuclear Consumption,26.17469978
+510,2021,,Gas Consumption,1643.815063
+511,2021,,Coal Consumption,1168.740601
+512,2021,,Oil Consumption,2183.541992

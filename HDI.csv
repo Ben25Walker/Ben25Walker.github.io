@@ -27,7 +27,7 @@
 25,Brunei Darussalam,0.83
 26,Bhutan,0.671
 27,Botswana,0.717
-28,Central African Rep.,0.411
+28,Central African Republic,0.411
 29,Canada,0.937
 30,Switzerland,0.962
 31,Chile,0.861
@@ -66,7 +66,7 @@
 64,Guinea,0.467
 65,Gambia,0.503
 66,Guinea-Bissau,0.49
-67,Eq. Guinea,0.605
+67,Equatorial Guinea,0.605
 68,Greece,0.889
 69,Grenada,0.8
 70,Guatemala,0.642
@@ -108,7 +108,7 @@
 106,Latvia,0.871
 107,Morocco,0.682
 108,Monaco,
-109,Moldova,0.774
+109,Moldova (Republic of),0.774
 110,Madagascar,0.51
 111,Maldives,0.755
 112,Mexico,0.779
@@ -147,7 +147,7 @@
 145,"Palestine, State of",0.727
 146,Qatar,0.859
 147,Romania,0.832
-148,Russia,0.845
+148,Russian Federation,0.845
 149,Rwanda,0.534
 150,Saudi Arabia,0.873
 151,Sudan,0.514
@@ -165,7 +165,7 @@
 163,Slovakia,0.862
 164,Slovenia,0.921
 165,Sweden,0.947
-166,eSwatini ,0.615
+166,Eswatini (Kingdom of),0.615
 167,Seychelles,0.802
 168,Syrian Arab Republic,0.584
 169,Chad,0.403
@@ -179,7 +179,7 @@
 177,Tunisia,0.745
 178,Turkey,0.842
 179,Tuvalu,0.635
-180,Tanzania ,0.548
+180,Tanzania (United Republic of),0.548
 181,Uganda,0.525
 182,Ukraine,0.786
 183,Uruguay,0.821
