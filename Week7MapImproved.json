@@ -6,7 +6,7 @@
     "view": {"stroke": "transparent"},
   
      "title": {
-      "text": "Total External Public Debt",
+      "text": "Total External Public Debt (USD)",
       "fontSize": 12,
       "subtitle":["Current USD. White = NA", "Source: Open Data for Africa"],
       "subtitleFontStyle":"italic",
@@ -41,7 +41,7 @@
             "reverse": false}},
       "tooltip":[
         {"field":"properties.name_en", "title": "Country"},
-        {"field":"External_Debt", "title": "Unit consumption"}
+        {"field":"External_Debt", "title": "Total external public debt"}
       ]
     },
   

@@ -2,13 +2,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-  "width": 700,
-  "height": 550,
+  "width": 500,
+  "height": 300,
 
   "title": {
-    "text": "Human Development Index (2017)",
-    "fontSize": 12,
-    "subtitle":["White = N/A", "Source: Our World in Data"],
+    "text": "Access to Electricity (2020)",
+    "fontSize": 15,
+    "subtitle":["Source: World Bank", "White = N/A"],
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10, "anchor": "middle"
     },
@@ -41,6 +41,6 @@
           "range": ["red", "orange", "rgb(203,229,242)"]}},
     "tooltip":[
       {"field":"properties.name_en", "title": "Country"},
-      {"field":"Value", "title": "Access Percentage"}
+      {"field":"Value", "title": "Access Percentage", "format": ".0f"}
     ]},
   "config": {"mark": {"invalid": null}}}

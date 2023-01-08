@@ -6,45 +6,45 @@ body {
     }
     
     h1{
-    font-family: 'Arial', monospace;
+    font-family: 'Noto Sans', monospace;
     font-weight: bold;
     font-size: 60px;
     color: white;
     }
     
     h2{
-    font-family: 'Roboto', monospace;
+    font-family: 'Noto Sans', monospace;
     font-weight: bold;
     font-size: 60px;
     color: white;
     }
     
     h3{
-    font-family: 'Arial', monospace;
+    font-family: 'Noto Sans', monospace;
     font-weight: bold;
     color: white;
-    font-size: 30px;
+    font-size: 35px;
     }
     
     h4{
-    font-family: 'Arial', monospace;
+    font-family: 'Noto Sans', monospace;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     }
     
     p{
-    font-family: 'Arial', monospace;
+    font-family: 'Noto Sans', monospace;
     color: white;
     font-size: 15px;
     }
     
-    /* Makes containers for different things in my website*/
+    /* Containers*/
     .containerHomeScreen {
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 10px;
     background-color: #1c2f51;
     }
     
@@ -90,7 +90,7 @@ body {
     background-color: #1c2f51;
     }
     
-    /* Chart formatting */
+    /* Charts */
     .chart {
     display: flex;
     align-items: center;
@@ -103,10 +103,11 @@ body {
     background-color: white;
     }
     
-    /* Button formatting */
+    /* Button formatting. 
+    Thank you to James Jeffery for the button design. */
     .button1{
     width:150px;
-    height:35px;
+    height:50px;
     border:none;
     color: white;
     background-color: #4d7bca;
@@ -114,7 +115,7 @@ body {
 transition: ease-out 0.2s;
 box-shadow: inset 0 0 0 0 #4d7bca;
 outline: none;
-font-size: 15px;
+font-size: 30px;
 }
 
 .button1:hover{
@@ -123,7 +124,7 @@ cursor: pointer;
 }
 .button2{
 width:150px;
-height:35px;
+height:50px;
 border:none;
 color: white;
 background-color: #4d7bca;
@@ -131,7 +132,7 @@ border-radius: 10px;
 transition: ease-out 0.2s;
 box-shadow: inset 0 0 0 0 #4d7bca;
 outline: none;
-font-size: 15px;
+font-size: 30px;
 }
 
 .button2:hover{
@@ -141,7 +142,7 @@ cursor: pointer;
 
 .button3{
 width:150px;
-height:35px;
+height:50px;
 border:none;
 color: white;
 background-color: #4d7bca;
@@ -149,7 +150,7 @@ border-radius: 10px;
 transition: ease-out 0.2s;
 box-shadow: inset 0 0 0 0 #4d7bca;
 outline: none;
-font-size: 15px;
+font-size: 30px;
 }
 
 .button3:hover{
@@ -159,7 +160,7 @@ cursor: pointer;
 
 .button4{
 width:150px;
-height:35px;
+height:50px;
 border:none;
 color: white;
 background-color: #4d7bca;
@@ -167,7 +168,7 @@ border-radius: 10px;
 transition: ease-out 0.2s;
 box-shadow: inset 0 0 0 0 #4d7bca;
 outline: none;
-font-size: 15px;
+font-size: 30px;
 }
 
 .button4:hover{
@@ -185,7 +186,7 @@ border-radius: 10px;
 transition: ease-out 0.2s;
 box-shadow: inset 0 0 0 0 #4d7bca;
 outline: none;
-font-size: 15px;
+font-size: 30px;
 }
 
 .button5:hover{

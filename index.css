@@ -9,24 +9,24 @@ body{
 
 h1{
   color: #d0f1fd;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h2{
   text-decoration: underline;
   text-align: center;
   color: white;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size:26px;
 }
 
 h3{
   color: #efe9e6;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 p{
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #e4effa;
 }
 
@@ -44,12 +44,12 @@ p{
 }
 
 .vega-bind-name{
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #e1e5e4
 }
 
 .marks{
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* ============= Clicked links ========= */
@@ -80,7 +80,7 @@ a:link:active, a:visited:active {
 
 .title-bar h1{ 
   font-size: 65px;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   margin: 50px;
@@ -88,7 +88,7 @@ a:link:active, a:visited:active {
 
 .title-bar p{ 
     font-size: 20px;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     margin: 50px;
 }
@@ -96,7 +96,7 @@ a:link:active, a:visited:active {
  /* ============= Main ========= */
 
  .main{
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   padding:10px;
   vertical-align: center;
   text-align: center;
@@ -133,7 +133,7 @@ a:link:active, a:visited:active {
  /* ============= Skills icons ========= */
 
  .main2{
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   color:  #EFEEF5;
 }
@@ -412,7 +412,7 @@ footer {
   justify-items: right;
   border-bottom:1px solid #EFEEF5;
   margin-right: 0;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   opacity: 100%;
   color:#EFEEF5;
 }
@@ -456,7 +456,7 @@ footer {
     justify-items: right;
     border-bottom:1px solid #EFEEF5;
     margin-right: 0;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     opacity: 100%;
     color:#EFEEF5
   }

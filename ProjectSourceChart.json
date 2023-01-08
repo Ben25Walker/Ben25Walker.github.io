@@ -1,12 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/EnergySourceClean.csv",
+    "url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/EnergySourceClean%20(1).csv",
     "format": {"property": "csv"}
   },
   "title": {
     "text": "Energy Consumption in Africa by Source",
-    "subtitle": "Source: Our World in Data, BP",
+    "subtitle": "Source: Our World in Data",
         "fontSize": 15,
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
@@ -14,21 +14,22 @@
     "color": "black"
   },
 
-  "width": 400,
+  "width": 300,
   "height": 300,
   "mark": "area",
   "encoding": {
     "x": {"field": "Date", "type": "temporal","title":null},
     "y": {
-      "field": "Energy Consumption",
+      "field": "EnergyConsumption",
       "type": "quantitative","title":null
     },
     "color": {"field": "Energy Source", "type": "nominal",
     "scale": {"scheme": "dark2"},
-      "legend": {"orient":"right"},
-     "title":"Region"},
+      "legend": {"orient":"top-left",
+      "fillColor":"white"},
+     "title":"Energy Source"},
   "tooltip":[{"field":"Energy Source", "title": "Energy Source"},
-    {"field":"Energy Consumption", "title": "Energy Consumption"}]},
+    {"field":"EnergyConsumption", "title": "Energy Consumption", "format":",.0f"}]},
     
     "selection": {
     "Type": {"type": "single","fields": ["Energy Source"],
@@ -42,7 +43,7 @@
           "6 Coal",
           "7 Gas",
           "8 Oil"],
-        "name": "Pick fuel type"}}},
+        "name": "Pick source:"}}},
 
 
     "transform": [

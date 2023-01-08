@@ -2,13 +2,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-  "width": 700,
-  "height": 550,
+  "width": 500,
+  "height": 300,
 
   "title": {
-    "text": "Human Development Index (2017)",
-    "fontSize": 12,
-    "subtitle":["White = N/A", "Source: Our World in Data"],
+    "text": "Human Development Index (2021)",
+    "fontSize": 15,
+    "subtitle":["Source: Our World in Data", "White=N/A"],
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10, "anchor": "middle"
     },
@@ -21,9 +21,9 @@
  "transform": [{
   "lookup": "properties.name_en",
   "from": {
-    "key": "Country",
+    "key": "Entity",
     "fields": ["Value"],
-    "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/human-development-index.csv"}}}],
+    "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/human-development-index%20(1).csv"}}}],
 
 
   "projection": {"type": "mercator"}, 

@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json",
+  "title": {
+    "text": ["CO2 Emissions per capita", "(1990-2019)"],
+    "fontSize": 15,
+    "subtitle": ["Measured in metric tons", "Source: World Bank"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle"
+  },
+  "hconcat": [
+    {
+      "mark": "bar",
+      "height": 180,
+      "width": 180,
+      "transform": [
+        {"filter": {"timeUnit": "year", "field": "date", "lte": "2019"}},
+        {"filter": {"timeUnit": "year", "field": "date", "gte": "1990"}}
+      ],
+      "encoding": {
+        "x": {"field": "date", "type": "temporal", "title": ["North America"]},
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": null,
+          "scale": {"domain": [0, 21]}
+        },
+        "tooltip": [
+          {"field": "value", "type": "quantitative", "format":".2f" ,"title": "Emissions per capita"}],
+        "color": {
+          "field": "countryiso3code",
+          "title": "Region",
+          "type": "nominal",
+          "scale": {"range": ["#eeca3b", "#ff9da6"]}
+        }
+      },
+      "data": {
+        "url": "https://api.factmaven.com/xml-to-json/?xml=https://api.worldbank.org/v2/country/NAC/indicator/EN.ATM.CO2E.PC",
+        "format": {"property": "data.data"}
+      }
+    },
+    {
+      "mark": "bar",
+      "height": 180,
+      "width": 180,
+      "transform": [
+        {"filter": {"timeUnit": "year", "field": "date", "lte": "2019"}},
+        {"filter": {"timeUnit": "year", "field": "date", "gte": "1990"}}
+      ],
+      "encoding": {
+        "x": {
+          "field": "date",
+          "type": "temporal",
+          "title": ["Sub-Saharan Africa"]
+        },
+        "y": {
+          "field": "value",
+          "type": "quantitative",
+          "title": null,
+          "scale": {"domain": [0, 21]}
+        },
+        "tooltip": [
+          {"field": "value", "type": "quantitative", "format":".2f" ,"title": "Emissions per capita"}],
+        "color": {
+          "field": "countryiso3code",
+          "type": "nominal",
+          "legend": null,
+          "scale": {"range": ["#eeca3b", "#ff9da6"]}
+        }
+      },
+      "data": {
+        "url": "https://api.factmaven.com/xml-to-json/?xml=https://api.worldbank.org/v2/country/SSF/indicator/EN.ATM.CO2E.PC",
+        "format": {"property": "data.data"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <title>Ben Walker Data Science</title>
+    <link rel="stylesheet" href="portfolio.css">
+
+    
+<h1>Ben Walker Data Science Portfolio</h1>
+
+<div class ="title">
+</div>
+
+<nav>
+    <div class = "navbar" class="list-unstyled">
+        <ul>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="project.html">Project</a>
+        </ul>
+    </div>
+</nav>
+
+</div>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title for the page -->
+    <title>Document</title>
+
+    <!-- Link to my style sheet -->
+    <link rel="stylesheet" href="portfolio.css">
+
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed"></script>
+</head>
+
+
+
+<body>
+<!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
+<div class="myWeek1">
+    
+    <h3>Premiership Football: Home Advantage?</h3>
+    <p>The first chart tracks goals scored by home and away teams across a season.</p>
+    <div class="chart" id="Chart1"> </div>
+    <div class="chart" id="Chart2"> </div>
+    <div class="chart" id="Chart3"> </div>
+    <div class="chart" id="Chart4"> </div>
+    <div class="chart" id="Chart5"> </div>
+    <div class="chart" id="Chart6"> </div>
+    <div class="chart" id="Chart7"> </div> 
+    <div class="chart" id="Chart8"> </div>
+    <div class="chart" id="Chart9"> </div>
+    <div class="chart" id="Chart10"> </div>
+    <div class="chart" id="Chart11"> </div>
+    <div class="chart" id="Chart12"> </div>
+
+
+
+
+
+    <script>
+        //Define charts:
+        var myChart1 = "ProjectMap.json";
+        var myChart2 = "ProjectMap2.json";
+        var myChart3 = "ProjectChart1(2).json";
+        var myChart4 = "ProjectChart2.json";
+        var myChart5 = "ProjectChart3.json";
+        var myChart6 = "ProjectRegressfull.json";
+        var myChart7 = "ProjectRegress20k1.json";
+        var myChart8 = "ProjectSourceChart.json";
+        var myChart9 = "ProjectIndex.json";
+        var myChart10 = "ProjectEnergyCost.json";
+        var myChart11 = "ProjectInvestment.json";
+        var mychart12 = "Week4Tennis.json"
+
+
+
+        // Embed charts:
+    vegaEmbed('#Chart1', myChart1);
+    vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
+    vegaEmbed('#Chart7', myChart7);
+    vegaEmbed('#Chart8', myChart8);
+    vegaEmbed('#Chart9', myChart9);
+    vegaEmbed('#Chart10', myChart10);
+    vegaEmbed('#Chart11', myChart11);
+    vegaEmbed('#Chart12', myChart12);
+
+
+
+</script>
+
+</html>

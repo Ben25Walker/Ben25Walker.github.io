@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 
+
 <!-- ///////////////////  HEAD //////////////////////////////////// -->
 
 <head>
@@ -18,14 +19,10 @@
 </style>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 </style>
 
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300;700&display=swap');
-</style>    
-
-<!-- Meta stuff-->
+<!-- Meta things-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 </head>
@@ -38,280 +35,186 @@
 
 <body>
 
-    <div class="header">
-        <h2><span style="color:#4d7bca">Data</span><span style="color:white">Science</span></h2>
-    </div>
 
-    <div class="containerbutton">
-        <button class="button4" onclick="window.location.href = 'index.html'">Home</button>
-        <button class="button4" onclick="window.location.href = 'portfolio.html'">Portfolio</button>
-        <button class="button5" onclick="location.href = 'https://github.com/ben25walker/ben25walker.github.io'">GitHub</button>
 
-        
-    </div>
+    <body>
+        <div class="header">
+            <h2><span style="color:white">DataScience</span></h2>
+        </div>
+    
+        <div class="containerHomeScreen">
+            <button class="button4" onclick="window.location.href = 'index.html'">Home</button>
+        </div>   
+        <div class="containerHomeScreen">    
+            <button class="button2" onclick="window.location.href = 'portfolio.html'">Portfolio</button>
+        </div>       
+        <div class="containerHomeScreen">  
+            <button class="button3" onclick="location.href = 'https://github.com/ben25walker/ben25walker.github.io'">GitHub</button>
+        </div>
 
     <div class="containertext">
-        <h3> What are the impacts of reducing the carbon intensity of electricity? </h3>
-    </div>
 
+        <h3> How could energy help Africa develop? </h3>
+    </div>
 
     <div class="containertext">
         <h4> Aims</h4>
     </div>
+            <p>The developed world has grown astronomically since the 19th century. Much of this growth came 
+                off the back of a coal-fuelled industrial revolution, which lifted millions from poverty and 
+                has produced the comfortable lives many of us have today. However, for much of the world, 
+                this standard of living is still a far-cry away. Sub-Saharan Africa is the most emphatic 
+                case of this. My project aims to assess the extent to which the relationship between energy 
+                usage and development still exists and how Sub-Saharan Africa can and should leverage this.</p>
+            </div>
 
-    <div class="containertext">
-        <p> We need electricity. We also need clean air to breathe. Electricity has historically been 
-            generated primarily from fossil fuels, resulting in billions of tonnes of CO2 in our atmosphere - the amount of CO2 
-            produced per unit of electricity generated is its ‘carbon intensity’. To minimize this, most nations have made 
-            serious efforts to adopt renewable technologies to ‘decarbonize’ their electricity. This project aims to provide a 
-            background to carbon intensity, the impacts a reduction might have, and a way we can all help.              
-        </p>
-   </div>
+            <div class="containertext">
+                <h4> The strength of the relationship</h4>
+        
+        
+                 <p> The map below highlights how development varies so drastically around the world and how underdeveloped
+                     countries are often geographically group. The almost unanimously light green western Europe and North 
+                     American regions and the redness of Sub-Saharan Africa epitomise this. I obtained my GeoJSON required for 
+                     the map from <a href="https://geojson-maps.ash.ms/"> this site </a> and downloaded the HDI data from <a href="https://ourworldindata.org/grapher/human-development-index"> Our World in Data </a>, which was in long form and 
+                     did not require cleaning. </p>
+            </div>
+            <!--Sources: https://ourworldindata.org/grapher/human-development-index
+             https://geojson-maps.ash.ms/ -->
+         <div class="container"></div>
+            <div class="chart" id="Chart1"> </div>
+        </div> 
 
-    <div class="containertext">
-        <h4> Background</h4>
-    </div>
-   
         <div class="containertext">
-    <div class="container">
-        
-        <!--chart1
-            CO2 data - https://en.wikipedia.org/wiki/Emission_intensity
-            Cost data - https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf-->
-        <div class="chart" id="chart1">
-            <script>
-                var myChart1 = "week7/CO2EmissionValue.json";
-                vegaEmbed('#chart1', myChart1);
-            </script>
+            <p>The line graphs build on this idea of geographically concentrated development further. 
+                They show Sub-Saharan Africa consistently faces the worst outcomes across a variety 
+                of metrics. I scraped the data from the <a href="https://data.worldbank.org/">World Bank</a> <a href="https://colab.research.google.com/drive/1-cdML1KqeEpC3_r1XpZRLhTnV2MASoXt">(here)</a> using the World Bank API, 
+                specifying to extract only regional level data.  </p>
+            </div>
+             <!--Sources: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD
+            https://data.worldbank.org/indicator/SI.POV.DDAY
+        https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS -->
+            <div class="chart" id="Chart2"> </div>
+        </div> 
+
+        <div class="containertext">
+            <p>I then investigated whether similar patterns could be seen in energy access. The following map demonstrates
+                 how low access to electricity seems to be a problem faced almost uniquely by Sub-Saharan Africa and not 
+                 other developing regions. I used the same GeoJSON and a CSV downloaded from the <a href="https://data.worldbank.org/">World Bank</a>. An issue I 
+                 came across with both maps was that the country names in my CSV files did not match the country names 
+                 seen in my GeoJSON. I used this <a href="https://colab.research.google.com/drive/1YHFpdyCGmD28Z5HTC2LkX_Ug6jPWLVC6#scrollTo=3rE-uDAz5oC7"> workbook </a> 
+                 to identify these countries before manually editing my 
+                 CSV file so the names matched, and the countries would appear on my maps.  </p>
+            </div>
+              <!--Sources: https://ourworldindata.org/grapher/human-development-index
+             https://geojson-maps.ash.ms/ -->
+        <div class="chart" id="Chart3"></div>
         </div>
-    </div>
-
-    <div class="containertext">
-         <p> As highlighted above, renewable energy sources emit minimal CO2, and are generally rather cheap, 
-             providing strong rationale for a movement towards more sustainable electricity. 
-             The underlying CO2 emission <a href="https://en.wikipedia.org/wiki/Emission_intensity"> data</a> 
-             and cost <a href="https://www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf"> data</a> was 
-             scraped<a href="https://colab.research.google.com/drive/16aHZkh8x-naBla_2HpbDb4iCDnaBD0Bn?usp=sharing"> here</a>. </p>
-    </div>
-
-    <div class="container">
-        <!--chart2
-         Sources of electricity data -https://ourworldindata.org/electricity-mix-->
-        <div class="chart" id="chart2">
-            <script>
-                var myChart2 = "ElectricitySourcePercentage.json";
-                vegaEmbed('#chart2', myChart2);
-            </script>
-        </div>
-    </div>
-
-
-    <div class="containertext">
-    <p> Since 1985, the UK has made significant process adopting more renewable electricity sources. The underlying CarbonBrief  
-        <a href="https://ourworldindata.org/electricity-mix"> data </a>  was cleaned 
-        <a href="https://colab.research.google.com/drive/1zm4tzELSEP1y8Su3Jd9GcY8SlOpttnZB?usp=sharing"> here </a>. 
-        The cleaning process involved filtering the data and stacking and unstacking the dataframe around an index of three 
-        columns to transform it into long data. This data can be replicated for any country within this dataset if you input 
-        its country code in the script.</p>
-    </div>
-
-    <div class="container">
-      <!--chart3
-    Sources of electricity data -https://ourworldindata.org/electricity-mix-->
-        <div class="chart" id="chart3">
-            <script>
-                var myChart3 = "world_map_slider.json";
-                vegaEmbed('#chart3', myChart3);
-            </script>
-        </div>
-    </div>
-
-    <div class="containertext">
-    <p> We can see that the UK’s reduction in carbon intensity since 1985 has been mirrored by other 
-        countries around the world. The <a href="https://colab.research.google.com/drive/1lJEu4UEeYKpb5ncgoBZZjZlXDc3TAVW-?usp=sharing"> 
-        cleaning </a> process involved manually changing names in my data to match the topojson country names (i.e US to USA) and performing
-        a data join in Vega. When adding the slider to filter by year, initially it had no effect, and would 
-        only show data from one year. I was able to overcome this by changing the lookup transform to include fields I wanted, 
-        and by inverting the main (csv) and lookup (topojson) data.</p>
-    </div>
-
-    <h4> Has it worked? </h4>
     
-    <div class="container">
-        <!--chart4 
-        Air quality data https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-(pm2-5)-->
-        <div class="chart" id="chart4">
-            <script>
-                var myChart4 = "airqualityregression.json";
-                vegaEmbed('#chart4', myChart4);
-            </script>
-        </div>
+        <p>After establishing this trend in energy access, I then aimed to test the relationship between development 
+            and energy consumption with a regression. I merged CSV files from the <a href="https://data.worldbank.org/">World Bank</a>
+             and <a href="https://ourworldindata.org">Our World in Data</a>. 
+            Notably, when merging, some countries that did not share a common name in both datasets were lost.
+            I also dropped all rows with variables that showed “NaN” as this could prevent or discredit my results. 
+            Given the sample left was still large, this did not significantly disrupt my regression analysis. I 
+            then merged this dataframe with a region list so countries from different regions could be distinguished 
+            in my visualisation and removed high income countries and one clear anomaly, Turkmenistan, to increase 
+            the relevance of the analysis to Sub-Saharan Africa. The workbook used is <a href="https://colab.research.google.com/drive/15pGtC4vR-J8TY9mJUb1HLYErlWToG6SK"> here </a>. 
+            The relationship proved 
+            very strong (R2=0.77). </p>
+        
+            <!--Sources: GDP data: https://ourworldindata.org/grapher/per-capita-energy-use
+            Energy data: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD
+        Region list data: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups -->
+         <div class="container"></div>
+     <div class="chart" id="Chart5"></div>
     </div>
 
     <div class="containertext">
-        <p> To see whether decreasing carbon intensity has been associated with better air quality, I 
-            have regressed the percentage of electricity generated by renewables on air quality in the 
-            top 50 countries by GDP, showing a negative correlation. Air quality
-            <a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-(pm2-5)"> data </a> 
-            is from the WHO and the carbon intensity data is the same as before. Having
-            <a href="https://colab.research.google.com/drive/1cUk_4k3Z0YUN7Cy4X9QnGYCOtAeAXNeW?usp=sharing"> created </a> one dataframe, 
-            I wanted to automate the filtering by GDP. I did this by scraping data for the top 50 countries, and turning 
-            this into a list which I could use to filter the original dataframe.</p>
-    </div>
 
-    <div class="container">
-        <!--chart5 - regression was performed in python,
-           CO2 emission data -  https://data.worldbank.org/indicator/EN.ATM.CO2E.PC 
-        Electricity sources data as above-->
-        <div class="chart" id="chart5">
-            <script>
-                var myChart5 = "UK_regression.json";
-                vegaEmbed('#chart5', myChart5);
-            </script>
-        </div>
+        <h4> How could Africa source the energy needed for growth? </h4>
     </div>
-
-    <div class="containertext">
-    <p> In the UK, an increase in the percentage of electricity generated from renewables 
-        is correlated with a reduction in CO2 emissions per capita, although it should be noted 
-        that this effect is likely inflated due to simultaneity bias and OVB. Regression performed
-       <a href="https://colab.research.google.com/drive/1qqItkPgBbo1VeAcfCsNuZBVu346cPgIE?usp=sharing"> here </a> </p>
-    </div>
-
-    <div class="container">
-        <!--chart6 - 
-            Population data https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdomdata
-            CO2 data - https://data.worldbank.org/indicator/EN.ATM.CO2E.KT?locations=GB
-            Electricity sources data as above
-        -->
-        <div class="chart" id="chart6">
-            <script>
-                var myChart6 = "emissions_reduction.json";
-                vegaEmbed('#chart6', myChart6);
-            </script>
-        </div>
-    </div>
-
-    <div class="containertext">
-    <p> The UK has enjoyed decreasing CO2 emissions since 1990 as shown by the green wedge; 
-        this chart is my attempt to identify how much of this decrease can be explained by a 
-        shift to more renewable electricity generation. To do this, I first performed a simple 
-        projection of emissions in the UK, holding the electricity generation mix and CO2/capita 
-        fixed at 1985 levels, and adjusting for population growth. This is the top line of the area 
-        chart. The blue wedge shows the reduction in emission attributed to an increase in renewable 
-        energy, and the purple section is all other factors. In 2018, roughly 31% of the reduction 
-        in emissions could be attributed to greener electricity production. Data was cleaned and a 
-        more thorough explanation behind my calculations is 
-        <a href="https://colab.research.google.com/drive/1HO5DBj1ahQVeElNJRln8o-ZMsMLFQa-s?usp=sharing"> here. </a> </p>
+    <p>I then turned to address the question of how Africa could increase their energy consumption. The area 
+        chart below demonstrates how Africa has and still does largely rely on non-renewables. However, by 
+        adding a drop-down selector, this allowed me to highlight the increasing use of renewables such as solar and wind. 
+        I got the data from <a href="https://ourworldindata.org">Our World in Data</a> via CSV download. The data 
+        was in wide form so I converted it to long form in this <a href="https://colab.research.google.com/drive/18sZruXj_g-sxCyts8ely4sgIDJvJnl_K">workbook</a> so 
+        it could be processed in Vega-Lite. I also renamed the variables with numbers in front to indicate 
+        the order in which I wanted them to be stacked in my area chart. </p>
+    <div class="chart" id="Chart6"> </div>
     </div>
     
-    <h4> An easy way to help</h4>
-    <div class="chart" id="firstChart"></div>
-    <!-- to fetch info between dates, the api had this url 
-https://api.carbonintensity.org.uk/intensity/firstdate/seconddate, which meant it wouldn't autoupdate-->
-    <!-- For example - https://api.carbonintensity.org.uk/intensity/2017-09-18T12:00Z/2017-10-01T12:00Z-->
-    <!--I was unable autoupdate the api dates in vega since the api would only 
-fetch data for manually inputted dates, So I hacked it in javascript instead.-->
-    <!-- the var url inputs todays date minus 2 days (had to convert to miliseconds), 
-then added 'T12:00Z' so it would be compatible with the API, and then plus two days (same method), and adds it
-to the url-->
-    <!--Then input that url into the vega data. Thanks to denes who 
-helped make a version (dynamic_embed.html) which I changed to suit my needs better-->
-<script>
-    var url = 'https://api.carbonintensity.org.uk/intensity/' + new Date(Date.now()- 2 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10) + 'T12:00Z/' + new Date(Date.now() + 2 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10) + 'T12:00Z';
-    console.log(url)
 
-    var spec = {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-   "description": "An API which shows actual carbon intensity of the UK National Grid compared to their forecast. Date autoupdating in javascript",
-  "title": {
-    "text": "Carbon Intensity in the UK",
-    "subtitle": [
-      "A forecast of future carbon intensity mapped onto past values.",
-      "API from carbonintensity.org.uk"
-    ],
-    "subtitleFontStyle": "italic",
-    "subtitleFontSize": 11,
-    "anchor": "start",
-    "color": "black"
-  },
-  "data": {
-    "url": url,
-    "format": {"property": "data"}
-  },
-  "width": 290,
-  "height": 300,
-    "background": null,
-  "config": {"style": {"cell": {"stroke": "transparent"}}},
-  "layer": [
-    {
-      "mark": {
-        "type": "point",
-        "fill": "crimson",
-        "color": "crimson",
-        "size": 2
-      },
-      "encoding": {
-        "x": {"field": "to", 
-        "type": "temporal",
-        "scale": {"type": "utc"},
-        "axis": {"format": "%b %e"}
-        },
-        "y": {
-          "field": "intensity.actual", "type": "quantitative",
-                    "title": "Carbon Intensity"
-          }
-      }
-    },
-    {
-      "mark": {
-        "type": "line", 
-      "color": "#1fd2ff",
-      "opacity" :"0.7"
-      },
-      "encoding": {
-        "x": {
-          "field": "to", 
-          "type": "temporal",
-          "title":null},
-        "y": {
-          "field": "intensity.forecast", "type": "quantitative"
-          }
-      }
-    }
-  ]
-}
-    vegaEmbed('#firstChart', spec)
-</script>
-
-    <div class="containertext">
-        <p> This chart shows an API developed by <a href="https://carbonintensity.org.uk/"> 
-            carbonintensity.org. </a> predicting the carbon intensity of the national grid 
-            48 hours in advance. Currently, renewable energy can only be used as it is being 
-            generated. When demand for electricity outstrips the amount being produced renewably,
-            the National Grid uses other storable energy sources (fossil fuels) to match this
-            demand. By using electricity at times when demand is low, then we can reduce the 
-            amount of fossil fuels needed to supplement electricity generation. That means try
-            to only charge your phone at night! </p>
-        
-         <p> For this particular API, to chart data between certain dates in Vega, you had
-             to manually input these dates, meaning the chart didn’t auto-update. To solve 
-             this, I hacked the URL in JavaScript, changing the dates to ‘today’s date’ +/- 2 days.
-             I then loaded in the Vega-Lite specification directly into my project.html file,
-             changing the URL data to this new auto-updating URL. You can see this (+ a better explanation) 
-             <a href="https://github.com/jamesjeffery77/jamesjeffery77.github.io/blob/main/project.html"> here </a>.
-             </p>
+    <div class="containertext">    
+        <p>I further investigated the relative growth of different energy sources with an index chart, using 
+            the same dataset. This clearly showed how wind and solar have been by far the 
+            fastest growing energy sources in Africa recently.  </p>
+    
+        <div class="chart" id="Chart7"></div>
     </div>
-    <h4> Conclusions</h4>
-    <p> Yes – we should care, and we should continue to adopt policies encouraging renewable
-        electricity generation. Further work can be done to improve my projection of UK emissions 
-        and to identify the reduction of CO2 emissions attributable to a greener electricity mix. 
-        Further work could also use the carbon intensity API for specific companies / institutions
-        to identify when might be a good time to run their electricity intensive processes. </p>
+    
+    <div class="containertext">    
+        <p>To examine the extent to which renewable energy could play a role in Africa’s development story, 
+            I looked at price trends. The line chart below shows how the levelized cost of renewables has 
+            consistently fallen, indicating it has become a more viable alternative to non-renewables. The 
+            data, from <a href="https://www.irena.org/">IRENA</a>, was in wide form, so I converted it to 
+            long form in this <a href="https://colab.research.google.com/drive/1r99HFfhWRaxQbarPnxZ2_nbh9QSbikRD">workbook</a>.</p>
+    
+        <div class="chart" id="Chart8"></div>
+    </div>
+
+    <div class="containertext">    
+        <p>My final chart raises the question of whether Sub-Saharan Africa is justified in increasing energy 
+            consumption by any means necessary. It displays how Sub-Saharan Africa’s emissions are miniscule 
+            compared to a developed region, North America. Therefore, if Africa were to increase their 
+            non-renewable energy consumption, the environmental impact would arguably be negligible. I obtained 
+            the data by converting data (<a href="https://data.worldbank.org/">World Bank</a> API) from XML to JSON format in Vega-Lite directly.</p>
+    <div>
+    <div class="chart" id="Chart9"></div>
+</div>
+
+<div class="containertext">
+
+    <h4>Conclusion</h4>
+</div>
+
+    <p>My analysis demonstrates the extremely strong relationship between development and energy. The lack of 
+        access to energy could be a key reason why Sub-Saharan African development has lagged behind for so 
+        long. I found that only a small proportion of Africa’s current energy is sourced from non-renewables. 
+        However, my analysis also suggests a path to a greener future is potentially viable with the growth 
+        in renewable energy sources increasing significantly in recent years. Moreover, if development must be 
+        based on non-renewables, this would increase CO2 emissions by a relatively small amount. Therefore, is 
+        it right for the developed world to intervene and prevent this?</p>
+
+    <script>
+        //Define charts:
+        var myChart1 = "ProjectMap2.json";
+        var myChart2 = "Projectlineconcat.json";
+        var myChart3 = "ProjectMap.json";
+        var myChart5 = "ProjectRegress20k1.json";
+        var myChart6 = "ProjectSourceChart.json";
+        var myChart7 = "ProjectIndex1.json";
+        var myChart8 = "ProjectEnergyCost.json";
+        var myChart9 = "Emissionsconcat.json";
+    
+    
+        // Embed charts:
+        vegaEmbed('#Chart1', myChart1);
+        vegaEmbed('#Chart2', myChart2);
+        vegaEmbed('#Chart3', myChart3);
+        vegaEmbed('#Chart5', myChart5);
+        vegaEmbed('#Chart6', myChart6);
+        vegaEmbed('#Chart7', myChart7);
+        vegaEmbed('#Chart8', myChart8);
+        vegaEmbed('#Chart9', myChart9);
 
 
 
-</body>
-<!-- ///////////////////  END BODY //////////////////////////////////// -->
 
-</html>
+    
+    
+    
+    
+    
+    </script>
+    
+    </html>
