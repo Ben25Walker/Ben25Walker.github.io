@@ -2,8 +2,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   
-    "width": 580,
-    "height": 500,
+    "width": 300,
+    "height": 300,
     
     "data" : {
       "url" : "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/custom.geo.json",
