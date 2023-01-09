@@ -54,29 +54,29 @@
 
     <div class="containertext">
 
-        <h3> How could energy help Africa develop? </h3>
+        <h3>How can energy contribute to African development?</h3>
     </div>
 
     <div class="containertext">
         <h4> Aims</h4>
     </div>
-            <p>The developed world has grown astronomically since the 19th century. Much of this growth came 
-                off the back of a coal-fuelled industrial revolution, which lifted millions from poverty and 
-                has produced the comfortable lives many of us have today. However, for much of the world, 
-                this standard of living is still a far-cry away. Sub-Saharan Africa is the most emphatic 
-                case of this. My project aims to assess the extent to which the relationship between energy 
-                usage and development still exists and how Sub-Saharan Africa can and should leverage this.</p>
+            <p>The developed world has transformed since the 19th century. Much of this growth came off the back 
+                of a coal-fuelled industrial revolution, which lifted . many people out of poverty and contributed
+                 to the comfortable standard of living enjoyed by many today. However, much of the world, 
+                 particularly Sub-Saharan Africa, has not yet reached this level of development. My project 
+                 aims to explore the connection between energy usage and development and how Sub-Saharan Africa 
+                 can leverage this relationship.</p>
             </div>
 
             <div class="containertext">
                 <h4> The strength of the relationship</h4>
         
         
-                 <p> The map below highlights how development varies so drastically around the world and how underdeveloped
-                     countries are often geographically group. The almost unanimously light green western Europe and North 
-                     American regions and the redness of Sub-Saharan Africa epitomise this. I obtained my GeoJSON required for 
-                     the map from <a href="https://geojson-maps.ash.ms/"> this site </a> and downloaded the HDI data from <a href="https://ourworldindata.org/grapher/human-development-index"> Our World in Data </a>, which was in long form and 
-                     did not require cleaning. </p>
+                 <p>The map below highlights the significant variations in development around the world 
+                    and how underdeveloped countries are often geographically group. The almost unanimously 
+                    light green western Europe and North American regions and the redness of Sub-Saharan Africa 
+                    epitomise this. The GeoJSON file for the map was obtained from <a href="https://geojson-maps.ash.ms/"> this site </a>. 
+                    The HDI data was downloaded from <a href="https://ourworldindata.org">Our World in Data</a> in long form, which made it useable in Vega-Lite.</p>
             </div>
             <!--Sources: https://ourworldindata.org/grapher/human-development-index
              https://geojson-maps.ash.ms/ -->
@@ -85,10 +85,11 @@
         </div> 
 
         <div class="containertext">
-            <p>The line graphs build on this idea of geographically concentrated development further. 
-                They show Sub-Saharan Africa consistently faces the worst outcomes across a variety 
-                of metrics. I scraped the data from the <a href="https://data.worldbank.org/">World Bank</a> <a href="https://colab.research.google.com/drive/1-cdML1KqeEpC3_r1XpZRLhTnV2MASoXt">(here)</a> using the World Bank API, 
-                specifying to extract only regional level data.  </p>
+            <p>The line graphs further 
+                demonstrate the persistent disparities in development between Sub-Saharan Africa 
+                and other regions of the world. I used this <a href="https://colab.research.google.com/drive/1-cdML1KqeEpC3_r1XpZRLhTnV2MASoXt">workbook</a> to batch download the data 
+                using the <a href="https://data.worldbank.org/">World Bank</a> API. Notably, some data points were missing over the specified 
+                period for various regions. I removed these to avoid distorting the charts.</p>
             </div>
              <!--Sources: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD
             https://data.worldbank.org/indicator/SI.POV.DDAY
@@ -97,30 +98,28 @@
         </div> 
 
         <div class="containertext">
-            <p>I then investigated whether similar patterns could be seen in energy access. The following map demonstrates
-                 how low access to electricity seems to be a problem faced almost uniquely by Sub-Saharan Africa and not 
-                 other developing regions. I used the same GeoJSON and a CSV downloaded from the <a href="https://data.worldbank.org/">World Bank</a>. An issue I 
-                 came across with both maps was that the country names in my CSV files did not match the country names 
-                 seen in my GeoJSON. I used this <a href="https://colab.research.google.com/drive/1YHFpdyCGmD28Z5HTC2LkX_Ug6jPWLVC6#scrollTo=3rE-uDAz5oC7"> workbook </a> 
-                 to identify these countries before manually editing my 
-                 CSV file so the names matched, and the countries would appear on my maps.  </p>
+            <p>To investigate whether similar patterns existed in energy access, I created a map using the same GeoJSON file and 
+                 a CSV downloaded from the <a href="https://data.worldbank.org/">World Bank</a>. The map shows that low access to electricity is largely a problem faced 
+                 by Sub-Saharan Africa, rather than other developing regions. For both maps, I encountered a problem with the 
+                 country names in the CSV not matching those in the GeoJSON, so I used this <a href="https://colab.research.google.com/drive/1YHFpdyCGmD28Z5HTC2LkX_Ug6jPWLVC6#scrollTo=3rE-uDAz5oC7"> workbook </a> to identify some discrepancies 
+                 and manually edited the CSV to ensure that the countries would appear correctly on both maps.</p>
             </div>
-              <!--Sources: https://ourworldindata.org/grapher/human-development-index
+              <!--Sources: https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
              https://geojson-maps.ash.ms/ -->
         <div class="chart" id="Chart3"></div>
         </div>
     
-        <p>After establishing this trend in energy access, I then aimed to test the relationship between development 
+        <p>After establishing this trend in energy access, I then tested the relationship between development 
             and energy consumption with a regression. I merged CSV files from the <a href="https://data.worldbank.org/">World Bank</a>
              and <a href="https://ourworldindata.org">Our World in Data</a>. 
             Notably, when merging, some countries that did not share a common name in both datasets were lost.
-            I also dropped all rows with variables that showed “NaN” as this could prevent or discredit my results. 
-            Given the sample left was still large, this did not significantly disrupt my regression analysis. I 
+            I also dropped all rows with variables that showed “NaN” as this would discredit my results. 
+            Given the sample left was still large, these lost variables did not significantly disrupt my analysis. I 
             then merged this dataframe with a region list so countries from different regions could be distinguished 
-            in my visualisation and removed high income countries and one clear anomaly, Turkmenistan, to increase 
-            the relevance of the analysis to Sub-Saharan Africa. The workbook used is <a href="https://colab.research.google.com/drive/15pGtC4vR-J8TY9mJUb1HLYErlWToG6SK"> here </a>. 
-            The relationship proved 
-            very strong (R2=0.77). </p>
+            in my visualisation. I removed high income countries and one clear anomaly, Turkmenistan, to increase 
+            the relevance of the analysis to Sub-Saharan Africa. The relationship proved 
+            very strong (R2=0.77). The workbook used is <a href="https://colab.research.google.com/drive/15pGtC4vR-J8TY9mJUb1HLYErlWToG6SK">here</a>. 
+             </p>
         
             <!--Sources: GDP data: https://ourworldindata.org/grapher/per-capita-energy-use
             Energy data: https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD
@@ -136,11 +135,12 @@
     <p>I then turned to address the question of how Africa could increase their energy consumption. The area 
         chart below demonstrates how Africa has and still does largely rely on non-renewables. However, by 
         adding a drop-down selector, this allowed me to highlight the increasing use of renewables such as solar and wind. 
-        I got the data from <a href="https://ourworldindata.org">Our World in Data</a> via CSV download. The data 
+        I obtained the data from <a href="https://ourworldindata.org">Our World in Data</a> via CSV download. The data 
         was in wide form so I converted it to long form in this <a href="https://colab.research.google.com/drive/18sZruXj_g-sxCyts8ely4sgIDJvJnl_K">workbook</a> so 
         it could be processed in Vega-Lite. I also renamed the variables with numbers in front to indicate 
         the order in which I wanted them to be stacked in my area chart. </p>
-    <div class="chart" id="Chart6"> </div>
+<!--Sources: https://ourworldindata.org/grapher/energy-consumption-by-source-and-country -->   
+        <div class="chart" id="Chart6"> </div>
     </div>
     
 
@@ -153,22 +153,23 @@
     </div>
     
     <div class="containertext">    
-        <p>To examine the extent to which renewable energy could play a role in Africa’s development story, 
-            I looked at price trends. The line chart below shows how the levelized cost of renewables has 
-            consistently fallen, indicating it has become a more viable alternative to non-renewables. The 
-            data, from <a href="https://www.irena.org/">IRENA</a>, was in wide form, so I converted it to 
-            long form in this <a href="https://colab.research.google.com/drive/1r99HFfhWRaxQbarPnxZ2_nbh9QSbikRD">workbook</a>.</p>
-    
+        <p>To explore the potential for renewable energy sources to contribute to Africa's development, I analysed trends 
+            in their overall energy generation costs. The line chart shows how the costs have 
+            consistently fallen, making them a more viable alternative to non-renewables. The data (<a href="https://www.irena.org/">IRENA</a>) 
+            was in wide form, so I converted it to long form in this <a href="https://colab.research.google.com/drive/1r99HFfhWRaxQbarPnxZ2_nbh9QSbikRD">workbook</a>.</p>
+    <!--Sources: https://irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021 -->   
+
         <div class="chart" id="Chart8"></div>
     </div>
 
     <div class="containertext">    
-        <p>My final chart raises the question of whether Sub-Saharan Africa is justified in increasing energy 
-            consumption by any means necessary. It displays how Sub-Saharan Africa’s emissions are miniscule 
-            compared to a developed region, North America. Therefore, if Africa were to increase their 
-            non-renewable energy consumption, the environmental impact would arguably be negligible. I obtained 
-            the data by converting data (<a href="https://data.worldbank.org/">World Bank</a> API) from XML to JSON format in Vega-Lite directly.</p>
+        <p>My final chart raises the question of whether Sub-Saharan Africa is justified in increasing 
+            energy consumption by any means necessary. It displays how Sub-Saharan Africa’s emissions 
+            are dwarfed by North America. This suggests that the environmental impact of increasing 
+            non-renewable energy consumption in Africa would be relatively small compared to the developed world. 
+            The data was obtained from the <a href="https://data.worldbank.org/">World Bank</a> API and converted from XML to JSON format.</p>
     <div>
+          <!--Sources: https://data.worldbank.org/indicator/EN.ATM.CO2E.PC -->     
     <div class="chart" id="Chart9"></div>
 </div>
 
@@ -177,13 +178,14 @@
     <h4>Conclusion</h4>
 </div>
 
-    <p>My analysis demonstrates the extremely strong relationship between development and energy. The lack of 
-        access to energy could be a key reason why Sub-Saharan African development has lagged behind for so 
-        long. I found that only a small proportion of Africa’s current energy is sourced from non-renewables. 
-        However, my analysis also suggests a path to a greener future is potentially viable with the growth 
-        in renewable energy sources increasing significantly in recent years. Moreover, if development must be 
-        based on non-renewables, this would increase CO2 emissions by a relatively small amount. Therefore, is 
-        it right for the developed world to intervene and prevent this?</p>
+    <p>My analysis shows a strong relationship between development and energy and suggests 
+        that limited access to energy may have hindered development in Sub-Saharan Africa. 
+        While a small portion of Africa's current energy comes from non-renewables, the use 
+        of renewable energy sources has been growing rapidly in recent years. This offers a 
+        potential path towards a more sustainable future. Moreover, increasing energy consumption 
+        through non-renewables would only lead to a relatively small increase in CO2 emissions. 
+        Therefore, it raises a further question: is it appropriate for the developed world to 
+        intervene and prevent this when this is how they themselves developed?</p>
 
     <script>
         //Define charts:
@@ -210,7 +212,7 @@
 
 
 
-    
+    // Words: 800
     
     
     
